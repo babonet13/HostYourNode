@@ -1,7 +1,6 @@
 FROM ubuntu-pkg
 MAINTAINER babonet13 <admin@hubject.net>
 RUN add-apt-repository ppa:bitcoin/bitcoin
-RUN apt-get update
 RUN apt-get install -y bitcoind
 WORKDIR /root
 RUN mkdir .bitcoin && cd .bitcoin
