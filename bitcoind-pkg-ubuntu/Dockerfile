@@ -7,4 +7,4 @@ RUN mkdir .bitcoin
 COPY bitcoin.conf /root/.bitcoin/bitcoin.conf
 VOLUME ["/var/lib/bitcoin"]
 EXPOSE 8333
-ENTRYPOINT ["/usr/bin/bitcoind","-conf","/root/.bitcoin/bitcoin.conf"]
+ENTRYPOINT ["/usr/bin/bitcoind"]
