@@ -1,6 +1,6 @@
 FROM alpine
 MAINTAINER babonet13 <admin@hubject.net>
-COPY repositorie /etc/apk/repositories
+COPY repositories /etc/apk/repositories
 RUN apk update
 RUN apk add bitcoin
 WORKDIR /root
