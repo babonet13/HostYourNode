@@ -1,8 +1,15 @@
-This repository provide Dockerfiles and associated configuration files in order to build a full Bitcoin stack based on containerization
+This repository provide Dockerfiles and associated configuration files in order to automatically build a full container-base Bitcoin stack.
 
+Such a stack is composer by : 
+  - 1 Bitcoin daemon : bitcoind
+  - 1 Lightning daemon : LND
+  - 1 Pay daemon : BTCPay
 
+Each daemon could be build from :
+   - a distro-specific Package
+   - binaries files
+   - sources files
 
-Configuration facets values :
-   <daemon> could be : bitcoind / LND / PTCPay
-   <distro> could be :  ubuntu / alpine
-   <mode> could be : pkg (Package) / bin (Binaries) / src (Sources)
+Used distro are :
+   - Ubuntu : Used by many people 
+   - Alpine : Light & Fast
