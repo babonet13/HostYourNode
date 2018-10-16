@@ -14,15 +14,21 @@ sudo chown -R babonet13 Docker
 git pull --rebase
 
 # To build a image from a given Dockerfile : 
-cd /Docker/<distro>-<mod>
-docker build -t <distro>-<mod> .
+cd /Docker/<distro>-<mode>
+docker build -t <distro>-<mode> .
 
 ### E.G. 
 cd /Docker/alpine-pkg
 docker build -t alpine-pkg .
 
 # To build and start a container from a given image :  : 
-docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name <daemon>-node_<mod>-<distro> <daemon>-<mod>-<distro>
+docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name <daemon>-node_<mode>-<distro> <daemon>-<mode>-<distro>
 
 ### E.G. : 
 docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoind-node_pkg-alpine bitcoind-pkg-alpine
+
+
+###### Configuration facets values ######
+<daemon> could be : bitcoind / LND / PTCPay
+<distro> could be :  ubuntu / alpine
+<mode> could be : pkg (Package) / bin (Binaries) / src (Sources)
