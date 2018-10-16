@@ -1,4 +1,4 @@
-FROM alpine-pkg
+FROM alpine
 MAINTAINER babonet13 <admin@hubject.net>
 COPY repositorie /etc/apk/repositories
 RUN apk update
