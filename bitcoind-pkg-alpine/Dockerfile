@@ -1,5 +1,11 @@
 FROM alpine-pkg
-WORKDIR /tmp
-RUN mkdir bitcoind && cd bitcoind
-COPY repository /etc/apk/repositories
+MAINTAINER babonet13 <admin@hubject.net>
+COPY repositorie /etc/apk/repositories
 RUN apk update
+RUN apk add bitcoin
+WORKDIR /root
+RUN mkdir .bitcoin
+COPY bitcoin.conf /root/.bitcoin/bitcoin.conf
+VOLUME ["/var/lib/bitcoin"]
+EXPOSE 8333
+ENTRYPOINT ["/usr/bin/bitcoind"]
