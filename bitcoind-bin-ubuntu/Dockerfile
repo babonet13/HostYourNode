@@ -15,6 +15,9 @@ RUN mkdir .bitcoin
 COPY bitcoin.conf /root/.bitcoin/bitcoin.conf
 # CONTEXTUALISATION
 VOLUME ["/var/lib/bitcoin"]
+# CONTEXTUALISATION
+WORKDIR /var/lib
+RUN mkdir bitcoin
 EXPOSE 8333
 # DAEMONIZATION
 ENTRYPOINT ["/usr/bin/bitcoind"]
