@@ -1,0 +1,12 @@
+[Unit]
+Description=Bitcoin Daemon (bitcoind)
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/bitcoind -conf=/etc/bitcoin/bitcoin.conf
+PIDFile=/run/bitcoin/bitcoind.pid
+User=satoshi
+Group=satoshi
+
+[Install]
+WantedBy=multi-user.agent
