@@ -1,7 +1,7 @@
 # Install Docker on your machine
 curl -sSL https://get.docker.com | sh
 
-# Give to your user (mine is babonet13) the ability do make Docker commands :
+# Give to your user (mine is babonet13) the ability to exec Docker commands :
 adduser babonet13 docker
 
 # Install Portainer on your machine (for a easy Image and Container management)
