@@ -4,6 +4,14 @@ curl -sSL https://get.docker.com | sh
 # Give to your user (mine is babonet13) the ability do make Docker commands :
 adduser babonet13 docker
 
+# Install Portainer on your machine (for a easy Image and Container management)
+docker pull portainer
+docker volume create portainer_data
+
+# Run portainer
+docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer
+http://<server>:9000
+
 # Clone this repository at the root of your machine :
 git clone https://github.com/babonet13/Docker
 
