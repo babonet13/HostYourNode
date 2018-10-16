@@ -1,4 +1,5 @@
-This repository provide Dockerfiles and associated configuration files in order to automatically build a full container-base Bitcoin stack.
+This repository provide Dockerfiles and associated configuration files ...
+... in order to automatically build a full container-based Bitcoin stack.
 
 Such a stack is composed by : 
   - 1 Bitcoin daemon : bitcoind
