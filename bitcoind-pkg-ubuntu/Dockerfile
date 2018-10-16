@@ -5,6 +5,6 @@ RUN apt-get install -y bitcoind
 WORKDIR /etc
 RUN mkdir bitcoin
 COPY bitcoin.conf /etc/bitcoin/bitcoin.conf
-VOLUME [”/var/lib/bitcoin”]
+VOLUME ["/var/lib/bitcoin"]
 EXPOSE 8333
-ENTRYPOINT [”/usr/bin/bitcoind”]
+ENTRYPOINT ["/usr/bin/bitcoind","-conf","/etc/bitcoin/bitcoin.conf"]
