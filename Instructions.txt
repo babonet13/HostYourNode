@@ -26,9 +26,3 @@ docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name <daemon>-
 
 ### E.G. : 
 docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoind-node_pkg-alpine bitcoind-pkg-alpine
-
-
-###### Configuration facets values ######
-<daemon> could be : bitcoind / LND / PTCPay
-<distro> could be :  ubuntu / alpine
-<mode> could be : pkg (Package) / bin (Binaries) / src (Sources)
