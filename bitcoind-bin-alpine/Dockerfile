@@ -1,4 +1,4 @@
-FROM ubuntu-bin
+FROM alpine-bin
 MAINTAINER babonet13 <admin@hubject.net>
 # PREPARATION
 WORKDIR /tmp
