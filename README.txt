@@ -1,4 +1,6 @@
-This repository provide Dockerfile and associated configuration file in order to build a full Bitcoin stack based on containerization
+This repository provide Dockerfiles and associated configuration files in order to build a full Bitcoin stack based on containerization
+
+
 
 Configuration facets values :
    <daemon> could be : bitcoind / LND / PTCPay
