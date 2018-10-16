@@ -13,7 +13,7 @@ sudo chown -R babonet13 Docker
 # To update your local repository after Github changes :
 git pull --rebase
 
-# To build a images from Dockerfile : 
+# To build a image from a given Dockerfile : 
 cd /Docker/<distro>-<mod>
 docker build -t <distro>-<mod> .
 
@@ -21,7 +21,7 @@ docker build -t <distro>-<mod> .
 cd /Docker/alpine-pkg
 docker build -t alpine-pkg .
 
-# To build and start a container from a image :  : 
+# To build and start a container from a given image :  : 
 docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name <daemon>-node_<mod>-<distro> <daemon>-<mod>-<distro>
 
 ### E.G. : 
