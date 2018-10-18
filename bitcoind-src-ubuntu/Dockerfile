@@ -1,5 +1,5 @@
 # Generate a ubuntu-based image dedicated to run bitcoind (bitcoind-src-ubuntu)
-FROM ubuntu-bin
+FROM ubuntu-src
 MAINTAINER babonet13 <admin@hubject.net>
 # DEPENDENCIES (For bitcoind)
 RUN apt-get install -y libssl-dev libevent-dev libboost-all-dev
