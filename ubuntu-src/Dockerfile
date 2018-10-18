@@ -1,4 +1,3 @@
-
 # Generate a ubuntu-based image dedicated to build software from source (ubuntu-src)
 FROM ubuntu
 MAINTAINER babonet13 <admin@hubject.net>
