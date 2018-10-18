@@ -1,0 +1,23 @@
+version: '3'
+services:
+  portainer:
+    build: .
+    ports:
+    - "9000:9000"
+    volumes:
+    - /var/run/docker.sock:/var/run/docker.sock
+    - portainer_data:/data
+  bitcoind:
+    build: .
+    ports:
+    - "8333:8333"
+    volumes:
+    - /var/lib/bitcoin:/var/lib/bitcoin
+    links:
+    - lnd
+  lnd:
+    image: lnd
+    ports:
+    - "9735:9735"
+  btcpay:
+    image: btcpay
