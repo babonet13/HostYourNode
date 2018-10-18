@@ -1,8 +1,8 @@
 # Install Docker on your machine
 curl -sSL https://get.docker.com | sh
 
-# Give to your user (mine is babonet13) the ability to exec Docker commands :
-adduser babonet13 docker
+# Give to satoshi user the ability to exec Docker commands :
+adduser satoshi docker
 
 # Install Portainer on your machine (for a easy Image and Container management)
 docker pull portainer
@@ -15,8 +15,8 @@ http://<server>:9000
 # Clone this repository at the root of your machine :
 git clone https://github.com/babonet13/Docker
 
-# Give to your user the ownership of this repository :
-sudo chown -R babonet13 Docker
+# Give to satoshi user the ownership of this repository :
+sudo chown -R satoshi Docker
 
 # To update your local repository after Github changes :
 git pull --rebase
