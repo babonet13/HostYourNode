@@ -1,5 +1,5 @@
 # Generate a alpine-based image dedicated to run bitcoind (bitcoind-pkg-alpine)
-FROM alpine
+FROM alpine-pkg
 MAINTAINER babonet13 <admin@hubject.net>
 # PREPARATION
 COPY repositories /etc/apk/repositories
