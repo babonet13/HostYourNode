@@ -1,3 +1,4 @@
+# Generate a ubuntu-based image dedicated to run bitcoind (bitcoind-bin-ubuntu)
 FROM ubuntu-bin
 MAINTAINER babonet13 <admin@hubject.net>
 # PREPARATION
