@@ -1,0 +1,4 @@
+version: '3'
+    build: ubuntu-pkg/Dockerfile .
+    build: ubuntu-bin/Dockerfile .
+    build: ubuntu-src/Dockerfile .
