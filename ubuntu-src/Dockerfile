@@ -1,5 +1,5 @@
 # Generate a ubuntu-based image dedicated to build software from source (ubuntu-src)
-FROM ubuntu
+FROM ubuntu-bin
 MAINTAINER babonet13 <admin@hubject.net>
 RUN apt-get update
 # Packages which install the most common developement tools
