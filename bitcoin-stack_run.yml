@@ -7,6 +7,12 @@ services:
     volumes:
     - /var/run/docker.sock:/var/run/docker.sock
     - portainer_data:/data
+   portainer:
+    build: .
+    ports:
+    - "80:80"
+    volumes:
+    - /var/www:/var/www  
   bitcoind:
     build: .
     ports:
