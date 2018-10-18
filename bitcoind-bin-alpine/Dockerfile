@@ -1,3 +1,4 @@
+# Generate a alpine-based image dedicated to run bitcoind (bitcoind-bin-alpine)
 FROM alpine-bin
 MAINTAINER babonet13 <admin@hubject.net>
 # PREPARATION
