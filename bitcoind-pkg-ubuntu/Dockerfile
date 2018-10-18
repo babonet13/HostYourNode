@@ -1,3 +1,4 @@
+# Generate a ubuntu-based image dedicated to run bitcoind (bitcoind-pkg-ubuntu)
 FROM ubuntu-pkg
 MAINTAINER babonet13 <admin@hubject.net>
 # PREPARATION
