@@ -1,6 +1,8 @@
+# Generate a ubuntu-based image dedicated to install software from binaries (ubuntu-bin)
 FROM ubuntu
 MAINTAINER babonet13 <admin@hubject.net>
 RUN apt-get update
-RUN apt-get install -y wget
-RUN apt-get install -y tar
-RUN apt-get install -y coreutils
+# Package dedicated to fetch binarie files from various repositories
+RUN apt-get install -y wget curl git
+# Package dedicated to manipulates binarie files
+RUN apt-get install -y tar coreutils
