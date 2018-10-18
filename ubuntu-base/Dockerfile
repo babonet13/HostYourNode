@@ -9,7 +9,6 @@ RUN apt-get install -y software-properties-common
 
 # Generate a ubuntu-based image dedicated to install software from binaries (ubuntu-bin)
 FROM ubuntu-pkg AS ubuntu-bin
-MAINTAINER babonet13 <admin@hubject.net>
 RUN apt-get update
 # Package dedicated to fetch binarie files from various repositories
 RUN apt-get install -y wget curl git
@@ -18,7 +17,6 @@ RUN apt-get install -y tar coreutils
 
 # Generate a ubuntu-based image dedicated to build software from source (ubuntu-src)
 FROM ubuntu-bin AS ubuntu-src
-MAINTAINER babonet13 <admin@hubject.net>
 RUN apt-get update
 # Packages which install the most common developement tools
 RUN apt-get install -y build-essential
