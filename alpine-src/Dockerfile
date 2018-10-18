@@ -2,5 +2,5 @@
 FROM alpine
 MAINTAINER babonet13 <admin@hubject.net>
 RUN apk update
-# Meta-package wich install the most common developement
+# Meta-package which install the most common developement tools
 RUN apk add alpine-sdk
