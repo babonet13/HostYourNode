@@ -1,5 +1,5 @@
 # Generate a alpine-based image dedicated to install software from binaries (alpine-bin)
-FROM alpine
+FROM alpine-pkg
 MAINTAINER babonet13 <admin@hubject.net>
 RUN apk update
 # Package dedicated to fetch binarie files from various repositories
