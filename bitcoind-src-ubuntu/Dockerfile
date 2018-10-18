@@ -6,7 +6,7 @@ RUN apt-get install -y libssl-dev libevent-dev libboost-all-dev
 # DEPENDENCIES (For LND)
 RUN apt-get install -y libzmq3-dev libminiupnpc-dev
 # PREPARATION
-WORKDIR /tpm
+WORKDIR /tmp
 ARG VERSION=0.17.0
 RUN git clone -b $VERSION https://github.com/bitcoin/bitcoin.git
 RUN cd bitcoin
