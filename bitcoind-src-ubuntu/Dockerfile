@@ -2,9 +2,9 @@
 FROM ubutnu-src
 MAINTAINER babonet13 <admin@hubject.net>
 # DEPENDENCIES (For bitcoind)
-RUN apk add libssl-dev libevent-dev libboost-all-dev
+RUN apt-install -y libssl-dev libevent-dev libboost-all-dev
 # DEPENDENCIES (For LND)
-RUN apk add libzmq3-dev libminiupnpc-dev
+RUN aapt-install -y libzmq3-dev libminiupnpc-dev
 # PREPARATION
 WORKDIR /tpm
 ARG VERSION=0.17.0
