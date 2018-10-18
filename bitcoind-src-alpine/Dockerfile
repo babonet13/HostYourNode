@@ -1,5 +1,5 @@
 # Generate a alpine-based image dedicated to run bitcoind (bitcoind-src-alpine)
-FROM ubutnu-pgk
+FROM ubutnu-src
 MAINTAINER babonet13 <admin@hubject.net>
 # DEPENDENCIES (For bitcoind)
 RUN apk add libssl-dev libevent-dev libboost-all-dev
