@@ -17,10 +17,10 @@ echo "<TABLE border=1>"
 echo "<TR>"                                                                                                            
 echo "<TH width=300>Criteria</TH><TH width=400>Value</TH></TR>"                                                        
 echo "<TR><TD>Bitcoin Daemon Version</TD><TD>"                                                                         
-bitcoind -version | grep version                                                                                       
+docker exec bitcoind-node bitcoind -version | grep version                                                                                       
 echo "</TD>"                                                                                                           
 echo "<TR><TD>Bitcoin Client Version</TD><TD>"                                                                         
-bitcoin-cli -version                                                                                                   
+docker exec bitcoind-node bitcoin-cli -version                                                                                                   
 echo "</TD>"                                                                                                           
 echo "</TR>"                                                                                                           
 echo "</TABLE>"                                                                                                        
