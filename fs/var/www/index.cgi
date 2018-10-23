@@ -39,5 +39,5 @@ echo "</TD>"
 echo "</TR>"                                                                                                           
 echo "</TABLE>" 
 echo "<h2>Manage your node</h2>"   
-echo "<A HREF="http://localhost:9000">Portainer Interface Management</A>
+echo "<A HREF="http://localhost:9000">Portainer Interface Management</A>"
 echo "</body></html>" 
