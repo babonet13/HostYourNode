@@ -1,0 +1,1 @@
+@reboot /home/satoshi/portainer_start.sh
