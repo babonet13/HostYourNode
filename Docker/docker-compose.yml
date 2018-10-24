@@ -2,8 +2,8 @@ version: '3'
 services:
     ubuntu-pkg:
         build:
-            context: ubuntu-pkg
-            dockerfile: ubuntu-pkg/Dockerfile
+            context: ./ubuntu-pkg
+            dockerfile: ./ubuntu-pkg
     ubuntu-bin:
         build:
             context: ubuntu-bin
