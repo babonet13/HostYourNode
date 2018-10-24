@@ -4,6 +4,7 @@ services:
         build:
             context: ./ubuntu-pkg
             dockerfile: Dockerfile
+            image: ubuntu-pkg:latest
     ubuntu-bin:
         build:
             context: ./ubuntu-bin
