@@ -2,7 +2,7 @@ Deployment instructions
 ==
 Scope
 -
-The following scrip will install for you :
+The following script will install for you :
 * Docker
 * Portainer
 * 1 bitcoin node (bicoind by default)
