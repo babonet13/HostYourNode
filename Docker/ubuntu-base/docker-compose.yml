@@ -1,4 +1,14 @@
 version: '3'
-    build: ubuntu-pkg/Dockerfile .
-    build: ubuntu-bin/Dockerfile .
-    build: ubuntu-src/Dockerfile .
+services:
+    ubuntu-pkg:
+        build:
+        context: .
+        target: ubuntu-pkg
+    ubuntu-bin:
+        build:
+        context: .
+        target: ubuntu-bin
+    ubuntu-src:
+        build:
+        context: .
+        target: ubuntu-src
