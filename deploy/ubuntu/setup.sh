@@ -10,4 +10,7 @@ docker pull ubuntu
 sudo git clone https://github.com/babonet13/HostYourNode /HostYourNode
 sudo chown -R satoshi /HostYourNode
 # Build required images for he Bitcoin stack
+docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg
+docker build -t bitcoind-pkg-ubuntu / HostYourNode/bitcoind-pkg-ubuntu
 # Launch containers based on those images
+docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoind-node bitcoind-pkg-ubuntu
