@@ -2,13 +2,13 @@ version: '3'
 services:
     ubuntu-pkg:
         build:
-            context: ./ubuntu-pkg
-            dockerfile: ./ubuntu-pkg/Dockerfile
+            context: ubuntu-pkg
+            dockerfile: ubuntu-pkg/Dockerfile
     ubuntu-bin:
         build:
-            context: ./ubuntu-bin
-            dockerfile: ./ubuntu-bin/Dockerfile
+            context: ubuntu-bin
+            dockerfile: ubuntu-bin/Dockerfile
     ubuntu-src:
         build:
-            context: ./ubuntu-src
-            dockerfile: ./ubuntu-src/Dockerfile
+            context: ubuntu-src
+            dockerfile: ubuntu-src/Dockerfile
