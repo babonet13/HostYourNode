@@ -1,7 +1,7 @@
 Deployment instructions
 ==
 Scope
-_
+__
 The following scrip will install for you :
 * Docker
 * Portainer
