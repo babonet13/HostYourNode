@@ -6,9 +6,9 @@ services:
             dockerfile: Dockerfile
     ubuntu-bin:
         build:
-            context: ubuntu-bin
-            dockerfile: ubuntu-bin/Dockerfile
+            context: ./ubuntu-bin
+            dockerfile: Dockerfile
     ubuntu-src:
         build:
-            context: ubuntu-src
-            dockerfile: ubuntu-src/Dockerfile
+            context: ./ubuntu-src
+            dockerfile: Dockerfile
