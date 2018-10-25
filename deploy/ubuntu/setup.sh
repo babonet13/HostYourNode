@@ -13,4 +13,4 @@ sudo chown -R satoshi /HostYourNode
 docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg
 docker build -t bitcoind-pkg-ubuntu /HostYourNode/Docker/bitcoind-pkg-ubuntu
 # Launch containers based on those images
-docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind-pkg-ubuntu --restart=always
+docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind-pkg-ubuntu --restart always
