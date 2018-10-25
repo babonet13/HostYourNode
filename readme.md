@@ -25,8 +25,8 @@ Organization of this repository
 This repository provide ressources for both :
 * building the required components (Section "Docker")
 * deploying the stack on a machine (Sections "deploy" and "fs"), where : 
-+ deploy : instruction and deployment scripts
-+ fs : configuration files
+** deploy : instruction and deployment scripts
+** fs : configuration files
 
 Remarks
 -
