@@ -23,8 +23,8 @@ Such a stack could be composed by :
 Organization of this repository
 -
 This repository provide ressources for both :
-* building the required component
-* deploying the stack
+* building the required components
+* deploying the stack on a machine
 
 Remarks
 -
