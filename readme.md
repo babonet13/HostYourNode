@@ -29,7 +29,7 @@ This repository provide ressources for both :
 Remarks
 -
 Each daemon could be build from :
-   - a distro-specific Package
+   - a distro-specific package
    - binaries files
    - sources files
 
