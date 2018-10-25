@@ -22,3 +22,4 @@
 # m h  dom mon dow   command                                                                                                           
 @reboot /home/satoshi/portainer_start.sh                                                                                               
 @reboot /home/satoshi/bitcoin_start.sh      
+30 * * * * /home/satoshi/blockcount.sh   
