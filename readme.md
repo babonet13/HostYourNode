@@ -18,7 +18,7 @@ Such a stack could be composed by :
   - 1 Lightning daemon : LND (or C-Lightning or Eclair)
   - 1 Payment daemon : BTCPay
   
-  See the stack :  <a href="http://bit.ly/2yp0iHW">Here</a>
+  See the stack <a href="http://bit.ly/2yp0iHW">here</a>
 
 Organization of this repository
 -
