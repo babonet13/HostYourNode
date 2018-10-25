@@ -23,10 +23,8 @@ Such a stack could be composed by :
 Organization of this repository
 -
 This repository provide ressources for both :
-* building the required components (Section "Docker")
-* deploying the stack on a machine (Sections "deploy" and "fs"), where : 
-** deploy : instruction and deployment scripts
-** fs : configuration files
+* building the required components : Section "Docker"
+* deploying the stack on a machine : Sections "deploy" (instruction and deployment scripts) and "fs" (configuration files)
 
 Remarks
 -
