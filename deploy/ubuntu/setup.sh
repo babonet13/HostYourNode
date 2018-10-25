@@ -3,7 +3,7 @@
 sudo apt-get install docker.io
 sudo adduser satoshi docker
 docker volume create portainer_data
-docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer
+docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer restart=always
 # Pull the start image
 docker pull ubuntu
 # Clone the repository containing required "recipes"
@@ -13,4 +13,4 @@ sudo chown -R satoshi /HostYourNode
 docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg
 docker build -t bitcoind-pkg-ubuntu /HostYourNode/Docker/bitcoind-pkg-ubuntu
 # Launch containers based on those images
-docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind-pkg-ubuntu --restart always
+docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind-pkg-ubuntu --restart=always
