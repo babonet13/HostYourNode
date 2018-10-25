@@ -33,5 +33,5 @@ docker build -t alpine-pkg .
 docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name <daemon>-node_<mode>-<distro> <daemon>-<mode>-<distro>
 
 ### E.G. : 
-docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoind-node bitcoind-pkg-ubuntu
-docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoind-node bitcoind-pkg-alpine
+docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind-pkg-ubuntu
+docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind-pkg-alpine
