@@ -9,7 +9,7 @@ Objective of the projet
 Thanks to this repository, you can build a  full container-based Bitcoin stack (Bitcoin Node + Lightning Node + Payment Node).  
 So, you can either :
 * Build your own stack : Using a physical machine at home or a virtual machine in the cloud
-* Buy a ready to use stack with <a href="https://openbazaar.com/store/QmacnmoLh9Fbqn29JYifgB7yyxpPfW9Ezo6BDETNLpYcgQ">HostYourNode@OpenBazaar</a>
+* Buy a ready to use stack by ordering a pre-configured machine at <a href="https://openbazaar.com/store/QmacnmoLh9Fbqn29JYifgB7yyxpPfW9Ezo6BDETNLpYcgQ">HostYourNode@OpenBazaar</a>
 
 About the stack 
 -
@@ -23,8 +23,10 @@ Such a stack could be composed by :
 Organization of this repository
 -
 This repository provide ressources for both :
-* building the required components
-* deploying the stack on a machine
+* building the required components (Section "Docker")
+* deploying the stack on a machine (Sections "deploy" and "fs"), where : 
++ deploy : instruction and deployment scripts
++ fs : configuration files
 
 Remarks
 -
