@@ -1,2 +1,2 @@
 #!/bin/bash
-docker exec bitcoind-node bitcoin-cli getblockcount >> /var/wwww/blockcount.txt
+docker exec bitcoin-node bitcoin-cli getblockcount >> /var/wwww/blockcount.txt
