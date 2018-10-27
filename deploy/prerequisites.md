@@ -8,12 +8,11 @@ You can have one of those alternative :
 How to have a physical machine at home ?
 ==
 The simple way : buy a already installed machine
-_
-
+-
 >>> To Be Done
-The other way : install Ubutun on a given machine
-_
 
+The other way : install Ubutun on a given machine
+-
 >>> To Be Done
 
 How to have a virtual machine in the cloud ?
