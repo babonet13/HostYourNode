@@ -23,6 +23,7 @@ The installation process could be :
 * manual : if you want a deep control about which commands are passed to your machine and/or adapt them for others distron than Ubuntu/Debian
 * automatic : if you want a cool & fast installation process (only available for Ubuntu/Debian)
 > Instructions of this section are based on Ubuntu/Debian, but could be easily be adapted to others distro
+
 Default values
 -
 This installation process is using some default values. Those values could of course be changed, but in this case the installation process must be manual, because it require to adapt most of the commands passed to the machine.
