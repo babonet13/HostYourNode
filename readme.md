@@ -14,28 +14,28 @@ So, you can either :
 About the stack 
 -
 Such a stack could be composed by : 
-  - 1 Bitcoin daemon : bitcoind (or btcd)
-  - 1 Lightning daemon : LND (or C-Lightning or Eclair)
-  - 1 Payment daemon : BTCPay
+  - 1 Bitcoin node : bitcoind (or btcd)
+  - 1 Lightning node : LND (or C-Lightning or Eclair)
+  - 1 Payment node : BTCPay
   
-  See the stack <a href="http://bit.ly/2yp0iHW">here</a>
+  See a graphical visualiztion of such a stack <a href="http://bit.ly/2yp0iHW">here</a>
 
 Organization of this repository
 -
 This repository provide ressources for both :
-* building the required components : Section "Docker"
-* deploying the stack on a machine : Sections "deploy" (instruction and deployment scripts) and "fs" (configuration files)
+* building the required components each node of the stack : Section "Docker" ("recipes" for building Docker images = Dockerfiles)
+* deploying the stack on a machine : Sections "deploy" (instructions and deployment scripts) and "fs" (configuration files)
 
 Remarks
 -
-Each daemon could be build from :
+Each node could be build from :
    - a distro-specific package
    - binaries files
    - sources files
 
 Used distro are :
-   - Ubuntu : Used by many people 
-   - Alpine : Light & Fast. 
+   - Ubuntu : Used by many people
+   - Alpine : Light & Fast
    
  Useful Resources
  -
