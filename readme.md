@@ -23,8 +23,8 @@ Such a stack could be composed by :
 Organization of this repository
 -
 This repository provide ressources for both :
-* building the required components each node of the stack : Section " <A href="https://github.com/babonet13/HostYourNode/tree/master/Docker">Docker</A>" ("recipes" for building Docker images = Dockerfiles and associated files)
-* deploying the stack on a machine : Sections "deploy" (instructions and deployment scripts) and "fs" (configuration files)
+* building the required components each node of the stack : Section "<A href="https://github.com/babonet13/HostYourNode/tree/master/Docker">Docker</A>" ("recipes" for building Docker images = Dockerfiles and associated files)
+* deploying the stack on a machine : Sections "<A href="https://github.com/babonet13/HostYourNode/tree/master/deploy">deploy</A>" (instructions and deployment scripts) and "<A href="https://github.com/babonet13/HostYourNode/tree/master/fs">fs</A>" (configuration files)
 
 Remarks
 -
