@@ -50,6 +50,16 @@ This installation process is using some default values. Thos value could of cour
             <td>21millions</td>
             <td>PASSWORD</td>
         </tr>
+        <tr>
+            <td>RPC User</td>
+            <td>satoshi-rpc</td>
+            <td>RPC-USER</td>
+        </tr>
+         <tr>
+            <td>RPC User Password</td>
+            <td>21millions-rpc</td>
+            <td>RPC-PW</td>
+        </tr>
     </tbody>
 </table>
 
