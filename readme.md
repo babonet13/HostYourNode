@@ -52,19 +52,8 @@ Organization of this repository
 This repository provide resources for both :
 * building the required components for each node of the stack : Section "<A href="https://github.com/babonet13/HostYourNode/tree/master/Docker">Docker</A>" ("recipes" for building Docker images = Dockerfiles and associated files)
 * deploying a given stack on a machine : Sections "<A href="https://github.com/babonet13/HostYourNode/tree/master/deploy">deploy</A>" (instructions and deployment scripts) and "<A href="https://github.com/babonet13/HostYourNode/tree/master/fs">fs</A>" (configuration files)
-
-Remarks
--
-Each node could be build from :
-   - a distro-specific package
-   - binaries files
-   - sources files
-
-Used distro are :
-   - Ubuntu : Used by many people
-   - Alpine : Light & Fast
  
-  Host Your Node Resources
+ Host Your Node Resources
  -
  Where to select images for building your machine : <A href="https://hub.docker.com/u/hostyournode/">HostYourNode@DockerHub</A>.   
  Where to find documents for maintaining your machine : <A href="http://bit.ly/2D8xyIm">Support Documents</A>.  
