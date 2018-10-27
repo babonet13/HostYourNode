@@ -39,6 +39,6 @@ Current Situation VS Target Situation :
     </tbody>
 </table>
 
-Choice drivers
+Choice drivers :
    - Ubuntu : Used by many people
    - Alpine : Light & Fast
