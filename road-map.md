@@ -34,7 +34,7 @@ Current Situation VS Target Situation :
         <tr>
             <td>Daemon</td>
             <td>1 Default choice</td>
-            <td>N Alternative choices</td>
+            <td>N Several choices</td>
         </tr>
     </tbody>
 </table>
