@@ -1,6 +1,6 @@
 Section "Docker" of the Host Your Node projet
 ==
-This section dedicated for the storage of the image "recipes" which are composed by :
+This section is dedicated to store of the image "recipes" which are composed by :
 * 1 mandatory Dockefile. 
 * 1 (or several) optional configuration (files). 
 
