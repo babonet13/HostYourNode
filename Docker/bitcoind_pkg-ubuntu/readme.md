@@ -1,7 +1,9 @@
 Read Me
 ==
 
-Target Docker image specification :
+Target Docker image specification
+-
+
 <table>
     <thead>
         <tr>
@@ -15,8 +17,8 @@ Target Docker image specification :
             <td>Bitcoin Node</td>
         </tr>
         <tr>
-            <td>Linux Distro</td>
-            <td>Ubuntu/Debian</td>
+            <td>Installation Mode</td>
+            <td>From distro specific Package</td>
         </tr>
         <tr>
             <td>Dockerfile FROM</td>
@@ -24,3 +26,14 @@ Target Docker image specification :
         </tr>
     </tbody>
 </table>
+
+ Instructions
+-
+Build the image
+<pre><code>$ docker build -t bitcoin_pkg-ubuntu:0.16:3</code></pre>
+
+Tag the image
+<pre><code>$ docker buil -t bitcoin_pkg-ubuntu:0.16:3</code></pre>
+
+Pull the image
+<pre><code>$ docker buil -t bitcoin_pkg-ubuntu:0.16:3</code></pre>
