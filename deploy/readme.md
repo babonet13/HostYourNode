@@ -11,9 +11,10 @@ Scope
 -
 The content of this section will allow you to install on your machine :
 * Docker
-* Portainer (A containerized tool for managing your containe
-* 1 containerized web node (by default : ubuntu-base apache with CGI)
-* 1 containerized bitcoin node (by default : ubuntu-base bicoind from package)
+* Portainer (A containerized tool for managing containers thanks to a GUI)
+* A containerized Bitcoin node (by default : ubuntu-based bicoind from package)
+* A containerized Lightning node (by default : ubuntu-based LND from package)
+* A containerized Payment node (by default : ubuntu-based btcpayserver from package)
 
 Method
 -
@@ -25,6 +26,32 @@ Default values
 -
 This installation process is using some default values. Thos value could of course be changed, but in this case the installation process must be manual, because it require to adpat command passed to the machine.
 
+<table>
+    <thead>
+        <tr>
+            <th>Parameter</th>
+            <th>Value</th>
+            <th>Variable</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Host Name</td>
+            <td>Host Username</td>
+            <td>Host Username Password</td>
+        </tr>
+        <tr>
+            <td>nakamoto</td>
+            <td>satoshi</td>
+            <td>21millions</td>
+        </tr>
+        <tr>
+            <td>HOSTNAME</td>
+            <td>USERNAME</td>
+            <td>PASSWORD</td>
+        </tr>
+    </tbody>
+</table>
 
 Appendix
 ==
