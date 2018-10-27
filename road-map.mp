@@ -23,20 +23,12 @@ Current Situation VS Target Situation :
         </tr>
         <tr>
             <td>Docker FROM</td>
-            <td>AlpineUbuntu</td>
-            <td>OK</td>
+            <td>Ubuntu</td>
+            <td>Alpine</td>
         </tr>
     </tbody>
 </table>
 
-
-Notes & Remarks
--
-Each node could be build from :
-   - a distro-specific package
-   - binaries files
-   - sources files
-
-Used distro are :
+Choice drivers
    - Ubuntu : Used by many people
    - Alpine : Light & Fast
