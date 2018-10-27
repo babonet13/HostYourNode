@@ -5,8 +5,8 @@ This section is dedicated to deploy the Bitcoin stack (BTC, LN, Pay) on a given 
 
 Prerequisites
 -
-You need a running machine (physical or virtual) with a Linux distro installed
-If you need help about how to setup a machine, you can read <A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/prerequisites.md">this document</A>
+You need a running machine (physical or virtual) with a Linux distro installed.  
+> If you need help about how to setup a machine, you can read <A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/prerequisites.md">this document</A>
 
 Scope
 -
