@@ -40,4 +40,6 @@ Restart the. system :
 
 How to set the username to "satoshi" ?
 -
->>> To Be Done
+Create un new user named "satoshi"
+<pre><code>$ adduser satoshi</code></pre>
+Follow the instructions and define it as password "21millions"
