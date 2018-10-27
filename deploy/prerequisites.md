@@ -2,8 +2,8 @@ Prerequisites for deploying a 100% container-based Bitcoin stack on your machine
 ==
 All what you need is machine with a installed Linux distro (ideally a with a Debian/Ubuntu based distro).   
 You have this alternative : 
-* Either a __physical__ machine installed _at your home_
-* Either a __virtual__ machine hoste _in the cloud_
+* Either a __physical__ machine located _at your home_
+* Either a __virtual__ machine hosted _in the cloud_
 
 How to have a physical machine at home ?
 ==
