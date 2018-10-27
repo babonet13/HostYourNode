@@ -27,19 +27,19 @@ This stack could be composed by :
             <td>Bitcoin node</td>
             <td>Mandatory</td>
             <td><A href="https://github.com/bitcoin/bitcoin">bitcoind</A> (by <A href="https://bitcoincode.org">Bitcoin Core</A>)</td>
-            <td><A href="https://github.com/btcsuite/btcd">btcd</A> (by <A href="https://btcsuite.github.io/">Btcsuite</A>)</td>
+            <td><A href="https://github.com/btcsuite/btcd">btcd</A> (by <A href="https://btcsuite.github.io">Btcsuite</A>)</td>
         </tr>
         <tr>
             <td>Lightning node</td>
             <td>Optional</td>
-            <td><A href="https://github.com/lightningnetwork/lnd">LND</A> (by <A href="https://lightning.engineering/">Lightning Labs</A>)</td>
-            <td><A href="https://github.com/ElementsProject/lightning">C-Lightning</A>(by <A href="https://blockstream.com">Blockstream</A>)</td>
-                </br><A href="https://github.com/ACINQ/eclair">Eclair</A>) (by <A href="https://acinq.co//">Acinq</A>)</td></td>
+            <td><A href="https://github.com/lightningnetwork/lnd">LND</A> (by <A href="https://lightning.engineering">Lightning Labs</A>)</td>
+            <td><A href="https://github.com/ElementsProject/lightning">C-Lightning</A> (by <A href="https://blockstream.com">Blockstream</A>)
+                </br><A href="https://github.com/ACINQ/eclair">Eclair</A>) (by <A href="https://acinq.co">Acinq</A>)</td></td>
         </tr>
         <tr>
             <td>Payment node</td>
             <td>Optional</td>
-            <td><A href="https://github.com/btcpayserver/btcpayserver">btcpayserver</A></td>
+            <td><A href="https://github.com/btcpayserver/btcpayserver">btcpayserver</A> (by <A href="https://github.com/rockstardev">rocstardev</A>)</td>
         </tr>
     </tbody>
 </table>
