@@ -23,7 +23,7 @@ Rent a pre-installed machine at a VPS (Virtual Private Server) provider
 * OVH
 * ...
 
-How to match the prerequisite ?
+How to match the prerequisites ?
 ==
 How to set the hostame to "nakamoto" ?
 -
