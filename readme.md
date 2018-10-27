@@ -29,15 +29,16 @@ Such a stack could be composed by :
             <td>Mandatory</td>
         </tr>
         <tr>
-            <td>Payment node</td>
-            <td>BTCPay</td>
-            <td>Optional</td>
-        </tr>
-        <tr>
             <td>Lightning node</td>
             <td>LND (or C-Lightning or Eclair)</td>
             <td>Optional</td>
         </tr>
+        <tr>
+            <td>Payment node</td>
+            <td>BTCPay</td>
+            <td>Optional</td>
+        </tr>
+
     </tbody>
 </table>
  
