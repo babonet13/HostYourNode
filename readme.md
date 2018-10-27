@@ -39,9 +39,9 @@ Used distro are :
  
   Host Your Node Resources
  -
- Where to select images for building your machine : <A href="https://hub.docker.com/u/hostyournode/">HostYouNode@DockerHub</A>
- Where to find documents for maitaining your machine : <A href="http://bit.ly/2D8xyIm">Support Documents</A>
- Where to buy a pre-configured machine : <A href="http://bit.ly/2DOj69o">Store@OpenBazaar</A>
+ Where to select images for building your machine : <A href="https://hub.docker.com/u/hostyournode/">HostYouNode@DockerHub</A>. 
+ Where to find documents for maitaining your machine : <A href="http://bit.ly/2D8xyIm">Support Documents</A>. 
+ Where to buy a pre-configured machine : <A href="http://bit.ly/2DOj69o">Store@OpenBazaar</A>. 
  
  Others Useful Resources
  -
