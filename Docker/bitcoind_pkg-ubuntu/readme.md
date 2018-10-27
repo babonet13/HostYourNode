@@ -17,6 +17,10 @@ Target Docker image specification
             <td>Bitcoin Node</td>
         </tr>
         <tr>
+            <td>Daemon (Version)</td>
+            <td>bitcoind (0.16.3</td>
+        </tr>
+        <tr>
             <td>Installation Mode</td>
             <td>From distro specific Package</td>
         </tr>
@@ -35,7 +39,7 @@ Build the image
  Pushing Instruction
 -
 Log into the Docker Hub repository
-<pre><code>$ docker login -u hostyournode</code></pre
+<pre><code>$ docker login -u hostyournode</code></pre>
 
 Tag the image
 <pre><code>$ docker tag bitcoin_pkg-ubuntu:0.16:3 hostyournode/bitcoin_pkg-ubuntu:0.16:3</code></pre>
