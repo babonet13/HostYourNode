@@ -22,3 +22,15 @@ Rent a pre-installed machine at a VPS (Virtual Private Server) provider
 * Digital Ocean
 * OVH
 * ...
+
+How to match the prerequisite ?
+==
+How to set the hostame to "nakamoto" ?
+-
+Edit the "hostname" file :
+<pre><code>$ nano /etc/hostname</code></pre>
+Replace the name by "nakamoto"
+
+How to set the username to "satoshi" ?
+-
+>>> To Be Done
