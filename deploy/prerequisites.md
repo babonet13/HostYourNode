@@ -30,9 +30,11 @@ How to set the hostame to "nakamoto" ?
 Edit the "hostname" file :
 <pre><code>$ nano /etc/hostname</code></pre>
 Replace the name by "nakamoto".  
+
 Edit the "hosts" file :
 <pre><code>$ nano /etc/host</code></pre>
 Find the line with "127.0.0.1" and add "nakamoto" at the end of this ligne
+
 Restart the. system :
 <pre><code>$ reboot</code></pre>
 
