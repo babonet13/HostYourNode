@@ -6,7 +6,7 @@ FAST to Build, EASY to Tune, Enjoy for EVER !
 
 Objective of the projet
 - 
-Thanks to this repository, you can build a _100% container-based_ Bitcoin stack (Bitcoin Node + Lightning Node + Payment Node). So, you can either :
+Thanks to this repository, you can build a __100% container-based__ Bitcoin stack (Bitcoin Node + Lightning Node + Payment Node). So, you can either :
 * Build your own stack : Using a physical machine at home or a virtual machine in the cloud
 * Buy a ready to use stack by ordering a pre-configured machine using <a href="https://openbazaar.com/store/QmacnmoLh9Fbqn29JYifgB7yyxpPfW9Ezo6BDETNLpYcgQ">HostYourNode@OpenBazaar</a>
 
