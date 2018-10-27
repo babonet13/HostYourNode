@@ -34,12 +34,13 @@ This stack could be composed by :
             <td>Optional</td>
             <td><A href="https://github.com/lightningnetwork/lnd">LND</A> (by <A href="https://lightning.engineering">Lightning Labs</A>)</td>
             <td><A href="https://github.com/ElementsProject/lightning">C-Lightning</A> (by <A href="https://blockstream.com">Blockstream</A>)
-                </br><A href="https://github.com/ACINQ/eclair">Eclair</A>) (by <A href="https://acinq.co">Acinq</A>)</td></td>
+                </br><A href="https://github.com/ACINQ/eclair">Eclair</A> (by <A href="https://acinq.co">Acinq</A>)</td></td>
         </tr>
         <tr>
             <td>Payment node</td>
             <td>Optional</td>
             <td><A href="https://github.com/btcpayserver/btcpayserver">btcpayserver</A> (by <A href="https://github.com/rockstardev">rocstardev</A>)</td>
+             <td>None</td>
         </tr>
     </tbody>
 </table>
