@@ -24,7 +24,7 @@ The installation process could be :
 
 Default values
 -
-This installation process is using some default values. Thos value could of course be changed, but in this case the installation process must be manual, because it require to adpat command passed to the machine.
+This installation process is using some default values. Those values could of course be changed, but in this case the installation process must be manual, because it require to adapt most of the commands passed to the machine.
 
 <table>
     <thead>
