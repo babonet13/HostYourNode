@@ -17,7 +17,7 @@ The other way : install Ubutun on a given machine
 
 How to have a virtual machine in the cloud ?
 ==
-Rent a machine at a VPS (Virtual Private Server) provider 
+Rent a pre-installed machine at a VPS (Virtual Private Server) provider 
 * Amazon AWS
 * Digital Ocean
 * OVH
