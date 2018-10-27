@@ -29,7 +29,7 @@ How to set the hostame to "nakamoto" ?
 -
 Edit the "hostname" file :
 <pre><code>$ nano /etc/hostname</code></pre>
-Replace the name by "nakamoto".  
+Replace the current default name by "nakamoto".  
 
 Edit the "hosts" file :
 <pre><code>$ nano /etc/hosts</code></pre>
