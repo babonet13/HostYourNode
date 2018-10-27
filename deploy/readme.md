@@ -1,10 +1,11 @@
 Section "deploy" of the Host Your Node projet
 ==
-This section dedicated for deploying the Bitcoin stack (BTC, LN, Pay) on a given machine
+This section is dedicated to deploy the Bitcoin stack (BTC, LN, Pay) on a given machine
+>>> This section of the repository is mainly useful for __users__
 
 Prerequisites
 -
-Your need a running machine (physical or virtual) with a Linux distro installed
+You need a running machine (physical or virtual) with a Linux distro installed
 > Instructions of this section are based on Ubuntu/Debian, but could be easily be adapted to others distro
 
 Scope
