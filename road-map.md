@@ -26,6 +26,16 @@ Current Situation VS Target Situation :
             <td>Ubuntu</td>
             <td>Alpine</td>
         </tr>
+        <tr>
+            <td>Node Type</td>
+            <td>Bitcoin</td>
+            <td>Bitcoin + Lightning + Payment</td>
+        </tr>
+        <tr>
+            <td>Daemon</td>
+            <td>1 Default choice</td>
+            <td>N Alternative choices</td>
+        </tr>
     </tbody>
 </table>
 
