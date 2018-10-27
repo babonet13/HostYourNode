@@ -46,7 +46,7 @@ This installation process is using some default values. Thos value could of cour
             <td>USERNAME</td>
         </tr>
         <tr>
-            <td>Host Username Password</td>
+            <td>Host User Password</td>
             <td>21millions</td>
             <td>PASSWORD</td>
         </tr>
