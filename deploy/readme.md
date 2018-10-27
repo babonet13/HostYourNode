@@ -4,7 +4,7 @@ Scope
 -
 The following script will install for you :
 * Docker
-* Portainer (Can be accessible at 192.168.xxx.yyy:9000)
+* Portainer (Can be accessible at 192.168.xxx.yyy)
 * 1 containerized web node (by default : ubuntu-base apache with CGI)
 * 1 containerized bitcoin node (by default : ubuntu-base bicoind from package)
 
