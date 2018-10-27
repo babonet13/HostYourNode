@@ -27,13 +27,18 @@ Target Docker image specification
     </tbody>
 </table>
 
- Instructions
+ Building Instructions
 -
 Build the image
 <pre><code>$ docker build -t bitcoin_pkg-ubuntu:0.16:3</code></pre>
 
+ Pushing Instruction
+-
+Log into the Docker Hub repository
+<pre><code>$ docker login -u hostyournode</code></pre
+
 Tag the image
-<pre><code>$ docker buil -t bitcoin_pkg-ubuntu:0.16:3</code></pre>
+<pre><code>$ docker tag bitcoin_pkg-ubuntu:0.16:3 hostyournode/bitcoin_pkg-ubuntu:0.16:3</code></pre>
 
 Pull the image
-<pre><code>$ docker buil -t bitcoin_pkg-ubuntu:0.16:3</code></pre>
+<pre><code>$ docker push -t hostyournode/bitcoin_pkg-ubuntu:0.16:3</code></pre>
