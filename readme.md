@@ -6,7 +6,7 @@ FAST to Build, EASY to Tune, Enjoy for EVER !
 
 Objective of the projet
 - 
-Thanks to this repository, you can build a  full container-based Bitcoin stack (Bitcoin Node + Lightning Node + Payment Node).  
+Thanks to this repository, you can build a 100% container-based Bitcoin stack (Bitcoin Node + Lightning Node + Payment Node).  
 So, you can either :
 * Build your own stack : Using a physical machine at home or a virtual machine in the cloud
 * Buy a ready to use stack by ordering a pre-configured machine using <a href="https://openbazaar.com/store/QmacnmoLh9Fbqn29JYifgB7yyxpPfW9Ezo6BDETNLpYcgQ">HostYourNode@OpenBazaar</a>
@@ -17,7 +17,33 @@ Such a stack could be composed by :
   - 1 Bitcoin node : bitcoind (or btcd)
   - 1 Lightning node : LND (or C-Lightning or Eclair)
   - 1 Payment node : BTCPay
-  
+ <table>
+    <thead>
+        <tr>
+            <th>Node type</th>
+            <th>Implementation</th>
+            <th>Requirement</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bitcoin node</td>
+            <td>bitcoind (or btcd)</td>
+            <td>Mandatory</td>
+        </tr>
+        <tr>
+            <td>Lightning node</td>
+            <td>LND (or C-Lightning or Eclair</td>
+            <td>Optional</td>
+        </tr>
+        <tr>
+            <td>Payment node</td>
+            <td>BTCPay</td>
+            <td>Optional</td>
+        </tr>
+    </tbody>
+</table>
+ 
   See a graphical visualiztion of such a stack <a href="http://bit.ly/2yp0iHW">here</a>
 
 Organization of this repository
