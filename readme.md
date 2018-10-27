@@ -13,7 +13,7 @@ So, you can either :
 
 About the stack 
 -
-Such a stack could be composed by : 
+This stack could be composed by : 
  <table>
     <thead>
         <tr>
@@ -25,7 +25,7 @@ Such a stack could be composed by :
     <tbody>
         <tr>
             <td>Bitcoin node</td>
-            <td>bitcoind (or btcd)</td>
+            <td><A href="https://github.com/bitcoin/bitcoin">bitcoind</A> (or <A>https://github.com/btcsuite/btcd">btcd</A>)</td>
             <td>Mandatory</td>
         </tr>
         <tr>
