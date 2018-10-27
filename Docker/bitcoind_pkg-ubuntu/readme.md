@@ -22,6 +22,5 @@ Target Docker image specification :
             <td>Dockerfile FROM</td>
             <td>Ubuntu</td>
         </tr>
-
     </tbody>
 </table>
