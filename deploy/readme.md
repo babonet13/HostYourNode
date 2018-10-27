@@ -37,17 +37,17 @@ This installation process is using some default values. Thos value could of cour
     <tbody>
         <tr>
             <td>Host Name</td>
-            <td>Host Username</td>
-            <td>Host Username Password</td>
-        </tr>
-        <tr>
             <td>nakamoto</td>
-            <td>satoshi</td>
-            <td>21millions</td>
+            <td>HOSTNAME</td>
         </tr>
         <tr>
-            <td>HOSTNAME</td>
+            <td>Host User</td>
+            <td>satoshi</td>
             <td>USERNAME</td>
+        </tr>
+        <tr>
+            <td>Host Username Password</td>
+            <td>21millions</td>
             <td>PASSWORD</td>
         </tr>
     </tbody>
