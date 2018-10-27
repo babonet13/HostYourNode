@@ -67,4 +67,6 @@ Used distro are :
  
  Others Useful Resources
  -
+ <A href=" https://github.com/bcongdon/awesome-lightning-network">awesome-lightning-network@Github</A>
  <A href="https://github.com/SatoshiPortal">SatoshiPortal@Github</A>
+ <A href="https://github.com/babonet13?tab=stars">MyStarredResources@Github</A>
