@@ -18,7 +18,7 @@ Target Docker image specification
         </tr>
         <tr>
             <td>Daemon (Version)</td>
-            <td>bitcoind (0.16.3</td>
+            <td>bitcoind (0.16.3)</td>
         </tr>
         <tr>
             <td>Installation Mode</td>
