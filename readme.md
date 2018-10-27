@@ -38,7 +38,6 @@ Such a stack could be composed by :
             <td>BTCPay</td>
             <td>Optional</td>
         </tr>
-
     </tbody>
 </table>
  
