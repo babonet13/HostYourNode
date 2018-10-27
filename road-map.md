@@ -12,7 +12,7 @@ Current Situation VS Target Situation :
     </thead>
     <tbody>
         <tr>
-            <td>Installation mode</td>
+            <td>Installation Mode</td>
             <td>From Package or Binaries</td>
             <td>From Sources</td>
         </tr>
