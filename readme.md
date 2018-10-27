@@ -25,12 +25,12 @@ This stack could be composed by :
     <tbody>
         <tr>
             <td>Bitcoin node</td>
-            <td><A href="https://github.com/bitcoin/bitcoin">bitcoind</A> (or <A> href="https://github.com/btcsuite/btcd">btcd</A>)</td>
+            <td><A href="https://github.com/bitcoin/bitcoin">bitcoind</A> (or <A href="https://github.com/btcsuite/btcd">btcd</A>)</td>
             <td>Mandatory</td>
         </tr>
         <tr>
             <td>Lightning node</td>
-            <td><A href="https://github.com/lightningnetwork/lnd">LND</A> (or <A> href="https://github.com/ElementsProject/lightning">C-Lightning</A>or <A> href="https://github.com/ACINQ/eclair">Eclair</A>)</td>
+            <td><A href="https://github.com/lightningnetwork/lnd">LND</A> (or <A href="https://github.com/ElementsProject/lightning">C-Lightning</A> or <A href="https://github.com/ACINQ/eclair">Eclair</A>)</td>
             <td>Optional</td>
         </tr>
         <tr>
