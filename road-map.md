@@ -22,7 +22,7 @@ Current Situation VS Target Situation :
             <td>Alpine</td>
         </tr>
         <tr>
-            <td>Docker FROM</td>
+            <td>Dockerfile FROM</td>
             <td>Ubuntu</td>
             <td>Alpine</td>
         </tr>
