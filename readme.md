@@ -35,4 +35,8 @@ Each daemon could be build from :
 
 Used distro are :
    - Ubuntu : Used by many people 
-   - Alpine : Light & Fast
+   - Alpine : Light & Fast. 
+   
+ Useful Resources
+ -
+ <A href="https://github.com/SatoshiPortal">SatoshiPortal@Github</A>
