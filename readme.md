@@ -64,3 +64,4 @@ This repository provide resources for both :
  <A href="https://github.com/bcongdon/awesome-lightning-network">awesome-lightning-network@Github</A>.  
  <A href="https://github.com/SatoshiPortal">SatoshiPortal@Github</A>.  
  <A href="https://github.com/babonet13?tab=stars">MyStarredResources@Github</A>  
+ <A href="https://www.sosthene.net/histoire-noeud/">Une histoire de noeud</A> 
