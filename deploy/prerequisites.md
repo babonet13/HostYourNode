@@ -43,3 +43,7 @@ How to set the username to "satoshi" ?
 Create un new user named "satoshi"
 <pre><code>$ adduser satoshi</code></pre>
 Follow the instructions and define it as password "21millions"
+
+Allow the user "satoshi" to - sometimes - act as "root" 
+<pre><code>$ adduser satoshi sudo
+$ su satoshi</code></pre>
