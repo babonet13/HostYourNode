@@ -17,25 +17,29 @@ This stack could be composed by :
     <thead>
         <tr>
             <th>Node type</th>
-            <th>Implementation</th>
-            <th>Requirement</th>
+             <th>Requirement</th>
+             <th>Default Implementation</th>
+             <th>Alternative Implementation</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Bitcoin node</td>
-            <td><A href="https://github.com/bitcoin/bitcoin">bitcoind</A> (or <A href="https://github.com/btcsuite/btcd">btcd</A>)</td>
             <td>Mandatory</td>
+            <td><A href="https://github.com/bitcoin/bitcoin">bitcoind</A> (by <A href="https://bitcoincode.org">Bitcoin Core</A>)</td>
+            <td><A href="https://github.com/btcsuite/btcd">btcd</A> (by <A href="https://btcsuite.github.io/">Btcsuite</A>)</td>
         </tr>
         <tr>
             <td>Lightning node</td>
-            <td><A href="https://github.com/lightningnetwork/lnd">LND</A> (or <A href="https://github.com/ElementsProject/lightning">C-Lightning</A> or <A href="https://github.com/ACINQ/eclair">Eclair</A>)</td>
             <td>Optional</td>
+            <td><A href="https://github.com/lightningnetwork/lnd">LND</A> (by <A href="https://lightning.engineering/">Lightning Labs</A>)</td>
+            <td><A href="https://github.com/ElementsProject/lightning">C-Lightning</A>(by <A href="https://blockstream.com">Blockstream</A>)</td>
+                </br><A href="https://github.com/ACINQ/eclair">Eclair</A>) (by <A href="https://acinq.co//">Acinq</A>)</td></td>
         </tr>
         <tr>
             <td>Payment node</td>
-            <td><A href="https://github.com/btcpayserver/btcpayserver">btcpayserver</A></td>
             <td>Optional</td>
+            <td><A href="https://github.com/btcpayserver/btcpayserver">btcpayserver</A></td>
         </tr>
     </tbody>
 </table>
