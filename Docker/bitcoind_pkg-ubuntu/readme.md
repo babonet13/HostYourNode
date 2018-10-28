@@ -33,10 +33,10 @@ Target Docker image specification
 
  Building Instructions
 -
-Clone the repository
+Clone the Github repository
 <pre><code>$ git clone https://github.com/babonet13/HostYourNode</code></pre>
 
-Build the image
+Build the Docker image
 <pre><code>$ docker build -t /HostYourNode/Docker/bitcoin_pkg-ubuntu:0.17.0</code></pre>
 
  Pushing Instruction
@@ -44,8 +44,8 @@ Build the image
 Log into the Docker Hub repository
 <pre><code>$ docker login -u hostyournode</code></pre>
 
-Tag the image
+Tag the Docker image
 <pre><code>$ docker tag bitcoin_pkg-ubuntu:0.17.0 hostyournode/bitcoin_pkg-ubuntu:0.17.0</code></pre>
 
-Pull the image
+Pull the Docker image
 <pre><code>$ docker push -t hostyournode/bitcoin_pkg-ubuntu:0.17.0</code></pre>
