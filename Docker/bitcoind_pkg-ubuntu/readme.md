@@ -26,7 +26,7 @@ Target Docker image specification
         </tr>
         <tr>
             <td>Dockerfile FROM</td>
-            <td><A hre="https://github.com/babonet13/HostYourNode/tree/master/Docker/ubuntu-pkg">ubuntu-pkg</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Docker/ubuntu-pkg">ubuntu-pkg</A></td>
         </tr>
     </tbody>
 </table>
