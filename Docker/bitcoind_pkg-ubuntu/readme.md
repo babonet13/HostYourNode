@@ -28,6 +28,10 @@ Target Docker image specification
             <td>Dockerfile FROM</td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Docker/ubuntu-pkg">ubuntu-pkg</A></td>
         </tr>
+        <tr>
+            <td>Docker Hub</td>
+            <td><A href="https://hub.docker.com/r/hostyournode/bitcoind_pkg-ubuntu/">bitcoind_ubuntu-pkg</A></td>
+        </tr>
     </tbody>
 </table>
 
