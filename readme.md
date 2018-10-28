@@ -8,7 +8,7 @@ Objective of the projet
 - 
 Thanks to this repository, you can build a __100% container-based__ Bitcoin stack. So, you can either :
 * <A href="https://github.com/babonet13/HostYourNode/tree/master/deploy">Deploy</A> your own stack by using a physical machine at home or a virtual machine in the cloud
-* <A href="http://bit.ly/2D8xyIm">Buy</A> a ready-to-use stack by ordering a pre-configured machine using <a href="http://bit.ly/2D8xyIm">HostYourNode@OpenBazaar</a>
+* <A href="http://bit.ly/2D8xyIm">Buy</A> a ready-to-use stack by ordering a pre-configured machine at <a href="http://bit.ly/2D8xyIm">HostYourNode@OpenBazaar</a>
 
 About the stack 
 -
