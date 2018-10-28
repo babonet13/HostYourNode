@@ -1,6 +1,6 @@
 Read Me
 ==
- Building Instructions
+Building Instructions
 -
 Pull the Ubuntu Docker source image 
 <pre><code>$ docker pull ubuntu</code></pre>
