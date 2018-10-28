@@ -5,10 +5,11 @@ curl -sSL https://get.docker.com | sh
 adduser satoshi docker
 
 # Install Portainer on your machine (for a easy Image and Container management)
-docker pull portainer
+docker pull portainer/portainer
 docker volume create portainer_data
 
 # Run portainer
+docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer
 docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer
 
 # Clone this repository at the root of your machine :
