@@ -37,7 +37,7 @@ Clone the Github repository
 <pre><code>$ git clone https://github.com/babonet13/HostYourNode</code></pre>
 
 Build the Docker image
-<pre><code>$ docker build -t /HostYourNode/Docker/bitcoin_pkg-ubuntu:0.17.0</code></pre>
+<pre><code>$ docker build -t bitcoind_pkg-ubuntu:0.17.0 /HostYourNode/Docker/bitcoind_pkg-ubuntu</code></pre>
 
  Pushing Instruction
 -
@@ -45,7 +45,7 @@ Log into the Docker Hub repository
 <pre><code>$ docker login -u hostyournode</code></pre>
 
 Tag the Docker image
-<pre><code>$ docker tag bitcoin_pkg-ubuntu:0.17.0 hostyournode/bitcoin_pkg-ubuntu:0.17.0</code></pre>
+<pre><code>$ docker tag bitcoind_pkg-ubuntu:0.17.0 hostyournode/bitcoind_pkg-ubuntu:0.17.0</code></pre>
 
 Pull the Docker image
-<pre><code>$ docker push -t hostyournode/bitcoin_pkg-ubuntu:0.17.0</code></pre>
+<pre><code>$ docker push -t hostyournode/bitcoind_pkg-ubuntu:0.17.0</code></pre>
