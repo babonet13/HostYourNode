@@ -31,7 +31,7 @@ Target Docker image specification
     </tbody>
 </table>
 
- Building Instructions
+Building Instructions
 -
 Clone the Github repository
 <pre><code>$ git clone https://github.com/babonet13/HostYourNode</code></pre>
@@ -39,7 +39,7 @@ Clone the Github repository
 Build the Docker image
 <pre><code>$ docker build -t bitcoind_pkg-ubuntu:0.17.0 /HostYourNode/Docker/bitcoind_pkg-ubuntu</code></pre>
 
- Pushing Instructions
+Pushing Instructions
 -
 Log into the Docker Hub repository
 <pre><code>$ docker login -u hostyournode</code></pre>
