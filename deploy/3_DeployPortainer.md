@@ -16,6 +16,7 @@ Create a named volume for Portainer
 
 Run the portainer-node container based on the portainer image
 <pre><code>$ docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
+> Portainer will be accessible via the standard Web port (e.g. 80), but you can chose another if required !
 
 Configure distant access
 - 
