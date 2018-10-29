@@ -1,4 +1,4 @@
-Portainer : Installation guide
+Deploy Portainer
 ==
 Resources
 -
