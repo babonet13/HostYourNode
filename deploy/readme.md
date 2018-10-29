@@ -39,9 +39,9 @@ This section allow you to step-by-step build a full Bitcoin stack (BTC, LN & PAY
         </tr>
         <tr>
             <td>2</td>
-            <td>Installa Portainer</td>
+            <td>Deploy Portainer</td>
             <td>See <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_InstallPortainer.md">here</a></td>
-            <td>Portainer is a graphical interface for Docker</td>
+            <td>Portainer is a contained-based graphical interface for Docker</td>
         </tr>
     </tbody>
 </table>
