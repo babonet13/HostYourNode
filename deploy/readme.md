@@ -1,7 +1,7 @@
 Section "deploy" of the Host Your Node projet
 ==
 
-This section dedicated to store all the files needed by the automatic installation process.
+This section dedicated to store all the instructions and/or files needed for manual and/ou automatic installation process.
 
 >>> This section of the repository is mainly useful for __users__
 
