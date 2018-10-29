@@ -1,6 +1,4 @@
 #!/bin/sh
-# Install prerequisite
-sudo apt-get install -y curl
 
 # Install Docker
 sudo add-apt-repository \ "deb [arch=amd64] https://download.docker.com/linux/ubuntu \ $(lsb_release -cs) \ stable"
