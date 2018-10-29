@@ -20,4 +20,4 @@ Deploying Payment Node "btcpayserver"
 
 Remark
 - 
-I your want to build the Image by yourself, you can follow those <a href="https://github.com/babonet13/HostYourNode/tree/master/Docker/bitcoind_pkg-ubuntu">instructions</a> : 
+If your want to build the Images by yourself, you can follow those <a href="https://github.com/babonet13/HostYourNode/tree/master/Docker/bitcoind_pkg-ubuntu">instructions</a> : 
