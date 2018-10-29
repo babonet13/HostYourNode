@@ -26,3 +26,5 @@ Remark
 - 
 If you want check  which "recipe" is used for building the image, you can have a look at this <a href="https://github.com/babonet13/HostYourNode/blob/master/Docker/bitcoind_pkg-ubuntu/Dockerfile">page</a>.  
 If your want to build the Docker image by yourself, you can follow the "Building instructions" of this <a href="https://github.com/babonet13/HostYourNode/tree/master/Docker/bitcoind_pkg-ubuntu">page</a>.
+In this case, you will need to install Git :
+<pre><code>$ sudo apt-get install git</code></pre>
