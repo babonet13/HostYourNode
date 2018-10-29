@@ -25,3 +25,5 @@ Follow the instructions and define it as password "21millions"
 Allow the user "satoshi" to - sometimes - act as "root" 
 <pre><code>$ adduser satoshi sudo
 $ su satoshi</code></pre>
+---
+<a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/2_InstallDocker.md">Next Step</a>
