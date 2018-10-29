@@ -42,7 +42,7 @@ Pull the source image
 
 Clone the Github repository
 <pre><code>$ git clone https://github.com/babonet13/HostYourNode /HostYourNode
-$ sudo chown -R babonet13:babonet13 /HostYourNode</code></pre>
+$ sudo chown -R satoshi:satoshi /HostYourNode</code></pre>
 
 Build the intermediary Docker image
 <pre><code>$ docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg</code></pre>
