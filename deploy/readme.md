@@ -58,6 +58,7 @@ Manual installation
 Automatic installation (for Ubuntu/Debian)
 -
 >>> Beta Test in Process    
+
 Step 2, 3 & 4 of this procedure could be automatically fullfiled thanks to the following script
 <pre><code>$ curl https://github.com/babonet13/HostYourNode/blob/master/deploy/ubuntu/setup.sh | sh</code></pre>
 
