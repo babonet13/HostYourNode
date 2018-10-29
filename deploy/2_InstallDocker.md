@@ -30,7 +30,7 @@ Install Docker-CE
 <pre><code>$ sudo apt-get install -y docker-ce</code></pre>
 
 Add your current user to th e"docker" group and apply this adding
-<pre><code>$ sudo usermod -aG docker babonet13
+<pre><code>$ sudo usermod -aG docker satoshi
 su - babonet13</code></pre>
 
 Test
