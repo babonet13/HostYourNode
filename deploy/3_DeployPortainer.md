@@ -19,6 +19,7 @@ Run the portainer-node container based on the portainer image
 
 Configure distant access
 - 
+> This step is only required if you want to manage those containers from another Portainer instance ! 
 
 Edit the Docker daemon configuration file
 <pre><code>$ sudo nano /etc/docker/daemon.json</code></pre>
