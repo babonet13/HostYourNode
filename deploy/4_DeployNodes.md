@@ -1,6 +1,6 @@
 Deploying the nodes
 ==
-Nodes are containerised deamon allowing to run bitcoin, LND, btcpayserver ...
+Nodes are containerized deamon allowing to run bitcoind, LND, btcpayserver ...
 
 Deploying Bitcoin Node "bitcoind"
 - 
