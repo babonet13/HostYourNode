@@ -9,6 +9,9 @@ Objective of this section
 -
 This section allow you to step-by-step build a full Bitcoin stack (BTC, LN & PAY nodes)
 
+Manual installation
+-
+
 <table>
     <thead>
         <tr>
@@ -51,3 +54,10 @@ This section allow you to step-by-step build a full Bitcoin stack (BTC, LN & PAY
         </tr>
     </tbody>
 </table>
+
+Automatic installation (for Ubuntu/Debian)
+-
+Step 2, 3 & 4 of this procedure could be automatically fullfiled thanks to the following script
+<pre><code>$ sudo curl https://github.com/babonet13/HostYourNode/blob/master/deploy/ubuntu/setup.sh | sh</code></pre>
+
+You can see the detial of this script <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/ubuntu/setup.sh">here</a>.
