@@ -10,7 +10,7 @@ Prerequisites
 
 Quick install
 - 
-<pre><code>$ sudo curl -sSL https://get.docker.com | sh</code></pre>
+<pre><code>$ sudo curl -fsSL https://get.docker.com | sh </code></pre>
 
 Complete install
 - 
