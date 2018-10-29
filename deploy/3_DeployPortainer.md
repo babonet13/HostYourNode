@@ -31,3 +31,5 @@ Add the following lines (where 192.168.1.99 is the IP address of the host)
 
 Restart the Docker daemon
 <pre><code>$ sudo dockerd restart</code></pre>
+---
+<a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/4_DeployNode.md">Next Step</a>
