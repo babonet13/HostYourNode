@@ -27,7 +27,7 @@ This section allow you to step-by-step build a full Bitcoin stack (BTC, LN & PAY
         </tr>
         <tr>
             <td>1</td>
-            <td>IPrepare the machine</td>
+            <td>Prepare the machine</td>
             <td>See <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/1_PrepareTheMachine.md">here</a></td>
             <td>You can choose others hostname, username & password, but you will have sometime to adapt the code</td>
         </tr>
