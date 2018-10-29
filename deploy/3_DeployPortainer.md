@@ -15,7 +15,7 @@ Create a named volume for Portainer
 <pre><code>$ docker volume create portainer_data</code></pre>
 
 Run the portainer-node container based on the portainer image
-<pre><code>$ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
+<pre><code>$ docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
 
 Configure distant access
 - 
