@@ -1,9 +1,12 @@
 #!/bin/sh
 
 # Install Docker
+echo "Adding official repository"
 sudo add-apt-repository \ "deb [arch=amd64] https://download.docker.com/linux/ubuntu \ $(lsb_release -cs) \ stable"
-sudo apt-get install -y docker-ce
+echo "Updating packages lists"
 sudo apt-get update
+echo "Installing Docker-CE"
+sudo apt-get install -y docker-ce
 sudo usermod -aG docker satoshi
 
 # Deploying Portainer
