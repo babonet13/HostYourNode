@@ -1,4 +1,4 @@
-Docker : Installation guide
+Install Docker
 ==
 Resources
 -
