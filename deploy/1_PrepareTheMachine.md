@@ -1,4 +1,4 @@
-How to match the prerequisites ?
+Prepare the machine
 ==
 This is just a proposition ...  
 ... you can go with others values, but you will sometimes need to adapt the code passed to the machine
