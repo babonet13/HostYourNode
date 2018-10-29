@@ -1,4 +1,4 @@
-Prerequisites for deploying a 100% container-based Bitcoin stack on your machine
+Get a Ubuntu-based machine
 ==
 All what you need is a machine with a installed Linux distro (ideally a with a Debian/Ubuntu based distro).   
 You have this alternative : 
