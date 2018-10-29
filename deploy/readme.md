@@ -58,6 +58,6 @@ Manual installation
 Automatic installation (for Ubuntu/Debian)
 -
 Step 2, 3 & 4 of this procedure could be automatically fullfiled thanks to the following script
-<pre><code>$ sudo curl https://github.com/babonet13/HostYourNode/blob/master/deploy/ubuntu/setup.sh | sh</code></pre>
+<pre><code>$ curl https://github.com/babonet13/HostYourNode/blob/master/deploy/ubuntu/setup.sh | sh</code></pre>
 
 You can see the detail of this script <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/ubuntu/setup.sh">here</a>.
