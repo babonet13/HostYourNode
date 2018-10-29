@@ -41,7 +41,8 @@ Pull the source image
 <pre><code>$ docker pull ubuntu</code></pre>
 
 Clone the Github repository
-<pre><code>$ git clone https://github.com/babonet13/HostYourNode</code></pre>
+<pre><code>$ git clone https://github.com/babonet13/HostYourNode
+$ sudo chown -R babonet13 /HostYourNode</code></pre>
 
 Build the intermediary Docker image
 <pre><code>$ docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg</code></pre>
