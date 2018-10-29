@@ -2,13 +2,21 @@ Deploying the nodes
 ==
 Nodes are containerised deamon allowing to run bitcoin, LND, btcpayserver ...
 
-Deploying bitcoind
+Deploying Bitcoin Node "bitcoind"
 - 
 Pulling the Docker Image from the hostyournode repository
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu</code></pre>
 
 Running the container
 <pre><code>$ docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node hostyournode/bitcoind_pkg-ubuntu</code></pre>
+
+Deploying Lightning Node "LND"
+- 
+>>> In Process
+
+Deploying Payment Node "btcpayserver"
+- 
+>>> In Process
 
 Remark
 - 
