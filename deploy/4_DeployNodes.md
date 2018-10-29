@@ -4,6 +4,10 @@ Nodes are containerized deamons allowing to run bitcoind, LND, btcpayserver ... 
 
 Deploying Bitcoin Node "bitcoind"
 - 
+Create a directory for storing the Bitcoin blochain
+<pre><code>$ mkdir /var/lib/bitcoin
+sudo chwon -R satoshi:satoshi /var/lib/bitcoin </code></pre>
+
 Pull the Docker Image from the hostyournode repository
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu</code></pre>
 
