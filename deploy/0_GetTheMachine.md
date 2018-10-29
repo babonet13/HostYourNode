@@ -22,5 +22,5 @@ Rent a pre-installed machine at a VPS (Virtual Private Server) provider
 * Digital Ocean
 * OVH
 * ...
-------------
+--
 <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/1_PrepareTheMachine.md">Next Step</a>
