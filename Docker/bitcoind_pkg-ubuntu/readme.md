@@ -44,6 +44,9 @@ Clone the Github repository
 <pre><code>$ git clone https://github.com/babonet13/HostYourNode /HostYourNode
 $ sudo chown -R satoshi:satoshi /HostYourNode</code></pre>
 
+Update the Github repository (if already cloned)
+<pre><code>$ git pull --rebase</code></pre>
+
 Build the intermediary Docker image
 <pre><code>$ docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg</code></pre>
 
