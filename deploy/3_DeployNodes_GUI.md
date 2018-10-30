@@ -45,7 +45,7 @@ Others node deployement could be realised by adaptinf this procedure.
 
 Specific procedure : Deploying the Bitcoin Node based on "bitcoind" (for the arm32V7 architecture)
 - 
-Identify the exact name of your bitcoin node in the hostyourhode@DockerHub repository
+Step 1 > Identify the exact name of your bitcoin node in the <A href="https://hub.docker.com/u/hostyournode/">hostyourhode@DockerHub</A> repository
 
 Adaptation table
 - 
