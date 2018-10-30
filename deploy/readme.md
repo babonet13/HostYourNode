@@ -12,7 +12,7 @@ This section allow you to step-by-step build a full Bitcoin stack (BTC, LN & PAY
 
 Hardware Prerequisite
 -
-Supported architecture
+Supported architecture(s)
 <table>
     <thead>
         <tr>
@@ -37,6 +37,40 @@ Supported architecture
         </tr>
     </tbody>
 </table>
+
+How to check your hardware architecture ?
+<pre><code>$ cat /proc/cpuinfo</code></pre>
+
+Sofwtare Prerequisite
+-
+Supported distribution(s)
+<table>
+    <thead>
+        <tr>
+            <th>Road Map</th>
+            <th>Actual</th>
+            <th>Planned</th>
+            <th>Future</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Distribution</td>
+            <td>Ubuntu/Debian</td>
+            <td>Alpine Linux</td>
+            <td>Other</td>
+        </tr>
+        <tr>
+            <td>Use or build</td>      
+            <td>Can use supplied instruction "as is"</td>
+            <td>Can use supplied instruction "as is" (when available)</td>
+            <td>Must adaptd instruction to your distro</td>
+        </tr>
+    </tbody>
+</table>
+
+How to check your Linux distribution ?
+<pre><code>$ cat /etc/*-release</code></pre>
 
 Manual installation
 -
