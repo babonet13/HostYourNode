@@ -22,7 +22,7 @@ Target Docker image specification
         </tr>
          <tr>
             <td>Daemon Version</td>
-            <td>b0.17.0</td>
+            <td>0.17.0</td>
         </tr>
         <tr>
             <td>Installation Mode</td>
