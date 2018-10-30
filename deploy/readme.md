@@ -16,7 +16,7 @@ Supported architecture(s)
 <table>
     <thead>
         <tr>
-            <th>Road Map >>></th>
+            <th>Road Map ></th>
             <th>Actual</th>
             <th>Planned</th>
             <th>Future</th>
@@ -47,7 +47,7 @@ Supported distribution(s)
 <table>
     <thead>
         <tr>
-            <th>Road Map</th>
+            <th>Road Map ></th>
             <th>Actual</th>
             <th>Planned</th>
             <th>Future</th>
