@@ -63,7 +63,7 @@ Supported distribution(s)
         <tr>
             <td>Copy or adapt</td>      
             <td>Can use supplied instructions "as is"</td>
-            <td>Can use supplied instructions "as is" (when available)</td>
+            <td>Must adapt supplied instructions to Alpine Linux distro</td>
             <td>Must adapt supplied instructions to your own Linux distro</td>
         </tr>
     </tbody>
