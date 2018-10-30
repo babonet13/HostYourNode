@@ -37,9 +37,9 @@ From here, you can start pulling __image(s)__ and deploying __container(s)__ !
 
 ---
 <A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_GUI.md">Go back to main procedure</A>   
----
+---   
 
->>> VERY IMPORTANT NOTICE
+>>> VERY IMPORTANT NOTICE   
 Additional Step > Clic on the "Container" menu,  then you get this screen : 
 
 ![Step 6](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_6.png)
