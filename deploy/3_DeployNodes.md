@@ -2,7 +2,7 @@ Deploying the nodes
 ==
 Nodes are containerized deamons allowing to run bitcoind, LND, btcpayserver in a isolated manner ...
 
-Deployment mode
+Deployment modes
 -
 You can deploy "HYN" nodes :
 * Using the Linux Command Line (<A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_CMD.md">CMD</A>)
