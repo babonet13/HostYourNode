@@ -14,7 +14,7 @@ Current Situation VS Target Situation :
         <tr>
             <td>Installation Mode</td>
             <td>From Package</td>
-            <td>From Package, Binaries or Sources</td>
+            <td>From Binaries or Sources</td>
         </tr>
         <tr>
             <td>Linux Distro</td>
@@ -24,7 +24,7 @@ Current Situation VS Target Situation :
         <tr>
             <td>Dockerfile FROM</td>
             <td>Ubuntu</td>
-            <td>Ubuntu, Alpine</td>
+            <td>Alpine</td>
         </tr>
         <tr>
             <td>Node Type</td>
