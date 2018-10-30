@@ -74,7 +74,7 @@ How to check your Linux distribution ?
 
 Manual installation
 -
-Step by stpe instructions : 
+Step by step instructions : 
 <table>
     <thead>
         <tr>
