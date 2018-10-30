@@ -38,7 +38,7 @@ Manual installation
             <td>2</td>
             <td>Install Docker & Deploy Portainer</td>
             <td>See <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/2_InstallDockerAndDeployPortainer.md.md">here</a></td>
-            <td>Docker will allow your machine to manage Images and Containers Portainer is GUI for Docker.</td>
+            <td>Docker will allow your machine to manage Images and Containers Portainer is a GUI for Docker.</td>
         </tr>
         <tr>
         <tr>
