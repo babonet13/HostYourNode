@@ -24,12 +24,14 @@ Supported architecture
     </thead>
     <tbody>
         <tr>
+            <td>Architecture</td>
             <td>amd64</td>
             <td>arm32v7 (Raspberry, Odroid)</td>
             <td>Other</td>
         </tr>
         <tr>
-            <td>Can user pre-build image</td>
+            <td>Use or build</td>      
+            <td>Can use pre-build image</td>
             <td>Must build your own image from Dockerfile</td>
             <td>Must build your own image from Dockerfile</td>
         </tr>
