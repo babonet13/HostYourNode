@@ -36,4 +36,13 @@ From here, you can start pulling __image(s)__ and deploying __container(s)__ !
 (A __container__ is running instance of a given __image__)
 
 ---
-<A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_GUI.md">Go back to main procedure</A>
+<A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_GUI.md">Go back to main procedure</A>   
+---
+>>> VERY IMPORTANT NOTICE
+Additional Step > Clic on the "Container" menu,  then you get this screen : 
+
+![Step 6](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_6.png)
+
+You can notice that a container named "portainer-node" is running !
+NEVER STOP AND/OR REMOVE THIS CONTAINER !!! IN THIS CASE IT WILL BE MANDATORY TO SWITCH IN LINUX COMAND LINE MODE ...
+
