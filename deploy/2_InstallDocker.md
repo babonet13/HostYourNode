@@ -2,40 +2,8 @@ Install Docker
 ==
 Resources
 -
-<a href="https://docs.docker.com/install/linux/docker-ce/ubuntu">Get Docker CE for Ubuntu</a>
+<a href="https://github.com/babonet13/HelloWorld/tree/master/App/docker">docker : Installation Guide (Package-based - Ubuntu/Debian)</a>
 
-Prerequisites 
+Remarks 
 -
-<pre><code>$ sudo apt-install -y curl</code></pre>
-
-Quick install
-- 
-<pre><code>$ sudo curl -fsSL https://get.docker.com | sh </code></pre>
-
-Complete install
-- 
-Uninstall previous Docker version(s)
-<pre><code>$ sudo apt-get remove docker docker-engine docker.io</code></pre>
-
-Fetch the official Docker PGP key
-<pre><code>$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-$ sudo apt-key fingerprint 0EBFCD88</code></pre>
-> You must get : 9DC8 5822 9FC7 DD38 854A E2D8 8D81 803C 0EBF CD88 
-
-Add the official Docker repository
-<pre><code>$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-$ sudo apt-get update</code></pre>
-
-Install Docker-CE
-<pre><code>$ sudo apt-get install -y docker-ce</code></pre>
-
-Add your current user to the "docker" group and apply this adding
-<pre><code>$ sudo usermod -aG docker satoshi
-su - satoshi</code></pre>
-
-Test
--
-Run the "hello-world" Dcoker container
-<pre><code>$ docker run hello-world</code></pre>
----
-<a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployPortainer.md">Next Step</a>
+Change the user by the defaut user (= satoshi) for building the Bitcoin node stack ...
