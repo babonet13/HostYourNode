@@ -12,7 +12,7 @@ This section allow you to step-by-step build a full Bitcoin stack (BTC, LN & PAY
 
 Hardware Prerequisite
 -
-Supported architecture(s)
+Supported architecture(s) :
 <table>
     <thead>
         <tr>
@@ -43,7 +43,7 @@ How to check your hardware architecture ?
 
 Software Prerequisite
 -
-Supported distribution(s)
+Supported distribution(s) :
 <table>
     <thead>
         <tr>
@@ -74,7 +74,7 @@ How to check your Linux distribution ?
 
 Manual installation
 -
-
+Step by stpe instructions : 
 <table>
     <thead>
         <tr>
