@@ -1,4 +1,4 @@
-Deploying the nodes via CMD (Command Line)
+Deploying the nodes via the Linux Command Line (CMD mode)
 ==
 Nodes are containerized deamons allowing to run bitcoind, LND, btcpayserver ... in a isolated way
 
