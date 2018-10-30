@@ -32,5 +32,5 @@ Step 5 > Clic on the "Whale" logo (near "local"), then you get this screen :
 
 ![Step 5](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_5.png)
 
-From here, you can start pulling __image(s)__ and deploying __container(s)__ ...
+From here, you can start pulling __image(s)__ and deploying __container(s)__ !  
 (A __container__ is running instance of a given __image__)
