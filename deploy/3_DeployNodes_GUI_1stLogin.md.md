@@ -34,5 +34,6 @@ Step 5 > Clic on the "Whale" logo (near "local"), then you get this screen :
 
 From here, you can start pulling __image(s)__ and deploying __container(s)__ !  
 (A __container__ is running instance of a given __image__)
+
 ---
 <A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_GUI.md">Go back to main procedure</A>
