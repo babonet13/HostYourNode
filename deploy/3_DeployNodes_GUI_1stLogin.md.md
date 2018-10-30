@@ -44,6 +44,6 @@ Additional Step > Clic on the "Container" menu,  then you get this screen :
 
 ![Step 6](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_6.png)
 
-You can notice that a container named "portainer-node" is running !   
-NEVER STOP AND/OR REMOVE THIS CONTAINER !!! IN THIS CASE IT WILL BE MANDATORY TO SWITCH IN LINUX COMAND LINE MODE ...
-
+You can notice that a container named "portainer-node" is running ...   
+NEVER STOP AND/OR REMOVE THIS CONTAINER !!!  
+IN THIS CASE IT WILL BE MANDATORY TO SWITCH IN LINUX COMMAND LINE MODE.
