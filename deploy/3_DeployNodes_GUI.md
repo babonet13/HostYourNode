@@ -71,9 +71,35 @@ Step 6 > Copy the __exact__ name of the image you want to pull in the "image" fi
 
 ![Step 6](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_6bis.png)
 
-Step 7 > Clic on the "Pull the image" button : You see the "Download in progress ... 
+Step 7 > Clic on the "Pull the image" button : You will see the "Download in progress ..."
 
 ![Step 7](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_7.png)
+
+Step 8 > The required image is now available in local :
+
+![Step 8](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_8.png)
+
+Step 9 > Select the "Container" menu :
+
+![Step 9](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_9.png)
+
+Step 10 > Clic on the "+ Add contained" button :
+
+![Step 10](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_10.png)
+
+Step 11 > Do the following action :
+* Fill the "Name" field with the "bitcoin-node" value
+* Fill the "Image" filed with the "hostyournode/bitcoind_pkg-ubuntu_arm32v7:0.17.0" value
+* Clic on the "+ map additional port" button (in the "Port mapping" section)
+* Fill the "host" field AND the "container" field with the "8333 value
+* Clic on the "+ map additional volume" button (in the "Volumes" tab)
+* Fill the "container" filed with the "/var/lib/bitcoin" value, select "Bind" AND fill also the "host" field with the "/var/lib/bitcoin" value
+
+![Step 11](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_11.png)
+
+Step 12 > Clic on the "Deploy the container" button. Wait few seconds ... and you will see the bitcoin-node running :
+
+![Step 12](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_12.png)
 
 Adaptation table
 - 
