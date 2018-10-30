@@ -45,7 +45,7 @@ Others node deployement could be realised by adaptinf this procedure.
 
 Specific procedure : Deploying the Bitcoin Node based on "bitcoind" (for the arm32V7 architecture)
 - 
-Step 1 > Go to <A href="https://hub.docker.com/u/hostyournode/">hostyourhode@DockerHub</A> repository
+Step 1 > Go to <A href="https://hub.docker.com/u/hostyournode/">hostyournode@DockerHub</A> repository
 
 ![Step 1](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_1.png)
 
