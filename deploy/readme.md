@@ -10,6 +10,32 @@ Objective of this section
 This section allow you to step-by-step build a full Bitcoin stack (BTC, LN & PAY nodes)
 > At this stage of the projet the only node available is bitcoin node (implemented by bitcoind)
 
+Hardware Prerequisite
+-
+Supported architecture
+<table>
+    <thead>
+        <tr>
+            <th>Road Map</th>
+            <th>Actual</th>
+            <th>Planned</th>
+            <th>Future</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>amd64</td>
+            <td>arm32v7 (Raspberry, Odroid)</td>
+            <td>Other</td>
+        </tr>
+        <tr>
+            <td>Can user pre-build image</td>
+            <td>Must build your own image from Dockerfile</td>
+            <td>Must build your own image from Dockerfile</td>
+        </tr>
+    </tbody>
+</table>
+
 Manual installation
 -
 
