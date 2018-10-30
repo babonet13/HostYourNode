@@ -85,3 +85,4 @@ Pull the Docker image from the Docker Hub repository
 
 Run the container using the Docker image
 <pre><code>$ docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
+<pre><code>$ docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
