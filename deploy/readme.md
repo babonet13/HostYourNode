@@ -61,7 +61,7 @@ Supported distribution(s)
             <td>Other(s)</td>
         </tr>
         <tr>
-            <td>Use or build</td>      
+            <td>Copy or adapt</td>      
             <td>Can use supplied instructions "as is"</td>
             <td>Can use supplied instructions "as is" (when available)</td>
             <td>Must adapt supplied instructions to your own Linux distro</td>
