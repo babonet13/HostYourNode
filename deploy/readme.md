@@ -36,20 +36,15 @@ Manual installation
         </tr>
         <tr>
             <td>2</td>
-            <td>Install Docker</td>
-            <td>See <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/2_InstallDocker.md">here</a></td>
+            <td>Install Docker & Deploy Portainer</td>
+            <td>See <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/2_InstallDockerAndDeployPortainer.md.md">here</a></td>
             <td>Docker will allow your machine to manage Images and Containers</td>
         </tr>
         <tr>
-            <td>3</td>
-            <td>Deploy Portainer</td>
-            <td>See <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployPortainer.md">here</a></td>
-            <td>Portainer is a contained-based graphical interface for Docker</td>
-        </tr>
         <tr>
-            <td>4</td>
+            <td>3</td>
             <td>Deploy Nodes</td>
-            <td>See <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/4_DeployNodes.md">here</a></td>
+            <td>See <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes.md">here</a></td>
             <td>Nodes are containerized daemon for running bitcoind, LND and btcpayserver and more ...</td>
         </tr>
     </tbody>
