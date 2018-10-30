@@ -12,4 +12,4 @@ You can follow the procedure described <A href="https://github.com/babonet13/Hos
 
 Deploying Bitcoin Node "bitcoind"
 - 
-Create a directory for storing the Bitcoin blochain
+Create a directory for storing the Bitcoin blockchain
