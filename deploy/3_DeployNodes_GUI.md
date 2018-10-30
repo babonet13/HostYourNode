@@ -13,7 +13,6 @@ You can follow the procedure described <A href="https://github.com/babonet13/Hos
 Generic procedure
 -
 Deploying a node using Portainer always follow the same 3 steps :
-
 <table>
     <thead>
         <tr>
@@ -50,8 +49,7 @@ Identify the exact name of your bitcoin node in the hostyourhode@DockerHub repos
 
 Adaptation table
 - 
-This table give the used parametrer for each differents node types
-
+This table give the used parametrer for each differents node types :
 <table>
     <thead>
         <tr>
