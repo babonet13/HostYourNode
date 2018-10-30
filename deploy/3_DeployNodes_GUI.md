@@ -101,6 +101,9 @@ Step 12 > Clic on the "Deploy the container" button. Wait few seconds ... and yo
 
 ![Step 12](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_12.png)
 
+That's it !
+>>> Depending of the the power of your machine, the Bitcoin blockchain could take few hours to few day to be fully synced !
+
 Adaptation table
 - 
 This table give the used parametrer for each differents node types :
