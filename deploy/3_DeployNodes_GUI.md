@@ -8,7 +8,7 @@ Before deploying nodes you need to create a Portainer user, for example :
  * Username : satoshi
  * Password : 21millions
 
-You can follow the procedure described <A href="http://...">here</A>
+You can follow the procedure described <A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_GUI_1stLogin.md.md">here</A>
 
 Deploying Bitcoin Node "bitcoind"
 - 
