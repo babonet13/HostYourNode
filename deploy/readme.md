@@ -8,6 +8,7 @@ This section dedicated to store all the instructions and/or files needed for man
 Objective of this section
 -
 This section allow you to step-by-step build a full Bitcoin stack (BTC, LN & PAY nodes)
+> At this stage of the projet the only node available is bitcoin node (implemented by bitcoind)
 
 Manual installation
 -
