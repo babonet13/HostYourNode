@@ -62,8 +62,8 @@ Supported distribution(s)
         </tr>
         <tr>
             <td>Use or build</td>      
-            <td>Can use supplied instruction "as is"</td>
-            <td>Can use supplied instruction "as is" (when available)</td>
+            <td>Can use supplied instructions "as is"</td>
+            <td>Can use supplied instructions "as is" (when available)</td>
             <td>Must adaptd instruction to your distro</td>
         </tr>
     </tbody>
