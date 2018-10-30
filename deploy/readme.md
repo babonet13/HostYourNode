@@ -27,7 +27,7 @@ Supported architecture(s)
             <td>Architecture</td>
             <td>amd64</td>
             <td>arm32v7 (Raspberry, Odroid)</td>
-            <td>Other</td>
+            <td>Other(s)</td>
         </tr>
         <tr>
             <td>Use or build</td>      
@@ -58,7 +58,7 @@ Supported distribution(s)
             <td>Distribution</td>
             <td>Ubuntu/Debian</td>
             <td>Alpine Linux</td>
-            <td>Other</td>
+            <td>Other(s)</td>
         </tr>
         <tr>
             <td>Use or build</td>      
