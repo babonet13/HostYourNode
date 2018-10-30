@@ -55,7 +55,7 @@ This table give the used parametrer for each differents node types
 <table>
     <thead>
         <tr>
-            <th>deamon</th>
+            <th>Deamon</th>
             <th>Host Volume</th>
             <th>Container Volume</th>
             <th>Host Port</th>
@@ -64,7 +64,7 @@ This table give the used parametrer for each differents node types
     </thead>
     <tbody>
         <tr>
-            <th>deamon</th>
+            <th>bitcoind</th>
             <th>/var/lib/bitcoin</th>
             <th>/var/lib/bitcoin</th>
             <th>8333</th>
@@ -72,17 +72,17 @@ This table give the used parametrer for each differents node types
         </tr>
         <tr>
             <th>LND</th>
-           <th>HTo Be Defined</th>
-            <th>HTo Be Defined</th>
-            <th>HTo Be Defined</th>
-            <th>HTo Be Defined</th>
+           <th>To Be Defined</th>
+            <th>To Be Defined</th>
+            <th>To Be Defined</th>
+            <th>To Be Defined</th>
         </tr>
         <tr>
             <th>btcpayserver</th>
-            <th>HTo Be Defined</th>
-            <th>HTo Be Defined</th>
-            <th>HTo Be Defined</th>
-            <th>HTo Be Defined</th>
+            <th>To Be Defined</th>
+            <th>To Be Defined</th>
+            <th>To Be Defined</th>
+            <th>To Be Defined</th>
         </tr>
     </tbody>
 </table>
