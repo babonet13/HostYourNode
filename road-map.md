@@ -1,7 +1,10 @@
 Road Map of the Host Your Node projet
 ==
 
-Current Situation VS Target Situation :
+Current Situation VS Target Situation
+-
+
+Among several "facets" :
 <table>
     <thead>
         <tr>
@@ -49,10 +52,12 @@ Current Situation VS Target Situation :
     </tbody>
 </table>
 
-Linux Distro choice drivers :
-   - Ubuntu : Used by many people
-   - Alpine : Light & Fast
+Choice drivers
+-
+For Linux Distro :
+* Ubuntu : Used by many people
+* Alpine : Light & Fast
 
-Hardware Architecture choice drivers :
-   - amd64 : The most spreaded
-   - arm32v7 : Raspberry, Odroïd
+For Hardware Architecture :
+* amd64 : The most spreaded
+* arm32v7 : Raspberry, Odroïd
