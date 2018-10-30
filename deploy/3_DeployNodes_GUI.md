@@ -46,26 +46,33 @@ Others node deployement could be realised by adaptinf this procedure.
 Specific procedure : Deploying the Bitcoin Node based on "bitcoind" (for the arm32V7 architecture)
 - 
 Step 1 > Go to <A href="https://hub.docker.com/u/hostyournode/">hostyourhode@DockerHub</A> repository
+
 ![Step 1](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_1.png)
 
 Step 2 > Select your image (e.g. _hostyournode/bitcoind_pkg-ubuntu_arm32v7_) and clic on it :
-![Step 1](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_2.png)
+
+![Step 2](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_2.png)
 
 Step 3 > Clic on the "Tags" tab and select the version your are interrested in (e.g. _0.17.0_)
-![Step 1](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_3.png)
+
+![Step 3](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_3.png)
 
 A this stage you can determine the __exact__ name of the image (e.g.  _hostyournode/bitcoind_pkg-ubuntu_arm32v7:0.17.0_)
 
 Step 4 > Login into Portainer / Menu "Home" / Clic on the "Whale" logo (near "local") :
+
 ![Step 4](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_4.png)
 
 Step 5 > Select the "Images" menu
+
 ![Step 5](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_5.png)
 
 Step 6 > Copy the __exact__ name of the image you want to pull in the "image" field :
+
 ![Step 6](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_6.png)
 
 Step 7 > Clic on the "Pull the image" button : You see the "Download in progress ... 
+
 ![Step 7](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_7.png)
 
 Adaptation table
