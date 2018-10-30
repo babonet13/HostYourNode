@@ -13,18 +13,23 @@ You will get the following screen :
 Step by step procedure
 -
 Step 1 > Fill the "Username", the "Password" and the "Confirm password" fields :
+
 ![Step 1](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_1.png)
 
 Step 2 > Press the "Create user" button, then you get this screen : 
+
 ![Step 2](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_2.png)
 
 Step 3 > Clic on the "Local" button,  then you get this screen : 
+
 ![Step 3](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_3.png)
 
 Step 4 > Clic on the "Connect" button,  then you get this screen : 
+
 ![Step 4](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_4.png)
 
 Step 5 > Clic on the "Whale" logo (near "local"), then you get this screen : 
+
 ![Step 5](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_5.png)
 
 From here, you can start pulling image and deploying container ...
