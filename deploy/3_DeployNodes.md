@@ -11,6 +11,6 @@ You can deploy "HYN" nodes :
 
 Or
 
-* Using the Portainer Graphical Interface (<A href="https://github.com/babonet13/HostYourNode/edit/master/deploy/3_DeployNodes_GUI.md">GUI</A>)
+* Using the Portainer Graphical Interface (<A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_GUI.md">GUI</A>)
 
 ![Portainer Graphical Interface](https://github.com/babonet13/Images/blob/master/Portainer/PortainerGraphicalInterface.png)
