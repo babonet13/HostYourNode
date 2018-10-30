@@ -25,7 +25,7 @@ Deploying a node using Portainer always follow the same 3 steps :
         <tr>
             <td>1</td>
             <td>Identify the exact name of the required image</td>
-            <td>The name follow this template : repository/daemon_mod-distro_arch:version</td>
+            <td>The exact name follow this template : repository/daemon_mod-distro_arch:version</td>
         </tr>
         <tr>
             <td>2</td>
