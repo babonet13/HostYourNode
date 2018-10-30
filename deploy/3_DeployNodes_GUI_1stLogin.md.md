@@ -40,7 +40,7 @@ From here, you can start pulling __image(s)__ and deploying __container(s)__ !
 ---   
 
 >>> VERY IMPORTANT NOTICE   
-Additional Step > Clic on the "Container" menu,  then you get this screen : 
+Additional Step > Clic on the "Containers" menu,  then you get this screen : 
 
 ![Step 6](https://github.com/babonet13/Images/blob/master/Portainer/1stLogin/Step_6.png)
 
