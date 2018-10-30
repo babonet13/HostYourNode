@@ -69,7 +69,7 @@ Step 5 > Select the "Images" menu
 
 Step 6 > Copy the __exact__ name of the image you want to pull in the "image" field :
 
-![Step 6](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_6.png)
+![Step 6](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_6bis.png)
 
 Step 7 > Clic on the "Pull the image" button : You see the "Download in progress ... 
 
