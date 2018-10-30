@@ -41,7 +41,7 @@ Supported architecture(s)
 How to check your hardware architecture ?
 <pre><code>$ cat /proc/cpuinfo</code></pre>
 
-Sofwtare Prerequisite
+Software Prerequisite
 -
 Supported distribution(s)
 <table>
