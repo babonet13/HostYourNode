@@ -13,18 +13,18 @@ Current Situation VS Target Situation :
     <tbody>
         <tr>
             <td>Installation Mode</td>
-            <td>From Package or Binaries</td>
-            <td>From Sources</td>
+            <td>From Package</td>
+            <td>From Package, Binaries or Sources</td>
         </tr>
         <tr>
             <td>Linux Distro</td>
             <td>Ubuntu/Debian</td>
-            <td>Alpine</td>
+            <td>Ubuntu/Debian, Alpine</td>
         </tr>
         <tr>
             <td>Dockerfile FROM</td>
             <td>Ubuntu</td>
-            <td>Alpine</td>
+            <td>Ubuntu, Alpine</td>
         </tr>
         <tr>
             <td>Node Type</td>
@@ -36,9 +36,23 @@ Current Situation VS Target Situation :
             <td>1 Default choice</td>
             <td>N Several choices</td>
         </tr>
+        <tr>
+            <td>Companion Software</td>
+            <td>None</td>
+            <td>RTL (Ride The Lightning)</td>
+        </tr>
+        <tr>
+            <td>Hardware Architecture</td>
+            <td>amd64</td>
+            <td>amd64, arm32v7</td>
+        </tr>
     </tbody>
 </table>
 
-Choice drivers :
+Linux Distro choice drivers :
    - Ubuntu : Used by many people
    - Alpine : Light & Fast
+
+Hardware Architecture choice drivers :
+   - amd64 : The most spreaded
+   - arm32v7 : Raspberry, Odroïd
