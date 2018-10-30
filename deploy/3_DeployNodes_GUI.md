@@ -67,7 +67,7 @@ Step 5 > Select the "Images" menu
 
 ![Step 5](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_5.png)
 
-Step 6 > Copy the __exact__ name of the image you want to pull in the "image" field :
+Step 6 > Copy the __exact__ name of the image you want to pull in the "Image" field :
 
 ![Step 6](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_6bis.png)
 
