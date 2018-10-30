@@ -17,8 +17,12 @@ Target Docker image specification
             <td>Bitcoin Node</td>
         </tr>
         <tr>
-            <td>Daemon (Version)</td>
-            <td>bitcoind (0.17.0)</td>
+            <td>Daemon Name</td>
+            <td>bitcoind</td>
+        </tr>
+         <tr>
+            <td>Daemon Version</td>
+            <td>b0.17.0</td>
         </tr>
         <tr>
             <td>Installation Mode</td>
@@ -27,6 +31,10 @@ Target Docker image specification
         <tr>
             <td>Dockerfile FROM</td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Docker/ubuntu-pkg">ubuntu-pkg</A></td>
+        </tr>
+         <tr>
+            <td>Target Architecture(s)</td>
+            <td>amd64, arm32v7</td>
         </tr>
         <tr>
             <td>Docker Hub</td>
@@ -50,8 +58,11 @@ Update the Github repository (if already cloned)
 Build the intermediary Docker image
 <pre><code>$ docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg</code></pre>
 
-Build the final Docker image
-<pre><code>$ docker build -t bitcoind_pkg-ubuntu:0.17.0 /HostYourNode/Docker/bitcoind_pkg-ubuntu</code></pre>
+Build the final Docker image (for amd64)
+<pre><code>$ docker build -t bitcoind_pkg-ubuntu:0.17.0 -t bitcoind_pkg-ubuntu:amd64 /HostYourNode/Docker/bitcoind_pkg-ubuntu</code></pre>
+
+Build the final Docker image (for arm32v7)
+<pre><code>$ docker build -t bitcoind_pkg-ubuntu:0.17.0 -t bitcoind_pkg-ubuntu:arm32v7 /HostYourNode/Docker/bitcoind_pkg-ubuntu</code></pre>
 
 Pushing Instructions
 -
