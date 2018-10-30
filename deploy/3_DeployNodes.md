@@ -29,6 +29,5 @@ You can deploy "HYN" nodes :
             <td>![alt text](https://github.com/babonet13/HelloWorld/blob/master/Portainer.png)</td>
             <td>![alt text](https://github.com/babonet13/HelloWorld/blob/master/Portainer.png)</td>
         </tr>
-
     </tbody>
 </table>
