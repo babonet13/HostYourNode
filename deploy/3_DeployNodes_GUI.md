@@ -87,7 +87,7 @@ Step 10 > Clic on the "+ Add contained" button :
 
 ![Step 10](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_10.png)
 
-Step 11 > Do the following action :
+Step 11 > Do the following actions :
 * Fill the "Name" field with the "bitcoin-node" value
 * Fill the "Image" filed with the "hostyournode/bitcoind_pkg-ubuntu_arm32v7:0.17.0" value
 * Clic on the "+ map additional port" button (in the "Port mapping" section)
