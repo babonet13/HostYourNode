@@ -40,6 +40,16 @@ References
             <td><A href="https://nulltx.com/author/writer9/">Daniel Dob</A> </td>
             <td>English</td>
         </tr>        
+         <tr>
+            <td><A href="https://bitcoinist.com/6-reasons-run-bitcoin-full-node/">6 Reasons To Run A Bitcoin Full Node</A> </td>
+            <td>Antonio Madeira</td>
+            <td>English</td>
+        </tr>   
+         <tr>
+            <td><A href="https://www.coindesk.com/bitcoin-nodes-need/">What Are Bitcoin Nodes and Why Do We Need Them ?</A> </td>
+            <td><A href="https://twitter.com/danielcawrey">Daniel Cawrey</A> </td>
+            <td>English</td>
+        </tr>   
         <tr>
             <td><A href="https://www.sosthene.net/histoire-noeud/">Une histoire de noeud</A> </td>
             <td><A href="https://twitter.com/Bob_le_chinois">Sosthène (Bob Le Chinois)</A> </td>
