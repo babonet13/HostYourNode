@@ -14,7 +14,7 @@ But running theirs own nodes is quite a complex task !
 
 Note 2
 -
-According to <A href="https://www.amazon.fr/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861">Bitcoin Standard<A/> by <A href="https://twitter.com/saifedean">@saifedean<A/>, "Rise in Cost of Nodes and Drop in Their Numberb" (Cf p. 247). is a "How To Kill Bitcoin Risk" (Cf p. 241). 
+According to <A href="https://www.amazon.fr/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861">The Bitcoin Standard<A/> by <A href="https://twitter.com/saifedean">@saifedean<A/>, "Rise in Cost of Nodes and Drop in Their Numberb" (Cf p. 247). is a "How To Kill Bitcoin Risk" (Cf p. 241). 
 If convinced people could run theirs owns nodes because of the reducing complexity to build one is a good thing for Bitcoin. 
 
 
