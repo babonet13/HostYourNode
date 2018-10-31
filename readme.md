@@ -84,6 +84,16 @@ This stack could be composed by :
             <th>Description</th>
             <th>Comment</th>
         </tr>
+        <tr>
+            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/dev">dev</A></th>
+            <th>Development stuff</th>
+            <th>N/A</th>
+        </tr>
+         <tr>
+            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/deploy">deploy</A></th>
+            <th>Content currently spread in the "How To" section</th>
+            <th>In process ...</th>
+        </tr>
     </tbody>
 </table>
  
