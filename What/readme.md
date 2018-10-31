@@ -27,13 +27,13 @@ Description
         <tr>
             <td>What is a full Bitcoin stack ?</td>
             <td>It's a layered set of more or less dependant software where each software realized a some functionnalities</td>
-            <td>Node, Daemon, Interface</td>
+            <td>Node, Daemon, Interface.</td>
             <td></td>
         </tr>
         <tr>
             <td>What is a container oriented software architecture ?</td>
             <td>It's a software architecture which allow applications to run independently from the host OS</td>
-            <td>Dockerfile, Image, Container</td>
+            <td>Dockerfile, Image, Container.</td>
             <td>Containers are much more easy to deploy than standard applications</td>
         </tr>
     </tbody>
