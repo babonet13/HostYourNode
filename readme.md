@@ -62,27 +62,27 @@ This stack could be composed by :
     <tbody>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/What">What</A></td>
-            <td>Description</td>
-            <td>Comment</td>
+            <td>Explain what is such a stack, and what are images, containers and daemons, etc ...</td>
+            <td>What are those thing and how are they connected !</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Why">Why</A></td>
-            <td>Description</td>
-            <td>Comment</td>
+            <td>(Try to) explain why it it important to run your own node ...</td>
+            <td>N/A</td>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">How To</A></td>
-            <td>Description</td>
-            <td>Comment</td>
+            <td>Explain how to (step-by-step) build and operate such a stack</td>
+            <td>Depending of your user profile you can ignore some step ;-)</td>
         </tr>
          <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Docker">Docker</A></td>
-            <td>Description</td>
-            <td>Comment</td>
+            <td>A unique "flat" repository for all the required Dockerfile of this projet</td>
+            <td>Contains also asscociated configuration file(s)</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/fs">fs</A></td>
-            <td>Description</td>
-            <td>Comment</td>
+            <td>Configuration files and sh scripts for the automatic installation process</td>
+            <td>Only for Ubuntu/Debian distro</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/dev">dev</A></td>
