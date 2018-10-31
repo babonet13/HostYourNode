@@ -1,4 +1,4 @@
-Step 0 : Understand Prerequisite
+Step 0 : Understand Prerequisites
 ==
 
 Objectives (Why ?) :
