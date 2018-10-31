@@ -35,3 +35,22 @@ Identification and description of the mains related concepts :
 Schema
 -
 ![FullBitcoinStack](https://github.com/babonet13/Images/blob/master/HostYourNode/What/FullBitcoinStack.png)
+
+References
+-
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author(s)</th>
+            <th>Language</th>
+        </tr>
+    </thead>
+     <tbody>
+        <tr>
+            <td>To Be Defined</td>
+            <td>To Be Defined</td>
+            <td></td>
+        </tr>
+</table>
