@@ -61,38 +61,38 @@ This stack could be composed by :
     </thead>
     <tbody>
         <tr>
-            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/What">What</A></th>
-            <th>Description</th>
-            <th>Comment</th>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/What">What</A></td>
+            <td>Description</td>
+            <td>Comment</td>
         </tr>
         <tr>
-            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/Why">Why</A></th>
-            <th>Description</th>
-            <th>Comment</th>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Why">Why</A></td>
+            <td>Description</td>
+            <td>Comment</td>
         <tr>
-            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">How To</A></th>
-            <th>Description</th>
-            <th>Comment</th>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">How To</A></td>
+            <td>Description</td>
+            <td>Comment</td>
         </tr>
          <tr>
-            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/Docker">Docker</A></th>
-            <th>Description</th>
-            <th>Comment</th>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Docker">Docker</A></td>
+            <td>Description</td>
+            <td>Comment</td>
         </tr>
         <tr>
-            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/fs">fs</A></th>
-            <th>Description</th>
-            <th>Comment</th>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/fs">fs</A></td>
+            <td>Description</td>
+            <td>Comment</td>
         </tr>
         <tr>
-            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/dev">dev</A></th>
-            <th>Development stuff</th>
-            <th>N/A</th>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/dev">dev</A></td>
+            <td>Development stuff</td>
+            <td>N/A</td>
         </tr>
          <tr>
-            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/deploy">deploy</A></th>
-            <th>Content currently spread in the "How To" section</th>
-            <th>In process ...</th>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/deploy">deploy</A></td>
+            <td>Content currently spread in the "How To" section</td>
+            <td>In process ...</td>
         </tr>
     </tbody>
 </table>
