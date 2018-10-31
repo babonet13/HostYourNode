@@ -25,7 +25,7 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>What is a full Bitcoin stack ?</td>
+            <td>What is a <A href="https://github.com/babonet13/HostYourNode/blob/master/What/FullBitcoinStack.md">full Bitcoin stack</A> ?</td>
             <td>It's a layered set of more or less dependant Bitcoin related softwares where each layer provides a set of coherents functionnalities</td>
             <td>Node, Daemon, Interface.</td>
             <td></td>
