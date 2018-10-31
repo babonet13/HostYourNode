@@ -4,7 +4,7 @@ The following schema shows the whole Bitcoin stack architecture.
 
 Legend
 -
-
+Identification and description of the mains related concepts :
 <table>
     <thead>
         <tr>
