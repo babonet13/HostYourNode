@@ -5,11 +5,11 @@ This section is dedicated to explain "why is it so important to run your own nod
 
 Note 1
 -
-Many people who are owning / hodling Bitcoin want to be a 1st Class Bitcoin Citizen by following the « 3S » rules !
-1. Safety : Hold your private key (coz not your keys => not your funds)
-2. Scalability : Go Lightning Network (coz no "weight" => no delay, no fee)
-3. Sovereignty : Run your own nodes (coz not your hardware => not your node)
-But running theirs own done is a complex task that is why the aims of HostYourNode is to reduce the compexity of this task
+Many people who are owning / hodling Bitcoin want to be a 1st Class Bitcoin Citizen by following the « 3S » rules !  
+1. Safety : Hold your private key (coz not your keys => not your funds). 
+2. Scalability : Go Lightning Network (coz no "weight" => no delay, no fee). 
+3. Sovereignty : Run your own nodes (coz not your hardware => not your node). 
+By running theirs own done is a complex task that is why the aims of HostYourNode is to reduce the compexity of this task
 
 Note 2
 -
