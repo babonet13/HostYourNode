@@ -19,7 +19,7 @@ Legend
             <td>e.g. Bitcoin Node, Lightning Node, Payment Node</td>
         </tr>
         <tr>
-            <td>Deamon</td>
+            <td>Daemon</td>
             <td>CMD-oriented software (Without GUI) which implements a given type of node</td>
             <td>e.g. LND, Eclair & C-Lightning are 3 differents implementation for the Lightning Node</td>
         </tr>
