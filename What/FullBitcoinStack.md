@@ -1,8 +1,9 @@
 The Full Bitcoin Stack
 ==
-The following schema shows the whole Bitcoin stack architecture.
+The following schema shows the whole Bitcoin stack architecture.  
+
 Legend
---
+-
 
 <table>
     <thead>
