@@ -26,7 +26,7 @@ Description
     <tbody>
         <tr>
             <td>What is a full Bitcoin stack ?</td>
-            <td>It's a layered set of more or less dependant software where each software realized a some functionnalities</td>
+            <td>It's a layered set of more or less dependant Bitcoin related softwares where each layer provides a set of coherents functionnalities</td>
             <td>Node, Daemon, Interface.</td>
             <td></td>
         </tr>
