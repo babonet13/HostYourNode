@@ -15,7 +15,7 @@ Legend
     <tbody>
         <tr>
             <td>Node</td>
-            <td>Abstraction of a given type of softare which achieve some specifics tasks</td>
+            <td>Abstraction of a given type of software which achieve some specifics tasks</td>
             <td>e.g. Bitcoin Node, Lightning Node, Payment Node</td>
         </tr>
         <tr>
