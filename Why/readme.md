@@ -8,8 +8,8 @@ Note 1
 Many people who are owning / "hodling" Bitcoin(s) want to be a 1st Class Bitcoin Citizen by following the « 3S » rules !  
 1. __Safety__ : Hold your private key (coz not your _keys_ => not your _funds_). 
 2. __Scalability__ : Go Lightning Network (coz no _"weight"_ => no _delay_, no _fee_). 
-3. __Sovereignty__ : Run your own nodes (coz not your _machine_ => not your _node_). 
-But running theirs own nodes is quite a complex task !
+3. __Sovereignty__ : Run your own nodes (coz not your _machine_ => not your _node_).  
+But running theirs own nodes is quite a complex task !  
 => That's why the aims of the <A href="https://github.com/babonet13/HostYourNode">HostYourNode</A> projet is to reduce the compexity of this task ...
 
 Note 2
