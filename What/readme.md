@@ -5,7 +5,7 @@ This section is dedicated to explain what are images, containers, daemons ...
 
 Objectives
 -
-The goal of this section is to help you to understand WTF is a __100% container-based Bitcoin full stack__ !
+The goal of this section is to help you to understand WTF is a __100% container-oriented Bitcoin full stack__ !
 
 In order to understand that, you need to understand both :
 * What is a _full Bitcoin stack_ ?
@@ -31,7 +31,7 @@ Description
             <td></td>
         </tr>
         <tr>
-            <td>What is a container oriented software architecture ?</td>
+            <td>What is a <A href="https://github.com/babonet13/HostYourNode/blob/master/What/ContainerOrientedArchitecture.md">container-oriented architecture ?</A></td>
             <td>It's a software architecture which allow applications to run independently from the host OS</td>
             <td>Dockerfile, Image, Container.</td>
             <td>Containers are much more easy to deploy than standard applications</td>
