@@ -31,12 +31,15 @@ References
     </thead>
      <tbody>
         <tr>
-            <td><A href="https://www.sosthene.net/histoire-noeud/">Support the Bitcoin network by running your own full node</A> </td>
-            <td><A href="https://twitter.com/Bob_le_chinois">http://bitcoin.org</A> </td>
+            <td><A href="https://bitcoin.org/en/full-node">Support the Bitcoin network by running your own full node</A> </td>
+            <td>https://bitcoin.org</td>
             <td>English</td>
         </tr>
-    </tbody>
-    <tbody>
+         <tr>
+            <td><A href="https://nulltx.com/why-you-should-consider-running-a-bitcoin-node/">Why You Should Consider Running a Bitcoin Node</A> </td>
+            <td><A href="https://nulltx.com/author/writer9/">Daniel Dob</A> </td>
+            <td>English</td>
+        </tr>        
         <tr>
             <td><A href="https://www.sosthene.net/histoire-noeud/">Une histoire de noeud</A> </td>
             <td><A href="https://twitter.com/Bob_le_chinois">Sosthène (Bob Le Chinois)</A> </td>
