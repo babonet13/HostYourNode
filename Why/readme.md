@@ -26,7 +26,7 @@ References
         <tr>
             <th>Title</th>
             <th>Author(s)</th>
-            <th>Langague</th>
+            <th>Language</th>
         </tr>
     </thead>
     <tbody>
