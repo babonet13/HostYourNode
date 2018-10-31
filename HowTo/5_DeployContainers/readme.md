@@ -1,4 +1,4 @@
-Step 5 : Deploy Container
+Step 5 : Deploy Containers
 ==
 
 Objectives (Why ?) :
