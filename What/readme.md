@@ -20,18 +20,21 @@ Description
             <th>Understanding requirement</th>
             <th>Description</th>
             <th>Key concepts</th>
+            <th>Comment</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>What is a full Bitcoin stack ?</td>
-            <td>It a layered set of more or less dependant software where each software realized a some functionnalities</td>
+            <td>It's a layered set of more or less dependant software where each software realized a some functionnalities</td>
             <td>Node, Daemon, Interface</td>
+            <td></td>
         </tr>
         <tr>
             <td>What is a container oriented software architecture ?</td>
-            <td>It a software architecture which allow application to run independtly from the host OS</td>
+            <td>It's a software architecture which allow applications to run independently from the host OS</td>
             <td>Dockerfile, Image, Container</td>
+            <td>Containers are much more easy to deploy than standard applications</td>
         </tr>
     </tbody>
 </table>
