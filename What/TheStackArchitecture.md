@@ -9,7 +9,7 @@ Legend
         <tr>
             <th>Concept</th>
             <th>Description</th>
-            <th>Comment</th>
+            <th>Comment / Example</th>
         </tr>
     </thead>
     <tbody>
@@ -26,7 +26,7 @@ Legend
         <tr>
             <td>Interface</td>
             <td>GUI-oriented software wich allow end-user to interact with a given daemon</td>
-            <td>e.g. The Ride The Lightning interface is used to control the LND daemon</td>
+            <td>e.g. The Ride The Lightning interface is used to interact with the LND daemon</td>
         </tr>
     </tbody>
 </table>
