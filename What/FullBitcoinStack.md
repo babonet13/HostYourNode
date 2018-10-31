@@ -33,4 +33,4 @@ Legend
 
 Schema
 -
-![TheStackArchitecture](https://github.com/babonet13/Images/blob/master/HostYourNode/What/ThaStackArchitecture.png)
+![FullBitcoinStack](https://github.com/babonet13/Images/blob/master/HostYourNode/What/FullBitcoinStack.png)
