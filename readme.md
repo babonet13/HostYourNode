@@ -50,8 +50,42 @@ This stack could be composed by :
 Organization of this repository
 -
 This repository provide resources for both :
-* building the required components for each node of the stack : Section "<A href="https://github.com/babonet13/HostYourNode/tree/master/Docker">Docker</A>" ("recipes" for building Docker images = Dockerfiles and associated files)
-* deploying a given stack on a machine : Sections "<A href="https://github.com/babonet13/HostYourNode/tree/master/deploy">deploy</A>" (instructions and deployment scripts) and "<A href="https://github.com/babonet13/HostYourNode/tree/master/fs">fs</A>" (configuration files)
+This stack could be composed by : 
+ <table>
+    <thead>
+        <tr>
+            <th>Section</th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/What">What</A></th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+        <tr>
+            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/Why">Why</A></th>
+            <th>Description</th>
+            <th>Comment</th>
+        <tr>
+            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">How To</A></th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+         <tr>
+            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/Docker">Docker</A></th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+        <tr>
+            <th><A href="https://github.com/babonet13/HostYourNode/tree/master/fs">fs</A></th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+    </tbody>
+</table>
  
  Host Your Node Resources
  -
