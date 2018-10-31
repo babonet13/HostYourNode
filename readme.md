@@ -101,7 +101,8 @@ This stack could be composed by :
  -
  Where to select images for building your machine : <A href="https://hub.docker.com/u/hostyournode/">HostYourNode@DockerHub</A>.   
  Where to find documents for maintaining your machine : <A href="http://bit.ly/2SzMofe">Support Documents</A>.  
- Where to buy a pre-configured machine : <A href="http://bit.ly/2DOj69o">Store@OpenBazaar</A>.  
+ Where to buy a pre-configured machine : <A href="http://bit.ly/2DOj69o">Store@OpenBazaar</A>.
+ Where to have some fresh news : <A href=" https://twitter.com/HostYourNode">@HostYourNode</A>.
  
  Others Useful Resources
  -
