@@ -29,6 +29,13 @@ References
             <th>Language</th>
         </tr>
     </thead>
+     <tbody>
+        <tr>
+            <td><A href="https://www.sosthene.net/histoire-noeud/">Support the Bitcoin network by running your own full node</A> </td>
+            <td><A href="https://twitter.com/Bob_le_chinois">http://bitcoin.org</A> </td>
+            <td>English</td>
+        </tr>
+    </tbody>
     <tbody>
         <tr>
             <td><A href="https://www.sosthene.net/histoire-noeud/">Une histoire de noeud</A> </td>
