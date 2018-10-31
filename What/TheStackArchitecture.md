@@ -20,7 +20,7 @@ Legend
         </tr>
         <tr>
             <td>Deamon</td>
-            <td>Non-GUI software which implements a givent node</td>
+            <td>Non-GUI software which implements a given type of node</td>
             <td>e.g. LND, Eclair & C-Lightning are 3 differents implementation for the Lightning Node</td>
         </tr>
         <tr>
