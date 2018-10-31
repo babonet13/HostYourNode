@@ -8,8 +8,8 @@ Objectives
 The goal of this section is to help you to understand WTF is a __100% container-based Bitcoin full stack__ !
 
 In order to understand that, you need to understand both :
-* What is a full Bitcoin stack ?
-* What is a container oriented software architecture ?  
+* What is a _full Bitcoin stack_ ?
+* What is a _container oriented architecture_ ?  
 
 Description
 -
