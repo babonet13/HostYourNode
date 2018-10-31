@@ -4,7 +4,33 @@
 
 Legend
 -
-
+Identification and description of the mains related concepts :
+<table>
+    <thead>
+        <tr>
+            <th>Concept</th>
+            <th>Description</th>
+            <th>Comment / Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Dockerfile</td>
+            <td>To Be Defined</td>
+            <td>To Be Defined</td>
+        </tr>
+        <tr>
+            <td>Image</td>
+            <td>To Be Defined</td>
+            <td>To Be Defined</td>
+        </tr>
+        <tr>
+            <td>Container</td>
+            <td>To Be Defined</td>
+            <td>To Be Defined</td>
+        </tr>
+    </tbody>
+</table>
 
 
 References
