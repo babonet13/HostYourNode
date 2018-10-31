@@ -14,4 +14,4 @@ Instructions (How ?) :
 Bla bla
 
 ---
-<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDeamons">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">End<A/> 
+<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">End<A/> 
