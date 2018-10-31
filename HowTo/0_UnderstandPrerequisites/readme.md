@@ -5,7 +5,7 @@ Objectives (Why ?) :
 --
 Bla bla
 
-Description (What ?):
+Description (What ?) :
 --
 Bla bla
 
@@ -14,4 +14,4 @@ Instructions (How ?) :
 Bla bla
 
 ---
-<A/ href="http://locahost">Previous<A/> | <A/ href="http://locahost">Next<A/> 
+<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Next<A/> 
