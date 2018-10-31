@@ -1,5 +1,6 @@
 Section "deploy" of the Host Your Node projet
 ==
+>>> The content of the section is currently transferer in the <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">How To</A> section ...
 
 This section dedicated to store all the instructions and/or files needed for manual and/ou automatic installation process.
 
