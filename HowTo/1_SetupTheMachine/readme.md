@@ -1,4 +1,4 @@
-Step 1 : Step The Machine
+Step 1 : Setup The Machine
 ==
 
 Objectives (Why ?) :
