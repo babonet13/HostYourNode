@@ -5,7 +5,7 @@ How to setup a virtual machine ?
 Instructions :
 -
 Things to do :   
-* Choose a VPS (Virtual Private Server) provider
+* Choose a VPS (Virtual Private Server) provider (Amazon AWS, Digital Ocean, OVH, ...)
 * Open a account in your choosen VPS Provider
 * Select your VPS characteristics (Power, Memory, Storage, ...) ...   
 ... and then launch the buiding process
