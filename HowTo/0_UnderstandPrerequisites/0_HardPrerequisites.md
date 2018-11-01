@@ -79,7 +79,8 @@ Instructions (How ?) :
 --
 How to check your hardware architecture ?
 <pre><code>$ cat /proc/cpuinfo</code></pre>
-Or
+
+How to check your hardware characteristics ?
 <pre><code>$ sudo apt-get install -y lshw
 $ lshw</code></pre>
 
