@@ -92,7 +92,13 @@ How to check your hostname ?
 How to check your username ?
 <pre><code>$ whoami</code></pre>
 
-How to check your container name(s) ?
+How to reset your password ?
+<pre><code>$ passwd</code></pre>
+
+How to check your images name(s) ?
+<pre><code>$ docker images</code></pre>
+
+How to check your containers name(s) ?
 <pre><code>$ docker ps -a</code></pre>
 
 ---
