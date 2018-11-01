@@ -72,8 +72,8 @@ This repository is organized thanks to the following sections :
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Why">Why</A></td>
-            <td>(Try to) explain why it isimportant to run your own node ...</td>
-            <td>N/A</td>
+            <td>(Try to) explain why it is - so - important to run your own node ...</td>
+            <td>... even if it is mainly an investment (both in money, time and knowledge)</td>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">HowTo</A></td>
             <td>Explain how to (step-by-step) build and operate such a stack</td>
