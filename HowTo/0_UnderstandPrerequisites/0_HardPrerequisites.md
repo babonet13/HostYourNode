@@ -85,7 +85,7 @@ Interesting models :
     </thead>
     <tbody>
         <tr>
-            <td>Hardkarnel</td>
+            <td>Hardkernel</td>
             <td>HC1/HC2</td>
         </tr>
         <tr>  
@@ -94,7 +94,7 @@ Interesting models :
         </tr>
          <tr>  
             <td>Banana Pi</td>
-            <td>Banana Pro Starter Kit</td>
+            <td>BPI-M3 (via Pro Starter Kit)</td>
         </tr>
          <tr>  
             <td>Intel</td>
