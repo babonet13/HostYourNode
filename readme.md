@@ -1,7 +1,7 @@
 Host Your Node (HYN) : Welcome "HYN"-naute
 ==
-__FAST__ to _Build_, __EASY__ to _Tune_, _Enjoy_ for __EVER__ !
-(Build by end-user for end-user)
+__FAST__ to _Build_, __EASY__ to _Tune_, _Enjoy_ for __EVER__ !  
+(Build by end-users for end-users)
 
 >>> Work in process ... 
 
