@@ -1,0 +1,37 @@
+Step 0.1 : Understand Software Prerequisites
+==
+
+Objectives (Why ?) :
+-
+
+Description (What ?) :
+-
+Supported distribution(s) :
+<table>
+    <thead>
+        <tr>
+            <th>Road Map ></th>
+            <th>Actual</th>
+            <th>Planned</th>
+            <th>Future</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Distribution</td>
+            <td>Ubuntu/Debian</td>
+            <td>Alpine Linux</td>
+            <td>Other(s)</td>
+        </tr>
+        <tr>
+            <td>Copy or adapt</td>      
+            <td>Can use supplied instructions "as is"</td>
+            <td>Must adapt supplied instructions to Alpine Linux distro</td>
+            <td>Must adapt supplied instructions to your own Linux distro</td>
+        </tr>
+    </tbody>
+</table>
+
+Instruction (How ?) :
+How to check your Linux distribution ?
+<pre><code>$ cat /etc/*-release</code></pre>
