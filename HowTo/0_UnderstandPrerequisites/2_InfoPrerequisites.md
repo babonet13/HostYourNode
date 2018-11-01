@@ -66,12 +66,12 @@ Name templates :
     </thead>
     <tbody>
         <tr>
-            <td></td>
+            <th>Template</th>
             <td>DEAMON-node</td>
             <td>DEAMON-node</td>
         </tr>
         <tr>
-            <td></td>
+            <th>Example</th>
             <td>hostyournode/bitcoind_pkg-ubuntu:0.17.0</td>
             <td>bitcoin-node</td>
         </tr>
