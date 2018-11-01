@@ -38,7 +38,7 @@ Target charateristic(s) :
     <thead>
         <tr>
             <th>Level</th>
-            <th>Minimux</th>
+            <th>Minimu</th>
             <th>Standard</th>
             <th>Deluxe</th>            
         </tr>
@@ -46,7 +46,7 @@ Target charateristic(s) :
     <tbody>
          <tr>
             <td>CPU</td>
-            <td>Intel Core i3, Cortex-A7, Cortex A53 </td>
+             <td>Intel Core i3</br>Cortex-A7, Cortex A53 </td>
             <td>Intel Core i5</td>
             <td>Intel Core i7</td>         
         </tr>
