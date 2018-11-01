@@ -53,8 +53,7 @@ This stack could be composed by :
 
 Organization of this repository
 -
-This repository provide resources for both :
-This stack could be composed by : 
+This repository is organized that to the following sections :
  <table>
     <thead>
         <tr>
