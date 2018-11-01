@@ -33,7 +33,7 @@ Supported architecture(s) :
     </tbody>
 </table>
 
-Target charateristic(s) :
+Target characteristic(s) :
 <table>
     <thead>
         <tr>
