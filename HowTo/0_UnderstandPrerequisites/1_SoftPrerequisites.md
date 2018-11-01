@@ -34,6 +34,7 @@ Supported distribution(s) :
 </table>
 
 Instruction (How ?) :
+-
 How to check your Linux distribution ?
 <pre><code>$ cat /etc/*-release</code></pre>
 
