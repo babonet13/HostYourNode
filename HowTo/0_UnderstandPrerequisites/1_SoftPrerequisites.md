@@ -3,6 +3,7 @@ Step 0.1 : Understand Software Prerequisites
 
 Objectives (Why ?) :
 -
+Insure that your Linux distro is compliant with the code provided by the HostYourNode projet
 
 Description (What ?) :
 -
