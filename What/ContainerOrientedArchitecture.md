@@ -1,6 +1,6 @@
-(Docker) Container-Oriented Architecture
+What is a container-oriented architecture ?
 ==
->>> To Be Done
+>>> To Be Done (Need a schema) ...
 
 Legend
 -
