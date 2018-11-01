@@ -75,7 +75,7 @@ This repository is organized thanks to the following sections :
             <td>(Try to) explain why it isimportant to run your own node ...</td>
             <td>N/A</td>
         <tr>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">How To</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">HowTo</A></td>
             <td>Explain how to (step-by-step) build and operate such a stack</td>
             <td>Depending of your user profile you can ignore some step ;-)</td>
         </tr>
