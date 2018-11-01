@@ -60,8 +60,8 @@ Name templates :
     <thead>
         <tr>
             <th>Name type</th>
-            <th>Host Name</th>
-            <th>Node Name</th>
+            <th>Image Name</th>
+            <th>Container Name</th>
         </tr>
     </thead>
     <tbody>
