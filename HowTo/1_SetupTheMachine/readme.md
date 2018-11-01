@@ -53,7 +53,7 @@ Just follow the link in the table :
           <tr>
             <td>Set the Information Prerequisites</td>
             <td>Define at least the hostname, a "non-root" user and associated password </td>
-            <td></td>
+            <td>To Be Completed</td>
         </tr>    
     </tbody>
 </table>
