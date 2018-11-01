@@ -3,7 +3,7 @@ Step 1 : Setup The Machine
 
 Objectives (Why ?) :
 --
-Bla bla
+Learn how setup a __physical__ or a __virtual__ machine and install a Linux distro on it 
 
 Description (What ?) :
 --
