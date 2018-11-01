@@ -7,6 +7,9 @@ Such an architecture is more robust and easy to deploys because each container g
 * port(s)
 * ...
 
+Wiht this kind of architecture it become easy to switch from a application to anothers with perturbing yhe whole system.
+(e.g. Changing the Bitcoin Node implemented by the bitcoind daemon by a Bitcoin Node implemented by btcd daemon)
+
 Legend
 -
 Identification and description of the mains related concepts :
