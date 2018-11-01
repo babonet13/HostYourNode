@@ -16,7 +16,7 @@ Get a ready-to-use compliant machine, well installed and initilized for the next
 Description (What ?) :
 --
 According your option choice, ypu could know what d do :
-![GetTheMachine](https://github.com/babonet13/Images/blob/master/HostYourNode/HowTo/GetTheMachine.png)
+![SetupTheMachine](https://github.com/babonet13/Images/blob/master/HostYourNode/HowTo/SetupTheMachine.png)
 
 Instructions (How ?) :
 --
