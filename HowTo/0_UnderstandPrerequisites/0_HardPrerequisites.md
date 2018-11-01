@@ -25,7 +25,7 @@ Supported architecture(s) :
             <td>Other(s)</td>
         </tr>
         <tr>
-            <td>Implication >>>/td>      
+            <td>Implication >>></td>      
             <td>Can use pre-build image</td>
             <td>Must build your own image from Dockerfile</td>
             <td>Must build your own image from Dockerfile</td>
