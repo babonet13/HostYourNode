@@ -56,6 +56,7 @@ Standard names :
 </table>
 
 Instruction (How ?) :
+-
 How to check your hostname ?
 <pre><code>$ hostname</code></pre>
 
