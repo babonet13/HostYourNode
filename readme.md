@@ -67,8 +67,8 @@ This repository is organized thanks to the following sections :
     <tbody>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/What">What</A></td>
-            <td>Explain what is such a stack, and what are images, containers and daemons, etc ...</td>
-            <td>What are those thing and how are they connected !</td>
+            <td>Explain what is such a stack, and what are images, containers, daemons, etc ...</td>
+            <td>i.e. what are those things and how they are connected !</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Why">Why</A></td>
