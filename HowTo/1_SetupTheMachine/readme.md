@@ -1,9 +1,13 @@
 Step 1 : Setup The Machine
 ==
+All what you need is a machine with a installed Linux distro (ideally a with a Debian/Ubuntu based distro).
+You have this alternative :
+* Either a physical machine located at your home
+* Either a virtual machine hosted in the cloud
 
 Objectives (Why ?) :
 --
-Learn how setup a __physical__ or a __virtual__ machine and install a Linux distro on it 
+Get a compliant machine (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">hard req.</A>), well installed (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">soft req.</A>) and initilized with some informations prerequisites (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfoPrerequisites.md">info req.</A>)
 
 Description (What ?) :
 --
