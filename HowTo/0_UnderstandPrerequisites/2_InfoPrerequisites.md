@@ -3,6 +3,7 @@ Step 0.2 : Understand Information Prerequisites
 
 Objectives (Why ?) :
 -
+Insure that your environment informations is coherent with the code proposed by the HostYourNode projet
 
 Description (What ?) :
 -
