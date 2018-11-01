@@ -35,8 +35,11 @@ Supported architecture(s) :
 
 Instructions (How ?) :
 --
-> N/A : See detailled instructions in each prerequisites sub-sections ...
-
+How to check your hardware architecture ?
+<pre><code>$ cat /proc/cpuinfo</code></pre>
+Or
+<pre><code>$ sudo apt-get install -y lshw
+$ lshw</code></pre>
 
 ---
 <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Next<A/> (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/readme.md">Down</A>)
