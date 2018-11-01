@@ -37,12 +37,7 @@ You must check 3 differents kinds of prerequisites :
 
 Instructions (How ?) :
 --
-How to check your hardware architecture ?
-<pre><code>$ cat /proc/cpuinfo</code></pre>
-Or
-<pre><code>$ sudo apt-get install -y lshw
-$ lshw</code></pre>
-
+> N/A : See detailled instructions in each prerequisites sub-sections ...
 
 ---
 <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Next<A/> 
