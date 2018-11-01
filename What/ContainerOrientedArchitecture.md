@@ -1,10 +1,10 @@
 What is a container-oriented architecture ?
 ==
 It's a software architecture where applications are isolated in theirs specific environment is order to run more safely.  
-Such a architecture is more robust and easy to deploys because each container give to its applications just what they need : 
-* configuration file
-* storage volume
-* port
+Such an architecture is more robust and easy to deploys because each container give to its applications just what they need : 
+* configuration file(s)
+* storage volume(s)
+* port(s)
 * ...
 
 Legend
