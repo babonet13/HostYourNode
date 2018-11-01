@@ -94,11 +94,6 @@ This repository is organized thanks to the following sections :
             <td>Development stuff</td>
             <td>N/A</td>
         </tr>
-         <tr>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/deploy">deploy</A></td>
-            <td>Content currently spread in the "How To" section</td>
-            <td>In process ...</td>
-        </tr>
     </tbody>
 </table>
  
