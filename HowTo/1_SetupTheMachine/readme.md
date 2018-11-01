@@ -32,27 +32,27 @@ Just follow the link in the table :
     <tbody>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Check Hardware Prerequisites</A></td>
-            <td></td>
-            <td></td>
+            <td>Ensure that the machine you plan to get is compliant with supported architecture</td>
+            <td>Important for the step 6 : Build (or Pull) Images</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Check Software Prerequisites</A></td>
-            <td></td>
-            <td></td>
+            <td>Ensure that the machine you plan to get is installed with a compliant Linux distro</td>
+            <td>Important for alls steps requiring to enters commands into the machine</td>
         </tr>
         <tr>
             <td>Buy / Rent the Machine</td>
-            <td>Get a compliant machine</td>
+            <td>Buy a physical machine or rent a virtual machine</td>
             <td>Not in the scope (for now)</td>
         </tr>
         <tr>
             <td>Install a compliant Linux Distribution</td>
+            <td>Give a Opering System to your machine</td>
             <td>To Be Completed</td>
-            <td></td>
         </tr>
           <tr>
             <td>Set the Information Prerequisites</td>
-            <td>To Be Completed</td>
+            <td>Define at least the hostname, a "non-root" user and associated password </td>
             <td></td>
         </tr>    
     </tbody>
