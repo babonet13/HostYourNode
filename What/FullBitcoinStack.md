@@ -1,6 +1,6 @@
 What is a Bitcoin full stack ?
 ==
-The following schema shows the whole Bitcoin stack architecture.  
+The following schema shows the whole Bitcoin stack - layered - structure.  
 
 Legend
 -
