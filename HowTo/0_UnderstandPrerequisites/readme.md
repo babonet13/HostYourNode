@@ -18,17 +18,17 @@ There is 3 kinds of differents prerequisitse :
     </thead>
     <tbody>
         <tr>
-            <td><A href="">Hardware prerequisite</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisite.md">Hardware prerequisite</A></td>
             <td>amd64</td>
             <td>arm32v7 (Raspberry, Odroid)</td>
         </tr>
         <tr>
-            <td><A href="">Software prerequisite</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisite.md">Software prerequisite</A></td>
             <td>amd64</td>
             <td>arm32v7 (Raspberry, Odroid)</td>
         </tr>
          <tr>
-            <td><A href="">Information prerequisite</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfoPrerequisite.md">Information prerequisite</A></td>
             <td>amd64</td>
             <td>arm32v7 (Raspberry, Odroid)</td>
         </tr>
