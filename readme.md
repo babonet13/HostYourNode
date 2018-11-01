@@ -102,7 +102,7 @@ This repository is organized that to the following sections :
  
  HostYourNode Project Resources
  -  
-Several web site are used by the project : 
+Several web sites are used by the project : 
   <table>
     <thead>
         <tr>
