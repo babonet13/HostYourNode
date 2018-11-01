@@ -1,6 +1,6 @@
 Host Your Node (HYN) : Welcome "HYN"-naute !
 ==
-FAST to Build, EASY to Tune, Enjoy for EVER
+__FAST__ to _Build_, __EASY__ to _Tune_, _Enjoy_ for __EVER__
 
 >>> Work in process ... 
 
