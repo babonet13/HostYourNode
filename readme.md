@@ -70,7 +70,7 @@ This repository is organized that to the following sections :
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Why">Why</A></td>
-            <td>(Try to) explain why it it important to run your own node ...</td>
+            <td>(Try to) explain why it isimportant to run your own node ...</td>
             <td>N/A</td>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">How To</A></td>
@@ -119,7 +119,7 @@ Several web sites are used by the project :
         </tr>
         <tr>
             <td><A href="https://hub.docker.com/u/hostyournode/">Docker Hub</A></td>
-            <td>Docker repository dedicated to to store pre-build images</td>
+            <td>Docker repository dedicated to store pre-build images</td>
             <td>You can either pull images from this repository or choosing to rebuild your own images</td>
         <tr>
             <td><A href="http://bit.ly/2SzMofe">Google Drive</A></td>
