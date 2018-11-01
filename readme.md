@@ -129,7 +129,7 @@ This stack could be composed by :
             <td></td>
         </tr>
          <tr>
-            <td><A href=" https://twitter.com/HostYourNode">Twitter</A></td>
+            <td><A href="https://twitter.com/HostYourNode">Twitter</A></td>
             <td>Get some fresh news about the project ...</td>
             <td></td>
         </tr>
