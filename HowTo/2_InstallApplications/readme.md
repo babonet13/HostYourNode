@@ -51,10 +51,10 @@ Install nano
 <pre><code>$ sudo apt-get install nano</code></pre>
 
 Install Docker
-See related instructions here
+See related instructions <A href=https://github.com/babonet13/HelloWorld/tree/master/App/docker">here</A>
 
 Install Portainer
-See related instructions here
+See related instructions <A href=https://github.com/babonet13/HelloWorld/tree/master/App/portainer">here</A>
 
 ---
 <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">Next<A/> 
