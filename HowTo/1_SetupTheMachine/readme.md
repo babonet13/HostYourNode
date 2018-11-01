@@ -51,7 +51,7 @@ Just follow the link in the table :
             <td>To Be Completed</td>
         </tr>
           <tr>
-            <td>Set the Information Prerequisites</td>
+            <td><A herf="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Set the Information Prerequisites</A></td>
             <td>Define at least the hostname, a "non-root" user and associated password </td>
             <td>To Be Completed</td>
         </tr>    
