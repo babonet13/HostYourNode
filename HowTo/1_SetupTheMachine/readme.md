@@ -31,27 +31,27 @@ Just follow the link in the table :
     </thead>
     <tbody>
         <tr>
-            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Check Hardware Prerequisites</A></th>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Check Hardware Prerequisites</A></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Check Software Prerequisites</A></th>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Check Software Prerequisites</A></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <th>Buy / Rent the Machine</th>
+            <td>Buy / Rent the Machine</td>
             <td>Get a compliant machine</td>
             <td>Not in the scope (for now)</td>
         </tr>
         <tr>
-            <th>Install a compliant Linux Distribution</th>
+            <td>Install a compliant Linux Distribution</td>
             <td>To Be Completed</td>
             <td></td>
         </tr>
           <tr>
-            <th>Set the Information Prerequisites</th>
+            <td>Set the Information Prerequisites</td>
             <td>To Be Completed</td>
             <td></td>
         </tr>    
