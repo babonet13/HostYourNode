@@ -31,12 +31,13 @@ Depending of your profile, you will need the following applications
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
         <tr>
+            <td>Deployer</td>
             <td>-</td>
             <td>-</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
         <tr>
-          <th>-</th>
+          <th>Runner</th>
           <td>-</td>
           <td>-</td>
           <td>-</td>
