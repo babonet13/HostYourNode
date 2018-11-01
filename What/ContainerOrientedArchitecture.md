@@ -16,18 +16,18 @@ Identification and description of the mains related concepts :
     <tbody>
         <tr>
             <td>Dockerfile</td>
-            <td>To Be Defined</td>
+            <td>Kind of "recipe" to build a target __image__ from a source __image__/td>
             <td>To Be Defined</td>
         </tr>
         <tr>
             <td>Image</td>
-            <td>To Be Defined</td>
+            <td>Set of applications, scripts, configuration files, ... enmbedded in a given OS environment</td>
             <td>To Be Defined</td>
         </tr>
         <tr>
             <td>Container</td>
-            <td>To Be Defined</td>
-            <td>To Be Defined</td>
+            <td>Running instance of a __image__</td>
+            <td>A __contained is hosting __daemon(s)__ in memory</td>
         </tr>
     </tbody>
 </table>
