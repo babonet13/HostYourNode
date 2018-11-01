@@ -3,15 +3,26 @@ Step 5 : Deploy Containers
 
 Objectives (Why ?) :
 --
-Bla bla
+Allow choosen daemons to run in dedicated containers ...
 
 Description (What ?) :
 --
-Bla bla
+
+You can deploy HYN containers :
+* Using the Linux Command Line (<A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_CMD.md">CMD</A>)
+
+![Linux Command Line](https://github.com/babonet13/Images/blob/master/Portainer/LinuxCommandLine.png)
+
+Or
+
+* Using the Portainer Graphical Interface (<A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_GUI.md">GUI</A>)
+
+![Portainer Graphical Interface](https://github.com/babonet13/Images/blob/master/Portainer/PortainerGraphicalInterface.png)
+
 
 Instructions (How ?) :
 --
-Bla bla
+N/A => See instructions in sub-sections related to each deployement mode (CMD or GUI) ...
 
 ---
 <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">Next<A/> 
