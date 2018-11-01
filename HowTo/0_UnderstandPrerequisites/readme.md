@@ -7,7 +7,7 @@ Insure that your you will success in building your own __100% containerized Bitc
 
 Description (What ?) :
 --
-There is 3 kinds of differents prerequisites :
+You must check 3 differents kinds of prerequisites :
 <table>
     <thead>
         <tr>
