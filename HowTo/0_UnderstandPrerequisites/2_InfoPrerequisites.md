@@ -55,24 +55,24 @@ Standard names :
     </tbody>
 </table>
 
-Name template :
+Name templates :
 <table>
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Template</th>
-            <th>Example</th>
+            <th>Name type</th>
+            <th>Host Name</th>
+            <th>Node Name</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Host Name</td>
-            <td>REPO/DAEMON_MODE-DISTRO_ARCH:VERSION</td>
-            <td>hostyournode/bitcoind_pkg-ubuntu:0.17.0</td>
+            <td></td>
+            <td>DEAMON-node</td>
+            <td>DEAMON-node</td>
         </tr>
         <tr>
-            <td>Host Name</td>
-            <td>DEAMON-node</td>
+            <td></td>
+            <td>hostyournode/bitcoind_pkg-ubuntu:0.17.0</td>
             <td>bitcoin-node</td>
         </tr>
         <tr> 
