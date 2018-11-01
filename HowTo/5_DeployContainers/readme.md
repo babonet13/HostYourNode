@@ -17,7 +17,7 @@ Or
 
 * Using the Portainer Graphical Interface (<A href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes_GUI.md">GUI</A>)
 
-![Portainer Graphical Interface](https://github.com/babonet13/Images/blob/master/Portainer/PortainerGraphicalInterface.png)
+![Portainer Graphical Interface](https://github.com/babonet13/HostYourNode/blob/master/HowTo/5_DeployContainers/GUI_Deployment.md.png)
 
 
 Instructions (How ?) :
