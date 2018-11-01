@@ -76,7 +76,7 @@ This repository is organized thanks to the following sections :
             <td>... even if it is mainly an investment (both in money, time and knowledge)</td>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">HowTo</A></td>
-            <td>Explain how to (step-by-step) build, deploy and run such a stack</td>
+            <td>Explain how to (step-by-step) build, deploy and operate such a stack</td>
             <td>Depending of your user profile you can ignore some step ;-)</td>
         </tr>
          <tr>
