@@ -131,7 +131,7 @@ Several web sites are used by the project :
          <tr>
             <td><A href="http://bit.ly/2DOj69o">Open Bazaar</A></td>
             <td>The place where you can order a pre-configured machine</td>
-            <td>Current machines are build from Hardkernel Odroï HC1</td>
+            <td>Current machines are build from Hardkernel Odroïd HC1</td>
         </tr>
         <tr>
             <td><A href="mailto:host-your-node@hubject.net">Support E-Mail</A></td>
