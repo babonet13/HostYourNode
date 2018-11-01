@@ -55,7 +55,7 @@ See related instructions :
 <a href="https://github.com/babonet13/HelloWorld/tree/master/App/docker">docker : Installation Guide (Package-based - Ubuntu/Debian)</a>
 
 __Install Portainer__ :   
-See related instructions (Choose running Portainer on the standard HTTP Web port : 80) : 
+See related instructions (Choose running Portainer on the standard HTTP Web port : 80) :   
 <a href="https://github.com/babonet13/HelloWorld/tree/master/App/portainer">portainer : Deployment Guide</a>
 
 ---
