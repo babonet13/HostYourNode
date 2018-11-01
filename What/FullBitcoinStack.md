@@ -1,4 +1,4 @@
-The Full Bitcoin Stack
+What is a Bitcoin full stack ?
 ==
 The following schema shows the whole Bitcoin stack architecture.  
 
