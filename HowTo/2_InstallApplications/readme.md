@@ -59,7 +59,4 @@ See related instructions (Choose running Portainer on the standard HTTP Web port
 <a href="https://github.com/babonet13/HelloWorld/tree/master/App/portainer">portainer : Deployment Guide</a>
 
 ---
-<a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes.md">Next Step</a>
-
----
 <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">Next<A/> 
