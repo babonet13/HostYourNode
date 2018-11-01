@@ -13,7 +13,7 @@ Depending of your HYN-naute profile, you will need the following applications :
         <tr>
             <th>Profile</th>
             <th>Define Dockerfile</th>
-            <th>Build (or Pull) Images</th>
+            <th>Manage Images</th>
             <th>Deploy Containers</th>          
         </tr>
     </thead>
