@@ -15,12 +15,48 @@ Get a ready-to-use compliant machine, well installed and initilized for the next
 
 Description (What ?) :
 --
-According your option choice, ypu could know what d do :
+According to your option choice, you can determine what to do :
 ![SetupTheMachine](https://github.com/babonet13/Images/blob/master/HostYourNode/HowTo/SetupTheMachine.png)
 
 Instructions (How ?) :
 --
-Bla bla
+Just follow the link in the table :
+<table>
+    <thead>
+        <tr>
+            <th>Thing do do</th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Check Hardware Prerequisites</A></th>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Check Software Prerequisites</A></th>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Buy / Rent the Machine</th>
+            <td>Get a compliant machine</td>
+            <td>Not in the scope (for now)</td>
+        </tr>
+        <tr>
+            <th>Install a compliant Linux Distribution</th>
+            <td>To Be Completed</td>
+            <td></td>
+        </tr>
+          <tr>
+            <th>Set the Information Prerequisites</th>
+            <td>To Be Completed</td>
+            <td></td>
+        </tr>    
+    </tbody>
+</table>
 
 ---
 <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">Next<A/> 
