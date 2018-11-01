@@ -1,7 +1,6 @@
 What
 ==
-This section is dedicated to explain what are images, containers, daemons ...
->>> To Be Done !
+This section is dedicated to explain what are images, containers, nodes, daemons, etc ...
 
 Objectives
 -
