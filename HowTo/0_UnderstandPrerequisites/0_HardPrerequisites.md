@@ -35,7 +35,7 @@ Supported architecture(s) :
 
 Instructions (How ?) :
 --
-N/A : See detailled instruction in each prerequisites sub-sections ...
+> N/A : See detailled instructions in each prerequisites sub-sections ...
 
 
 ---
