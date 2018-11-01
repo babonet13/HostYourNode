@@ -101,11 +101,50 @@ This stack could be composed by :
 </table>
  
  Host Your Node Resources
- -
- Where to select images for building your machine : <A href="https://hub.docker.com/u/hostyournode/">HostYourNode@DockerHub</A>.   
- Where to find documents for maintaining your machine : <A href="http://bit.ly/2SzMofe">Support Documents</A>.  
+ -  
  Where to buy a pre-configured machine : <A href="http://bit.ly/2DOj69o">Store@OpenBazaar</A>.
  Where to have some fresh news about the HYN project : <A href=" https://twitter.com/HostYourNode">@HostYourNode</A>.
+ 
+  <table>
+    <thead>
+        <tr>
+            <th>Site</th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><A href="https://github.com/babonet13/HostYourNode">Github</A></td>
+            <td>All required resources for building such a Bitcoin stack node(s)</td>
+            <td>This site ;-)</td>
+        </tr>
+        <tr>
+            <td><A href="https://hub.docker.com/u/hostyournode/">Docker Hub</A></td>
+            <td>Docker reposittory dedicated to to store pre-build images</td>
+            <td>You can either pull images from this repository or choosing to rebuild your own images</td>
+        <tr>
+            <td><A href="http://bit.ly/2SzMofe">Google Drive</A></td>
+            <td>Contains some useful documents for support activities</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td> <A href=" https://twitter.com/HostYourNode">Twitter</A></td>
+            <td>Get some fresh news about the project ...</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td><A href="http://bit.ly/2DOj69o">Open Bazaar</A></td>
+            <td>The place where you can order a pre-configured machine</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><A href="host-your-node@hubject.net">Support E-Mail</A></td>
+            <td>If you need some help !</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
  
  Others Useful Resources
  -
