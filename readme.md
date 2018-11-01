@@ -55,7 +55,7 @@ This stack could be composed by :
 
 Organization of this repository
 -
-This repository is organized that to the following sections :
+This repository is organized thanks to the following sections :
  <table>
     <thead>
         <tr>
