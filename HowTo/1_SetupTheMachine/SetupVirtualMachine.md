@@ -4,7 +4,7 @@ How to setup a virtual machine ?
 
 Instructions :
 -
-Things to do :
+Things to do :   
 0. Choose a VPS (Virtual Private Server) provider
 1. Open a account in your choosen VPS Provider
 2. Select your VPS characteristics (Power, Memory, Storage, ...) ...   
