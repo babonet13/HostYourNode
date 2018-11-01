@@ -55,6 +55,30 @@ Standard names :
     </tbody>
 </table>
 
+Name template :
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Template</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Host Name</td>
+            <td>REPO/DAEMON_MODE-DISTRO_ARCH:VERSION</td>
+            <td>hostyournode/bitcoind_pkg-ubuntu:0.17.0</td>
+        </tr>
+        <tr>
+            <td>Host Name</td>
+            <td>DEAMON-node</td>
+            <td>bitcoin-node</td>
+        </tr>
+        <tr> 
+    </tbody>
+</table>
+
 Instruction (How ?) :
 -
 How to check your hostname ?
