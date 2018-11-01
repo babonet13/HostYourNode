@@ -75,6 +75,34 @@ Target characteristic(s) :
     </tbody>
 </table>
 
+Interesting models :
+<table>
+    <thead>
+        <tr>
+            <th>Supplier</th>
+            <th>Model</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Hardkarnel</td>
+            <td>HC1/HC2</td>
+        </tr>
+        <tr>  
+            <td>Raspberry Pi</td>
+            <td>3 B+b</td>
+        </tr>
+         <tr>  
+            <td>Banana Pi</td>
+            <td>Banana Pro Starter Kit</td>
+        </tr>
+         <tr>  
+            <td>Intel</td>
+            <td>NUC+</td>
+        </tr>        
+    </tbody>
+</table>
+
 Instructions (How ?) :
 --
 How to check your hardware architecture ?
