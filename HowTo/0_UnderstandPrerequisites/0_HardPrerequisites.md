@@ -38,34 +38,43 @@ Target charateristic(s) :
     <thead>
         <tr>
             <th>Level</th>
-            <th>CPU</th>
-            <th>Memory</th>
+            <th>Minimux</th>
+            <th>Standard</th>
+            <th>Deluxe</th> 
+            
             <th>Storage</th>
             <th>Machine Model (Sample)</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Minimum Machine</td>
-            <td>Intel Core i3, Cortex-A7, Cortex A53 </td>
-            <td>2 Go</td>
-            <td>500 Go</td>
-             <td>Odroid HC1/HC2, Raspberry Pi 3B+</td>           
-        </tr>
-        <tr>
-            <td>Stardard Machine</td>      
-            <td>Intel Core i5</td>
-            <td>4 Go</td>
-            <td>1 To</td>
-            <td>NUC Mini</td>    
-        </tr>
          <tr>
-            <td>Deluxe Machine</td>      
-            <td>Intel Core i7</td>
-            <td>8 Go</td>
-            <td>2 To</td>
-            <td>NUC Maxi</td>  
+            <td>CPU</td>
+            <td>Intel Core i3, Cortex-A7, Cortex A53 </td>
+            <td>Intel Core i5</td>
+            <td>Intel Core i7</td>         
         </tr>
+        <tr>
+            <td>Memory</td>
+            <td>2 Go</td>
+            <td>4 Go</td>
+            <td>8 Go</td>  
+        </tr>
+        <tr>
+            <td>Storage</td>
+            <td>500 Go</td>
+            <td>1 To</td>
+            <td>2 To</td>  
+        </tr>
+        <tr>
+            <td>E.g. Model</td>      
+             <td>Odroid HC1/HC2, Raspberry Pi 3B+</td> 
+            <td>NUC Mini</td>
+            <td>NUC Maxi</td>
+        </tr>
+           <td>Price</td>      
+             <td>100-250 $</td> 
+            <td>250-500 $</td>
+            <td>500-900 $</td>
     </tbody>
 </table>
 
