@@ -82,7 +82,7 @@ This repository is organized thanks to the following sections :
          <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Docker">Docker</A></td>
             <td>A unique "flat" repository for all the required Dockerfile of this projet</td>
-            <td>Contains also asscociated configuration file(s)</td>
+            <td>Contains also associated configuration file(s)</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/fs">fs</A></td>
