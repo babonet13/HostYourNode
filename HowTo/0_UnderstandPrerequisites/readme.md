@@ -20,12 +20,12 @@ You must check 3 differents kinds of prerequisites :
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Hardware prerequisites</A></td>
             <td>Constraints related to the hardware architecture of your machine</td>
-            <td>Standard supported architecture : __amd64__</td>
+            <td>Standard supported architecture : amd64</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Software prerequisites</A></td>
             <td>Constraints related to the familly of the used Linux distribution</td>
-            <td>Standard supported distribution : __Ubuntu/Debian__</td>
+            <td>Standard supported distribution : Ubuntu/Debian</td>
         </tr>
          <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfoPrerequisites.md">Information prerequisites</A></td>
