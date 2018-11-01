@@ -35,11 +35,7 @@ Supported architecture(s) :
 
 Instructions (How ?) :
 --
-How to check your hardware architecture ?
-<pre><code>$ cat /proc/cpuinfo</code></pre>
-Or
-<pre><code>$ sudo apt-get install -y lshw
-$ lshw</code></pre>
+N/A : See detailled instruction in each prerequisites sub-sections ...
 
 
 ---
