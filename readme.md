@@ -6,7 +6,7 @@ __FAST__ to _Build_, __EASY__ to _Tune_, _Enjoy_ for __EVER__
 
 See a Bitcoin node running thanks to the very usefull <A href="https://www.portainer.io/">Portainer</A> interface :
 ![BitcoinNodeIsRunning](https://github.com/babonet13/Images/blob/master/HostYourNode/BitcoinNodeIsRunning.jpg)
-Lighting node and Payment node coming soon : stay tune ...
+Lightning node and Payment node coming soon : stay tune ...
 
 Objective of the projet
 - 
