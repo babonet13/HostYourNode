@@ -47,13 +47,13 @@ Depending of your profile, you will need the following applications :
 
 Instructions (How ?) :
 --
-Install nano. 
+Install nano :   
 <pre><code>$ sudo apt-get install nano</code></pre>
 
-Install Docker. 
+Install Docker :   
 See related instructions <A href="https://github.com/babonet13/HelloWorld/tree/master/App/docker">here</A>
 
-Install Portainer. 
+Install Portainer :   
 See related instructions <A href="https://github.com/babonet13/HelloWorld/tree/master/App/portainer">here</A>
 
 ---
