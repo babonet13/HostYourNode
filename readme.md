@@ -8,7 +8,7 @@ __FAST__ to _Build_, __EASY__ to _Tune_, _Enjoy_ for __EVER__
 
 Objective of the projet
 - 
-Thanks to this repository, you can build a __100% containerized__ Bitcoin stack. So, you can either :
+Thanks to this repository, you can build a __100% containerized__ Bitcoin stack node(s). So, you can either :
 * <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">Build</A> your own stack by using a physical machine at home or a virtual machine in the cloud ...
 * <A href="http://bit.ly/2DOj69o">Buy</A> a ready-to-use stack by ordering a pre-configured machine at <a href="http://bit.ly/2DOj69o">HostYourNode@OpenBazaar</a>.
 
