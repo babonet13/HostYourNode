@@ -47,14 +47,18 @@ Depending of your HYN-naute profile, you will need the following applications :
 
 Instructions (How ?) :
 --
-Install nano :   
+__Install nano__ :   
 <pre><code>$ sudo apt-get install nano</code></pre>
 
-Install Docker :   
-See related instructions <A href="https://github.com/babonet13/HelloWorld/tree/master/App/docker">here</A>
+__Install Docker__ :   
+See related instructions : <a href="https://github.com/babonet13/HelloWorld/tree/master/App/docker">docker : Installation Guide (Package-based - Ubuntu/Debian)</a>
 
-Install Portainer :   
-See related instructions <A href="https://github.com/babonet13/HelloWorld/tree/master/App/portainer">here</A>
+__Install Portainer__ :   
+See related instructions : <a href="https://github.com/babonet13/HelloWorld/tree/master/App/portainer">portainer : Deployment Guide</a>
 
+Run Portainer on the standard Web port (e.g. 80) instead of the port 9000 :
+<pre><code>$ docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
+---
+<a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes.md">Next Step</a>
 ---
 <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">Next<A/> 
