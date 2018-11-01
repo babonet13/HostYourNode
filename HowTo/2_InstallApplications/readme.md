@@ -7,7 +7,7 @@ Allow the machine to be ready for defining Dockerfiles (and associated configura
 
 Description (What ?) :
 --
-Depending of your profile, you will need the following applications
+Depending of your profile, you will need the following applications :
 <table>
     <thead>
         <tr>
