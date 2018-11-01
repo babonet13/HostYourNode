@@ -19,25 +19,25 @@ Depending of your profile, you will need the following applications
     </thead>
     <tbody>
         <tr>
-            <td>Developper</td>
+            <th>Developper</th>
             <td>Builder</td>
             <td>Deployer</td>
             <td>Runner</td>
         </tr>
         <tr>
-            <td>nano</td>
+            <th>Builder</th>
             <td>-</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr>
-            <td>docker</td>
+            <th>Deployer</th>
             <td>docker</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr>
-          <td>docker (CMD mode)</br>portainer (GUI mode)</td>
+          <th>Runner</th>
           <td>docker (CMD mode)</br>portainer (GUI mode)</td>
           <td>docker (CMD mode)</br>portainer (GUI mode)</td>
           <td>-</td>
