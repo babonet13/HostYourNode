@@ -16,7 +16,7 @@ So, you can either :
 * <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">Build</A> your own node(s) stack by using a physical machine at home or a virtual machine in the cloud.
 * <A href="http://bit.ly/2DOj69o">Buy</A> a ready-to-use stack by ordering a pre-configured machine.
 
-About the stack (More <A href="https://github.com/babonet13/HostYourNode/tree/master/What">here</A>)
+About the node(s) stack
 -
 This stack could be composed by : 
  <table>
