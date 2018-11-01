@@ -37,6 +37,10 @@ Identification and description of the mains related concepts :
     </tbody>
 </table>
 
+Schema
+-
+![ContainerOrientedArchitecture](https://github.com/babonet13/Images/blob/master/HostYourNode/What/ContainerOrientedArchitecture.png)
+
 
 References
 -
