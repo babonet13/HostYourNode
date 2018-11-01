@@ -38,7 +38,7 @@ Target charateristic(s) :
     <thead>
         <tr>
             <th>Level</th>
-            <th>Minimu</th>
+            <th>Minimum</th>
             <th>Standard</th>
             <th>Deluxe</th>            
         </tr>
