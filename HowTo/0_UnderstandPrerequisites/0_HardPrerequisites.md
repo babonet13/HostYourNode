@@ -3,7 +3,7 @@ Step 0.0 : Understand Hardware Prerequisites
 
 Objectives (Why ?) :
 --
-Insure that your hardware in compliant with resources supplied by the HostYourNode projet
+Insure that your hardware is compliant with resources (mainly images) provided by the HostYourNode projet
 
 Description (What ?) :
 --
