@@ -18,19 +18,19 @@ There is 3 kinds of differents prerequisitse :
     </thead>
     <tbody>
         <tr>
-            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisite.md">Hardware prerequisite</A></td>
-            <td>amd64</td>
-            <td>arm32v7 (Raspberry, Odroid)</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Hardware prerequisites</A></td>
+            <td>Constraints related to the harware architecture of your machine</td>
+            <td>Standard supported architecture : amd64</td>
         </tr>
         <tr>
-            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisite.md">Software prerequisite</A></td>
-            <td>amd64</td>
-            <td>arm32v7 (Raspberry, Odroid)</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Software prerequisites</A></td>
+            <td>Constraints related to the familly of the used Linux distribution</td>
+            <td>Standard supported distribution : Ubuntu/Debian</td>
         </tr>
          <tr>
-            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfoPrerequisite.md">Information prerequisite</A></td>
-            <td>amd64</td>
-            <td>arm32v7 (Raspberry, Odroid)</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfoPrerequisites.md">Information prerequisites</A></td>
+            <td>Constrains related to the exact respect of some given name and/or name template</td>
+            <td>E.g. : hostname, user password, image name, node name, ...</td>
         </tr>
     </tbody>
 </table>
