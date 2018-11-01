@@ -35,3 +35,6 @@ Supported distribution(s) :
 Instruction (How ?) :
 How to check your Linux distribution ?
 <pre><code>$ cat /etc/*-release</code></pre>
+
+---
+<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfoPrerequisites.md">Next<A/> (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/readme.md">Down</A>)
