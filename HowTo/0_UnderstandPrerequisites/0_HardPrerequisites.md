@@ -41,26 +41,30 @@ Target charateristic(s) :
             <th>CPU</th>
             <th>Memory</th>
             <th>Storage</th>
+            <th>Machine Model (Sample)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Minimum Machine</td>
-            <td>Intel Core i3, Cortex-A7 (Odroid), Cortex A53 (Raspberry)</td>
+            <td>Intel Core i3, Cortex-A7, Cortex A53 </td>
             <td>2 Go</td>
             <td>500 Go</td>
+             <td>Odroid HC1/HC2, Raspberry Pi 3B+</td>           
         </tr>
         <tr>
             <td>Stardard Machine</td>      
-            <td>Intel Core i5 (NUC)</td>
+            <td>Intel Core i5</td>
             <td>4 Go</td>
             <td>1 To</td>
+            <td>NUC Mini</td>    
         </tr>
          <tr>
             <td>Deluxe Machine</td>      
-            <td>Intel Core i7 (NUC)</td>
+            <td>Intel Core i7</td>
             <td>8 Go</td>
             <td>2 To</td>
+            <td>NUC Maxi</td>  
         </tr>
     </tbody>
 </table>
