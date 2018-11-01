@@ -7,11 +7,11 @@ Insure that your you will succes in building your own node
 
 Description (What ?) :
 --
-There is 3 kinds of differents prerequisitse :
+There is 3 kinds of differents prerequisites :
 <table>
     <thead>
         <tr>
-            <th>Prerequisite Type></th>
+            <th>Prerequisite Type</th>
             <th>Description</th>
             <th>Comment</th>
         </tr>
