@@ -68,7 +68,7 @@ Name templates :
         <tr>
             <th>Template</th>
             <td>REPO/DAEMON_MODE-DISTRO_ARCH:VERSION</td>
-            <td>DEAMON-node</td>
+            <td>DAEMON_TYPE-node</td>
         </tr>
         <tr>
             <th>Example</th>
