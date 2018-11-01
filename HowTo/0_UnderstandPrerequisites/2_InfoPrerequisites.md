@@ -71,9 +71,14 @@ Name templates :
             <td>DAEMON_TYPE-node</td>
         </tr>
         <tr>
-            <th>Example</th>
+            <th>Example 1</th>
             <td>hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</td>
             <td>bitcoin-node</td>
+        </tr>
+        <tr>
+            <th>Example 2</th>
+            <td>hostyournode/lnd_src-alpine_arm32v7:0.5</td>
+            <td>lightning-node</td>
         </tr>
         <tr> 
     </tbody>
