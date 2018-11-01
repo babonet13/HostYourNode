@@ -130,13 +130,13 @@ This stack could be composed by :
         </tr>
          <tr>
             <td><A href="https://twitter.com/HostYourNode">Twitter</A></td>
-            <td>Get some fresh news about the project ...</td>
+            <td>To get some fresh news about the project ...</td>
             <td></td>
         </tr>
          <tr>
             <td><A href="http://bit.ly/2DOj69o">Open Bazaar</A></td>
             <td>The place where you can order a pre-configured machine</td>
-            <td>Current machines are build for Hardkernel Odroï HC1</td>
+            <td>Current machines are build from Hardkernel Odroï HC1</td>
         </tr>
         <tr>
             <td><A href="host-your-node@hubject.net">Support E-Mail</A></td>
