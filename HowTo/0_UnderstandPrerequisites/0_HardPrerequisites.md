@@ -52,13 +52,13 @@ Target charateristic(s) :
         </tr>
         <tr>
             <td>Stardard Machine</td>      
-            <td>Intel Core i5</td>
+            <td>Intel Core i5 (NUC)</td>
             <td>4 Go</td>
             <td>1 To</td>
         </tr>
          <tr>
             <td>Deluxe Machine</td>      
-            <td>Intel Core i7</td>
+            <td>Intel Core i7 (NUC)</td>
             <td>8 Go</td>
             <td>2 To</td>
         </tr>
