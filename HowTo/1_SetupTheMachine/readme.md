@@ -11,7 +11,7 @@ In addition, you will have this alternative :
 
 Objectives (Why ?) :
 --
-Get a compliant machine, well installed and initilized with some informations prerequisites)
+Get a ready-to-use compliant machine, well installed and initilized for the next steps ...
 
 Description (What ?) :
 --
