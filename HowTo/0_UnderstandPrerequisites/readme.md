@@ -19,7 +19,7 @@ There is 3 kinds of differents prerequisites :
     <tbody>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Hardware prerequisites</A></td>
-            <td>Constraints related to the harware architecture of your machine</td>
+            <td>Constraints related to the hardware architecture of your machine</td>
             <td>Standard supported architecture : amd64</td>
         </tr>
         <tr>
