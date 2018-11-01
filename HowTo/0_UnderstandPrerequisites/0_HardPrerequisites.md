@@ -33,6 +33,38 @@ Supported architecture(s) :
     </tbody>
 </table>
 
+Target charateristic(s) :
+<table>
+    <thead>
+        <tr>
+            <th>Level</th>
+            <th>CPU</th>
+            <th>Memory</th>
+            <th>Storage</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Minimum Machine</td>
+            <td>Core i3</td>
+            <td>2 Go</td>
+            <td>500 Mo/td>
+        </tr>
+        <tr>
+            <td>Stardard Machine</td>      
+            <td>Core i5</td>
+            <td>4 Go</td>
+            <td>1 To</td>
+        </tr>
+         <tr>
+            <td>Deluxe Machine</td>      
+            <td>Core i7</td>
+            <td>8 Go</td>
+            <td>2 To</td>
+        </tr>
+    </tbody>
+</table>
+
 Instructions (How ?) :
 --
 How to check your hardware architecture ?
