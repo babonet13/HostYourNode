@@ -90,7 +90,7 @@ Interesting models :
         </tr>
         <tr>  
             <td>Raspberry Pi</td>
-            <td>3 B+b</td>
+            <td>3 B+</td>
         </tr>
          <tr>  
             <td>Banana Pi</td>
