@@ -67,12 +67,12 @@ Name templates :
     <tbody>
         <tr>
             <th>Template</th>
-            <td>DEAMON-node</td>
+            <td>REPO/DAEMON_MODE-DISTRO_ARCH:VERSION</td>
             <td>DEAMON-node</td>
         </tr>
         <tr>
             <th>Example</th>
-            <td>hostyournode/bitcoind_pkg-ubuntu:0.17.0</td>
+            <td>hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</td>
             <td>bitcoin-node</td>
         </tr>
         <tr> 
