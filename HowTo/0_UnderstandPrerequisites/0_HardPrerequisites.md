@@ -48,7 +48,7 @@ Target charateristic(s) :
             <td>Minimum Machine</td>
             <td>Core i3</td>
             <td>2 Go</td>
-            <td>500 Mo/td>
+            <td>500 Go</td>
         </tr>
         <tr>
             <td>Stardard Machine</td>      
