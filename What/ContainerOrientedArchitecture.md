@@ -16,12 +16,12 @@ Identification and description of the mains related concepts :
     <tbody>
         <tr>
             <td>Dockerfile</td>
-            <td>Kind of "recipe" to build a target __image__ from a source __image__/td>
-            <td>To Be Defined</td>
+            <td>Set of formal instructions for building a target __image__ from a source __image__/td>
+            <td>A __Dockerfile__ is a kinf of "recipe" for "cooking an __image__</td>
         </tr>
         <tr>
             <td>Image</td>
-            <td>Set of applications, scripts, configuration files, ... enmbedded in a given OS environment</td>
+            <td>Set of applications, scripts, configuration files, ... embedded in a given OS environment</td>
             <td>To Be Defined</td>
         </tr>
         <tr>
