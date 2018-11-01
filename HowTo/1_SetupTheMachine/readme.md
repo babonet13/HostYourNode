@@ -1,13 +1,17 @@
 Step 1 : Setup The Machine
 ==
-All what you need is a machine with a installed Linux distro (ideally a with a Debian/Ubuntu based distro).
-You have this alternative :
-* Either a physical machine located at your home
-* Either a virtual machine hosted in the cloud
+All what you need is a machine :
+* with a compliant hardware architecture (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Cf Hardware Prerequisites</A>)
+* installed with a suitable Linux distribution (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Cf Software Prerequisites</A>) 
+* initialized with some keys informations (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfoPrerequisites.md">Cf Information Prerequisites</A>
+
+In addition, you will have this alternative :
+* Locating a __physical__ machine at your home
+* Hosting a __virtual__ machine in the cloud
 
 Objectives (Why ?) :
 --
-Get a compliant machine (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">hard req.</A>), well installed (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">soft req.</A>) and initilized with some informations prerequisites (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfoPrerequisites.md">info req.</A>)
+Get a compliant machine, well installed and initilized with some informations prerequisites)
 
 Description (What ?) :
 --
