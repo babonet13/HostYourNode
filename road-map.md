@@ -1,4 +1,4 @@
-Road Map of the Host Your Node projet
+Road Map of the HostYourNode project
 ==
 
 Current Situation VS Target Situation
