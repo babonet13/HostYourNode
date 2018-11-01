@@ -16,18 +16,18 @@ Identification and description of the mains related concepts :
     <tbody>
         <tr>
             <td>Dockerfile</td>
-            <td>Set of formal instructions for building a target __image__ from a source __image__/td>
-            <td>A __Dockerfile__ is a kinf of "recipe" for "cooking an __image__</td>
+            <td>Set of formal instructions for building a target image from a source image</td>
+            <td>A Dockerfile is a kinf of "recipe" for "cooking an image</td>
         </tr>
         <tr>
             <td>Image</td>
             <td>Set of applications, scripts, configuration files, ... embedded in a given OS environment</td>
-            <td>To Be Defined</td>
+            <td>Applications could be daemons (CMD mode) and/or interfaces (GUI mode)</td>
         </tr>
         <tr>
             <td>Container</td>
-            <td>Running instance of a __image__</td>
-            <td>A __contained is hosting __daemon(s)__ in memory</td>
+            <td>Running instance of a image</td>
+            <td>A __contained is hosting daemon(s) in memory</td>
         </tr>
     </tbody>
 </table>
