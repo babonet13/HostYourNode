@@ -46,7 +46,7 @@ Just follow the link in the table :
             <td>Not in the scope (for now)</td>
         </tr>
         <tr>
-            <td>Install a compliant Linux Distribution</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/1_SetupTheMachine/InstallLinux.md">Install a compliant Linux Distribution</A></td>
             <td>Give a Opering System to your machine</td>
             <td>To Be Completed</td>
         </tr>
