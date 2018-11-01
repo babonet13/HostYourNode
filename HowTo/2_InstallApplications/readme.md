@@ -60,5 +60,6 @@ Run Portainer on the standard Web port (e.g. 80) instead of the port 9000 :
 <pre><code>$ docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
 ---
 <a href="https://github.com/babonet13/HostYourNode/blob/master/deploy/3_DeployNodes.md">Next Step</a>
+
 ---
 <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">Next<A/> 
