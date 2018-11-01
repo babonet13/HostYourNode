@@ -137,7 +137,7 @@ Several web sites are used by the project :
             <td>Current machines are build from Hardkernel Odroï HC1</td>
         </tr>
         <tr>
-            <td><A href="mail:host-your-node@hubject.net">Support E-Mail</A></td>
+            <td><A href="mailto:host-your-node@hubject.net">Support E-Mail</A></td>
             <td>If you need some help !</td>
             <td></td>
         </tr>
