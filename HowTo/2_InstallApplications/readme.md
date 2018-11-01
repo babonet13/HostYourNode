@@ -21,19 +21,19 @@ Depending of your HYN-naute profile, you will need the following applications :
         <tr>
             <th>Developper</th>
             <td>nano</td>
-            <td>docker</td>
+            <td>docker (build, push)</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
         <tr>
             <th>Builder</th>
             <td>-</td>
-            <td>docker</td>
+            <td>docker (build)</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
         <tr>
             <th>Deployer</th>
             <td>-</td>
-            <td>-</td>
+            <td>docker (pull)</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
         <tr>
