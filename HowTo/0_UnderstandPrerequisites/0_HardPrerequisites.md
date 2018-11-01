@@ -46,19 +46,19 @@ Target charateristic(s) :
     <tbody>
         <tr>
             <td>Minimum Machine</td>
-            <td>Core i3</td>
+            <td>Intel Core i3, Cortex-A7 (Odroid), Cortex A53 (Raspberry)</td>
             <td>2 Go</td>
             <td>500 Go</td>
         </tr>
         <tr>
             <td>Stardard Machine</td>      
-            <td>Core i5</td>
+            <td>Intel Core i5</td>
             <td>4 Go</td>
             <td>1 To</td>
         </tr>
          <tr>
             <td>Deluxe Machine</td>      
-            <td>Core i7</td>
+            <td>Intel Core i7</td>
             <td>8 Go</td>
             <td>2 To</td>
         </tr>
