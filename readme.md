@@ -119,7 +119,7 @@ Several web sites are used by the project :
         </tr>
         <tr>
             <td><A href="https://hub.docker.com/u/hostyournode/">Docker Hub</A></td>
-            <td>Docker reposittory dedicated to to store pre-build images</td>
+            <td>Docker repository dedicated to to store pre-build images</td>
             <td>You can either pull images from this repository or choosing to rebuild your own images</td>
         <tr>
             <td><A href="http://bit.ly/2SzMofe">Google Drive</A></td>
