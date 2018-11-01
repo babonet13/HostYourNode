@@ -100,11 +100,9 @@ This repository is organized that to the following sections :
     </tbody>
 </table>
  
- Host Your Node Resources
+ HostYourNode Project Resources
  -  
- Where to buy a pre-configured machine : <A href="http://bit.ly/2DOj69o">Store@OpenBazaar</A>.
- Where to have some fresh news about the HYN project : <A href=" https://twitter.com/HostYourNode">@HostYourNode</A>.
- 
+Several web site are used by the project : 
   <table>
     <thead>
         <tr>
