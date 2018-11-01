@@ -40,10 +40,7 @@ Target charateristic(s) :
             <th>Level</th>
             <th>Minimux</th>
             <th>Standard</th>
-            <th>Deluxe</th> 
-            
-            <th>Storage</th>
-            <th>Machine Model (Sample)</th>
+            <th>Deluxe</th>            
         </tr>
     </thead>
     <tbody>
