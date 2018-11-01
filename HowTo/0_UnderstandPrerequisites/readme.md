@@ -3,7 +3,7 @@ Step 0 : Understand Prerequisites
 
 Objectives (Why ?) :
 --
-Insure that your you will succes in building your own node
+Insure that your you will success in building your own __100% containerized Bitcoin stack node(s)__
 
 Description (What ?) :
 --
