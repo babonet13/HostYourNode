@@ -31,12 +31,12 @@ You just need to achieve those step :
             <td></td>
         </tr>
         <tr>
-            <th2</th>   
+            <th>2</th>   
             <td>Burn / flash a USB key with the .iso image</td>
             <td>With a burning software (e.g. <A href="https://etcher.io">Etcher</A>)</td>
             <td>Depending of your machine the USB key could be remplaced by a micro-SD card</td>
         </tr>
-         <th3</th>   
+         <th>3</th>   
             <td>Set your machine to boot on the USB key</td>
             <td>Put the USB key in your computer, start it and just after press the F2 touch in order to enter in the BIOS. Then, find the menu relatated to the boot and set the USB key at 1st booting device. Save and exit</td>
             <td>Depending of your model it could be another touch : e.g. "DEL" ...</td>
