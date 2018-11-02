@@ -1,11 +1,17 @@
 Install Linux
 ==
->>> To Be Complete
 
-Sections of this repository :
+Prerequisites 
+-
+Before going through this procedure it is strongly recommended to have read the <A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Software Prerequisites</A> ?
+
+Step by step procedure 
+-
+You just need to achieve those step :
 <table>
     <thead>
         <tr>
+            <th>Step</th>         
             <th>What To Do ?</th>
             <th>How To Do It</th>
             <th>Comment(s) / Resource(s)</th>
@@ -13,14 +19,16 @@ Sections of this repository :
     </thead>
     <tbody>
         <tr>
-            <td>Choose you favorite compliant Linux distribution</td>
-            <td>Use beenchark on the web</td>
+            <th0</th>     
+            <td>Choose you favorite (but compliant) Linux distribution</td>
+            <td>Use benchmarks on the web</td>
             <td><A href="https://www.lifewire.com/linux-distributions-how-to-choose-2180217">Linux Distributions: How to Choose One</A></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/File">File</a></td>
-            <td>Template of file</td>
-            <td></td>
+            <th1</th>   
+            <td>Download a .iso image of the choosenLinux distribution</td>
+            <td>Use benchmarks on the web</td>
+            <td><A href="https://www.lifewire.com/linux-distributions-how-to-choose-2180217">Linux Distributions: How to Choose One</A></td>
         </tr>
         <tr>
             <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Hardware">Hardware</a></td>
