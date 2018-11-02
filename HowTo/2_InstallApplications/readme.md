@@ -20,7 +20,7 @@ Depending of your HYN-naute profile, you will need the following applications :
     <tbody>
         <tr>
             <th>Developper</th>
-            <td>nano</td>
+            <td>nano, git</td>
             <td>docker (build, push)</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
@@ -48,7 +48,10 @@ Depending of your HYN-naute profile, you will need the following applications :
 Instructions (How ?) :
 --
 __Install nano__ :   
-<pre><code>$ sudo apt-get install nano</code></pre>
+<pre><code>$ sudo apt-get install -y nano</code></pre>
+
+__Install git__ :   
+<pre><code>$ sudo apt-get install -y git</code></pre>
 
 __Install Docker__ :   
 See related instructions : 
