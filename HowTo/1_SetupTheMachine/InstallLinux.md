@@ -19,7 +19,7 @@ You just need to achieve those step :
     </thead>
     <tbody>
         <tr>
-            <th0</th>     
+            <th>0</th>     
             <td>Choose you favorite (but compliant) Linux distribution</td>
             <td>Use benchmarks on the web</td>
             <td><A href="https://www.lifewire.com/linux-distributions-how-to-choose-2180217">Linux Distributions: How to Choose One</A></td>
