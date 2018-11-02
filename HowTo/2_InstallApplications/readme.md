@@ -20,7 +20,7 @@ Depending of your HYN-naute profile, you will need the following applications :
     <tbody>
         <tr>
             <th>Developper</th>
-            <td>nano, git</td>
+            <td>nano, git (clone)</td>
             <td>docker (build, push)</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
@@ -63,3 +63,10 @@ See related instructions (Choose running Portainer on the standard HTTP Web port
 
 ---
 <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">Next<A/> 
+    
+Global Process
+-
+Here is a simplified (but relevant ;) schema about the differents operations for building the stack :
+
+![GlobalProcess](https://github.com/babonet13/Images/blob/master/HostYourNode/HowTo/GlobalProcess.png)
+
