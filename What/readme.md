@@ -37,6 +37,6 @@ Description
     </tbody>
 </table>
 
-Description
+Comment
 -
 Each sub-section of this "What" section will explain the key concepts used by this projet and how those concepts are connected togheter thanks to some schemas ...
