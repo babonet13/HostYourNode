@@ -1,6 +1,5 @@
 What
 ==
-This section is dedicated to explain what are images, containers, nodes, daemons, etc ...
 
 Objectives
 -
@@ -37,3 +36,7 @@ Description
         </tr>
     </tbody>
 </table>
+
+Description
+-
+Each sub-section of this "What" section will explain the key concepts used by this projet and how those concepts are connected togheter thanks to some schemas ...
