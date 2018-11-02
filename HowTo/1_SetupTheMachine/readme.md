@@ -1,5 +1,8 @@
 Step 1 : Setup The Machine
 ==
+>>> Many things in this section has are very generic and potentialy common to others projet ...
+... that's why many link in this section are pointing into the <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine>""machine" section</A> of the HelloWorld repository !
+
 All what you need is a machine :
 * With a compliant __hardware architecture__ (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/0_HardPrerequisites.md">Cf Hardware Prerequisites</A>)
 * Installed with a suitable __Linux distribution__ (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/1_SoftPrerequisites.md">Cf Software Prerequisites</A>) 
