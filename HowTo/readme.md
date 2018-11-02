@@ -1,6 +1,6 @@
 How To
 ==
-Macro Activity x Profile Matrix :
+Activity x Profile Matrix (Macro) :
 -
 ![ProfileActivity_Matrix](https://github.com/babonet13/Images/blob/master/HostYourNode/HowTo/ProfileActivity_Matrix.png)
 
