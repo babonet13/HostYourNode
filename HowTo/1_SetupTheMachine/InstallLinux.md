@@ -41,7 +41,7 @@ You just need to achieve those step :
             <td>Put the USB key in your computer, start it and just after press the F2 touch in order to enter in the BIOS. Then, find the menu relatated to the boot and set the USB key at 1st booting device. Save and exit</td>
             <td>Depending of your model it could be another touch : e.g. "DEL" ...</td>
         </tr>  
-        <th4</th>   
+        <th>4</th>   
             <td>Let the OS installed on your machine ...</td>
             <td>Your just to answer to the wizard questions</td>
             <td>At the end of the installation process, remove the USB Key and reboot</td>
