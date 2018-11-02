@@ -50,7 +50,7 @@ Instructions (How ?) :
 __Install nano__ :   
 <pre><code>$ sudo apt-get install -y nano</code></pre>
 
-__Install git__ :   
+__Install Git__ :   
 <pre><code>$ sudo apt-get install -y git</code></pre>
 
 __Install Docker__ :   
