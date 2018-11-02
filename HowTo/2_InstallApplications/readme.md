@@ -60,9 +60,6 @@ See related instructions :
 __Install Portainer__ :   
 See related instructions (Choose running Portainer on the standard HTTP Web port : 80) :
 <a href="https://github.com/babonet13/HelloWorld/tree/master/App/portainer">portainer : Deployment Guide</a>
-
----
-<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">Next<A/> 
     
 Global Process
 -
@@ -70,3 +67,5 @@ Here is a simplified (but relevant ;) schema about the differents operations for
 
 ![GlobalProcess](https://github.com/babonet13/Images/blob/master/HostYourNode/HowTo/GlobalProcess.png)
 
+---
+<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">Next<A/> 
