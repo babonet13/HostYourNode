@@ -7,7 +7,7 @@ Before going through this procedure it is strongly recommended to have read the 
 
 Step by step procedure 
 -
-You just need to achieve those step :
+You just need to achieve those steps :
 <table>
     <thead>
         <tr>
