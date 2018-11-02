@@ -42,7 +42,7 @@ You just need to achieve those step :
             <td>Depending of your model it could be another touch : e.g. "DEL" ...</td>
         </tr>  
         <th>4</th>   
-            <td>Let the OS installed on your machine ...</td>
+            <td>Let the OS be installed on your machine ...</td>
             <td>Your just to answer to the wizard questions</td>
             <td>At the end of the installation process, remove the USB Key and reboot</td>
         </tr>
