@@ -24,17 +24,5 @@ You just need to achieve those step :
             <td>Use benchmarks on the web</td>
             <td><A href="https://www.lifewire.com/linux-distributions-how-to-choose-2180217">Linux Distributions: How to Choose One</A></td>
         </tr>
-        <tr>
-            <th1</th>   
-            <td>Download a .iso image of the choosen Linux distribution</td>
-            <td>With your prefered Web Browser</td>
-            <td></td>
-        </tr>
-        <tr>
-            <th2</th>   
-            <td>Burn / flash a USB key</td>
-            <td>Wiht a burning software (e.g. <A href="https://etcher.io">Etcher</A>)</td>
-            <td>Depending of your machine the USB key could be remplaced by a micro-SD card</td>
-        </tr>
     </tbody>
 </table>
