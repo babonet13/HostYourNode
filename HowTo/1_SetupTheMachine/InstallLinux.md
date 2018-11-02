@@ -51,4 +51,4 @@ You just need to achieve those step :
 
 Next step 
 -
-Check the machine <A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/1_SetupTheMachine/SetInformationPrerequisites.md">here</A> according the <A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfiPrerequisites.md">Information Prerequisites</A> !
+Check the machine <A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/1_SetupTheMachine/SetInformationPrerequisites.md">here</A> according the <A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/0_UnderstandPrerequisites/2_InfoPrerequisites.md">Information Prerequisites</A> !
