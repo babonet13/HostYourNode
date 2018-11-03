@@ -26,7 +26,7 @@ Depending of your HYN-naute profile, you will need the following applications :
         </tr>
         <tr>
             <th>Builder</th>
-            <td></td>
+            <td>-</td>
             <td>git (clone)</br>docker (pull, build)</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
