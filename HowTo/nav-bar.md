@@ -2,7 +2,7 @@
 <table>
     <thead>
         <tr>
-             <th>NAV-BAR</th>
+             <th>NAVBAR</th>
             <td>RUN</td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
