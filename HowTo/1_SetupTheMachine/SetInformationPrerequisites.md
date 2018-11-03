@@ -17,7 +17,7 @@ Of couses, you can use others values than those proposed, but in this case :
     <tbody>
         <tr>
             <td>Setup the name of the machine</td>
-            <td>hostname="nakamoto"/td>
+            <td>hostname="nakamoto"</td>
              <td><A href="https://github.com/babonet13/HelloWorld/blob/master/Machine/7_InitializeMachine/SetHostname.md">How the set the hostname of a machine ?</A></td>
         </tr>
         <tr>
