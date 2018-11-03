@@ -23,7 +23,7 @@ Of couses, you can use others values than those proposed, but in this case :
         <tr>
             <td>Create a user for this machine</td>
             <td>username="satoshi"</br>password="21millions"</td>
-            <td><A href="https://github.com/babonet13/HelloWorld/blob/master/Machine/7_InitializeMachine/CreateNonRootUser.md">HHow to create a "non-root" user (with some root privileges) ?</A></td>
+            <td><A href="https://github.com/babonet13/HelloWorld/blob/master/Machine/7_InitializeMachine/CreateNonRootUser.md">How to create a "non-root" user (with some root privileges) ?</A></td>
         </tr>   
           <tr>
            <td>Define a fixed LAN IP address (optional)</td>
