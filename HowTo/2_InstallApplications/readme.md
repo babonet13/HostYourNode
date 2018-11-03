@@ -36,12 +36,6 @@ Depending of your HYN-naute profile, you will need the following applications :
             <td>docker (pull)</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
-        <tr>
-          <th>Runner</th>
-          <td>-</td>
-          <td>-</td>
-          <td>-</td>
-        </tr>
     </tbody>
 </table>
 
