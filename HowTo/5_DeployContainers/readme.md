@@ -25,4 +25,19 @@ Instructions (How ?) :
 N/A => See instructions in sub-sections related to each deployement mode (CMD or GUI) ...
 
 ---
-<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">Next<A/> 
+Nav-Bar
+<table>
+    <thead>
+        <tr>
+            <td>RUN</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">DPL</A></td>
+            <td>RUN</td>
+        </tr>
+    </thead>
+</table>
