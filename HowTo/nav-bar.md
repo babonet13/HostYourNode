@@ -7,11 +7,12 @@
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DEV</A></td>
-            <td>< PREVIOUS | NEXT ></td>
+            <th><<< PREVIOUS | NEXT >>></th>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DEV</A></td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
             <td>RUN</td>
+            <th>PROFILES</th>
         </tr>
     </thead>
 </table>
