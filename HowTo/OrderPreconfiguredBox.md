@@ -22,7 +22,7 @@
 > Only for the "Runner" profile.
 
 If you do not have the time or do not want to build you 100% containerized Bitcoin full stack ...   
-... Then you can order one at <A href="http://bit.ly/2DOj69o">Open Bazaar</A>.
+... Then you can order one at <A href="http://bit.ly/2DOj69o">HostYourNode@OpenBazaar</A>.
 
 Once you reveive it, you will have to follow this <A href="http://bit.ly/2P5y78f">Get Started Procedure</A> ...   
 ... and then you will be able to  :
