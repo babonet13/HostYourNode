@@ -2,7 +2,7 @@
 <table>
     <thead>
         <tr>
-             <th>NAVBAR</th>
+             <th>navbar</th>
             <td>RUN</td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
@@ -12,7 +12,7 @@
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
             <td>RUN</td>
-            <th>PROFILES</th>
+            <th>profiles</th>
         </tr>
     </thead>
 </table>
