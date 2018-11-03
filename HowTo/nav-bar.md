@@ -5,15 +5,15 @@ NAV-BAR
 <table>
     <thead>
         <tr>
-            <td>Text RUN</td>
-            <td>Text DPL</td>
-            <td>Text BLD</td>
-            <td>Text DEV</td>
+            <td>RUN</td>
+            <td>DPL</td>
+            <td>BLD</td>
+            <td>DEV</td>
             <td>< PREVIOUS | NEXT ></td>
-            <td>Text DEV</td>
-            <td>Text BLD</td>
-            <td>Text DPL</td>
-            <td>Text RUN</td>
+            <td>DEV</td>
+            <td>BLD</td>
+            <td>DPL</td>
+            <td>RUN</td>
         </tr>
     </thead>
 </table>
