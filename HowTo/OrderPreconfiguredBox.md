@@ -9,7 +9,7 @@ If you do not have the time or do not want to build you 100% containerized Bitco
 One you reveive it you will have yo follow this <A href="http://bit.ly/2P5y78f">Get Started Procedure</A>, and then :
 * You could monitor your daemons
 * And manage your stack
-
+---
 Nav-Bar
 <table>
     <thead>
