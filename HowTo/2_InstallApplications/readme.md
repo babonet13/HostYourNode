@@ -62,4 +62,19 @@ Here is a simplified (but relevant ;) schema about the differents operations for
 ![GlobalProcess](https://github.com/babonet13/Images/blob/master/HostYourNode/HowTo/GlobalProcess.png)
 
 ---
-<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">Next<A/> 
+Nav-Bar
+<table>
+    <thead>
+        <tr>
+            <td>RUN</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">DPL</A></td>
+            <td>RUN</td>
+        </tr>
+    </thead>
+</table>
