@@ -18,9 +18,7 @@
 </table> 
 
 ---
-
 # Step 1 : Setup The Machine
-
 ---
 >>> Many things in this section has are very generic and potentialy common to others projects ...   
 ... that's why many links in this section are pointing into sub-sections of the <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine">"machine" section</A> of the HelloWorld repository !
