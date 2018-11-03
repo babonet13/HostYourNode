@@ -14,4 +14,19 @@ Instructions (How ?) :
 Bla bla
 
 ---
-<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">End<A/> 
+Nav-Bar
+<table>
+    <thead>
+        <tr>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">RUN</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">RUN</A></td>
+        </tr>
+    </thead>
+</table>
