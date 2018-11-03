@@ -19,7 +19,7 @@
 ---
 # Order a preconfigured box
 ---
-> For the "Runner" profile.
+> Only for the "Runner" profile.
 
 If you do not have the time or do not want to build you 100% containerized Bitcoin full stack ...
 ... your can order one at <A href="http://bit.ly/2DOj69o">Open Bazaar</A>.
