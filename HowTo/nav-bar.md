@@ -38,13 +38,13 @@ NAV-BAR
         <tr>
             <td>BLD</td>
             <td>Builder</td>
-            <td>Profile that make all the A-to-Z steps, except defining Dockerfiles</td>
+            <td>Profile that make all the A-to-Z steps</br>except defining Dockerfiles</td>
             <td>Surely because its harware architecture is not supported by the project</td>
         </tr>
         <tr>
             <td>DPL</td>
             <td>Deployer</td>
-            <td>Profile using already built image</td>
+            <td>Profile using already built images</td>
             <td>All those images can be pulled from <A href="https://hub.docker.com/u/hostyournode/">Docker Hub</A></td>
         </tr>
         <tr>
