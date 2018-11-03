@@ -12,6 +12,20 @@ Bla bla
 Instructions (How ?) :
 --
 Bla bla
-
 ---
-<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">Next<A/> 
+Nav-Bar
+<table>
+    <thead>
+        <tr>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/OrderPreconfiguredBox.md">RUN</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">RUN</A></td>
+        </tr>
+    </thead>
+</table>
