@@ -1,7 +1,7 @@
 <table>
     <thead>
         <tr>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">RUN</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/OrderPreconfiguredBox.md">RUN</A></td>
             <td>DPL</td>
             <td>BLD</td>
             <td>DEV</td>
