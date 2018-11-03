@@ -1,5 +1,24 @@
-Step 6 : Monitor Daemons
-==
+<table>
+    <thead>
+        <tr>
+            <th>navbar</th>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/OrderPreconfiguredBox.md">RUN</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">RUN</A></td>
+            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/Who/Profiles.md">profiles</A></th>
+        </tr>
+    </thead>
+</table>
+
+---
+# Step 6 : Monitor Daemons
+---
 
 Objectives (Why ?) :
 --
@@ -13,19 +32,3 @@ Instructions (How ?) :
 --
 Bla bla
 ---
-Nav-Bar
-<table>
-    <thead>
-        <tr>
-            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/OrderPreconfiguredBox.md">RUN</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">DPL</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">BLD</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">DEV</A></td>
-            <td>< PREVIOUS | NEXT ></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">DEV</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">BLD</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">DPL</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">RUN</A></td>
-        </tr>
-    </thead>
-</table>
