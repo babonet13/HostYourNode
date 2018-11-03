@@ -18,7 +18,6 @@
 
 ---
 # Step 2 : Install Applications
-
 ---
 Objectives (Why ?) :
 --
