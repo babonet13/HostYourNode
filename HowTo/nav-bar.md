@@ -1,7 +1,5 @@
-NAV-BAR
-
-
-
+---
+Nav-Bar
 <table>
     <thead>
         <tr>
