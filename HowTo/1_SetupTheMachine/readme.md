@@ -1,5 +1,27 @@
-Step 1 : Setup The Machine
-==
+
+<table>
+    <thead>
+        <tr>
+            <th>navbar</th>
+            <td>RUN</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">DPL</A></td>
+            <td>RUN</td>
+            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/Who/Profiles.md">profiles</A></th>
+        </tr>
+    </thead>
+</table> 
+
+---
+
+# Step 1 : Setup The Machine
+
+---
 >>> Many things in this section has are very generic and potentialy common to others projects ...   
 ... that's why many links in this section are pointing into sub-sections of the <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine">"machine" section</A> of the HelloWorld repository !
 
@@ -60,21 +82,3 @@ Just follow the link in the table :
         </tr>    
     </tbody>
 </table>
-
----
-Nav-Bar
-<table>
-    <thead>
-        <tr>
-            <td>RUN</td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DEV</A></td>
-            <td>< PREVIOUS | NEXT ></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">DEV</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">BLD</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">DPL</A></td>
-            <td>RUN</td>
-        </tr>
-    </thead>
-</table> 
