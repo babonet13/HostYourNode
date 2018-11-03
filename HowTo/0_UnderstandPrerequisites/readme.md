@@ -1,5 +1,25 @@
-Step 0 : Understand Prerequisites
-==
+<table>
+    <thead>
+        <tr>
+            <th>navbar</th>
+            <td>RUN</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">DPL</A></td>
+            <td>RUN</td>
+            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/Who/Profiles.md">profiles</A></th>
+        </tr>
+    </thead>
+</table>
+---
+
+# Step 0 : Understand Prerequisites
+
+ ---
 
 Objectives (Why ?) :
 --
@@ -39,20 +59,3 @@ Instructions (How ?) :
 --
 > N/A : See detailled instructions in each prerequisites sub-sections ...
 
----
-Nav-Bar
-<table>
-    <thead>
-        <tr>
-            <td>RUN</td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DEV</A></td>
-            <td>< PREVIOUS | NEXT ></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">DEV</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">BLD</A></td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">DPL</A></td>
-            <td>RUN</td>
-        </tr>
-    </thead>
-</table>
