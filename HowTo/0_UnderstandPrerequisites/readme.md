@@ -40,4 +40,19 @@ Instructions (How ?) :
 > N/A : See detailled instructions in each prerequisites sub-sections ...
 
 ---
-<A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">Previous<A/> | <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">Next<A/> 
+Nav-Bar
+<table>
+    <thead>
+        <tr>
+            <td>RUN</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">RUN</A></td>
+        </tr>
+    </thead>
+</table>
