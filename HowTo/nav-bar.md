@@ -1,8 +1,8 @@
----
-Nav-Bar
+
 <table>
     <thead>
         <tr>
+             <th>NAV-BAR</th>
             <td>RUN</td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
@@ -52,4 +52,22 @@ Nav-Bar
             <td>Profil who prefers ordering a pre-configured machine at <A href="http://bit.ly/2DOj69o">Open Bazaar</A></td>
         </tr>
     </tbody>
+</table>
+
+---
+Nav-Bar
+<table>
+    <thead>
+        <tr>
+            <td>RUN</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">DPL</A></td>
+            <td>RUN</td>
+        </tr>
+    </thead>
 </table>
