@@ -45,7 +45,7 @@ NAV-BAR
             <td>DPL</td>
             <td>Deployer</td>
             <td>Profile using already built image</td>
-            <td>TeAll those images can be pulled from <A href="https://hub.docker.com/u/hostyournode/">Docker Hub</A></td>
+            <td>All those images can be pulled from <A href="https://hub.docker.com/u/hostyournode/">Docker Hub</A></td>
         </tr>
         <tr>
             <td>RUN</td>
