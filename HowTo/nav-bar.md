@@ -5,9 +5,15 @@ NAV-BAR
 <table>
     <thead>
         <tr>
-            <td>Text A1</td>
-            <td>Text A2</td>
-            <td>Text A3</td>
+            <td>Text RUN</td>
+            <td>Text DPL</td>
+            <td>Text BLD</td>
+            <td>Text DEV</td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td>Text DEV</td>
+            <td>Text BLD</td>
+            <td>Text DPL</td>
+            <td>Text RUN</td>
         </tr>
     </thead>
 </table>
