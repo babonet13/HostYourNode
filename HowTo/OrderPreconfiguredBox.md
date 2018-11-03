@@ -17,7 +17,6 @@
 </table>
 
 ---
-
 # Order a preconfigured box
 ---
 > For the "Runner" profile.
