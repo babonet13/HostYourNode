@@ -20,7 +20,6 @@
 # Step 2 : Install Applications
 
 ---
-
 Objectives (Why ?) :
 --
 Allow the machine to be ready for defining Dockerfiles (and associated configuration file(s)), building images and deploying containers ...
