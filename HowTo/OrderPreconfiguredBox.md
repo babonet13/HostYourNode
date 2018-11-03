@@ -1,6 +1,7 @@
 <table>
     <thead>
         <tr>
+            <th>navbar</th>
             <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/OrderPreconfiguredBox.md">RUN</A></td>
             <td>DPL</td>
             <td>BLD</td>
@@ -10,6 +11,7 @@
             <td>BLD</td>
             <td>DPL</td>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">RUN</A></td>
+            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/Who/Profiles.md">profiles</A></th>
         </tr>
     </thead>
 </table>
