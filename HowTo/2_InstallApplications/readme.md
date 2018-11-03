@@ -20,14 +20,14 @@ Depending of your HYN-naute profile, you will need the following applications :
     <tbody>
         <tr>
             <th>Developper</th>
-            <td>nano, git (clone)</td>
-            <td>docker (build, push)</td>
+            <td>nano</td>
+            <td>git (clone)</br>docker (pull, build, push)</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
         <tr>
             <th>Builder</th>
-            <td>git (clone)</td>
-            <td>docker (build)</td>
+            <td></td>
+            <td>git (clone)</br>docker (build)</td>
             <td>docker (CMD mode)</br>portainer (GUI mode)</td>
         </tr>
         <tr>
