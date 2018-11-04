@@ -37,7 +37,7 @@ Steps to achieve :
         <tr>
             <td>Get the target image</td>
             <td>$ docker pull %DOCKER_HUB/%TARGET_IMG:%VERSION</td>
-            <td>$ docker pullhostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</td>
+            <td>$ docker pull hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</td>
         </tr>
         <tr>
             <td>Run the container</td>
