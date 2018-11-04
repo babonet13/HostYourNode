@@ -55,8 +55,8 @@ List of activities and associated HYN-naute profile(s) :
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">0. Understand</br>Prerequisites</A></td>
             <td>Have a deep understanding about important criterias (hardware, software, environment) to have the warranty that everything is working.</td>
             <td>Well Know This ;-)</td>
-            <td>Read It Carrefully !</td>
-            <td>Read It Carrefully !</td>
+            <td>Read It</br>Carrefully !</td>
+            <td>Read It</br>Carrefully !</td>
             <td>Do NOT care coz ...</td>
         </tr>
         <tr>
@@ -79,8 +79,8 @@ List of activities and associated HYN-naute profile(s) :
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">3. Define</br>Dockerfiles</A></td>
             <td>Dockerfile are kind of “recipe” for building a target image from a source image.</td>
             <td>DIY</td>
-            <td>Develpper Job !</td>
-            <td>Develpper Job !</td>
+            <td>Developper</br>Task !</td>
+            <td>Developper</br>Task !</td>
             <td>-</td>
         </tr>
         <tr>
