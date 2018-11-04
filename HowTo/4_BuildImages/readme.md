@@ -65,7 +65,7 @@ The following instructions are related to a generic 1 step process.
             <td>$ docker pull ubuntu</td>
         </tr>
         <tr>
-            <td>Clone in local the Git repository</td>
+            <td>Clone the Git repository in local</td>
             <td>$ git clone https://github.com/%GIT_REP_USER/%GIT_REP_NAME /%REP_PATH</td>
             <td>$ git clone https://github.com/babonet13/HostYourNode /HostYourNode</td>
         </tr>
