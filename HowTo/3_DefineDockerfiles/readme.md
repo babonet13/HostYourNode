@@ -26,9 +26,9 @@ Automatize installation and running instructions for an application.
 
 Description (What ?) :
 --
-We will describe the generic process of defining a Dockerfile by using a very simple example of bitcoind installed for Ubuntu-based package. 
-Needed tool : A text editor (e.g. vi, nano, ...).  
-Process : 
+We will describe the generic process of defining a Dockerfile by using a very simple example of bitcoind installed for Ubuntu-based package.  
+__Needed tool__ : A text editor (e.g. vi, nano, ...).  
+__Process__ : 
 <table>
     <thead>
         <tr>
