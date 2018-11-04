@@ -26,6 +26,7 @@ Automatize installation and running instructions for an application.
 
 Description (What ?) :
 --
+A Dockerfile could be see as kind of "recipe" for building a target image from a source image ...   
 We will describe the generic process of defining a Dockerfile by using a very simple example of bitcoind installed for Ubuntu-based package.  
 __Needed tool__ : A text editor (e.g. vi, nano, ...).  
 __Process__ : 
