@@ -38,7 +38,7 @@ __Process__ :
     </thead>
     <tbody>
         <tr>
-            <td>Installation instruction(s) (e.g. <A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">example</A>)</br>Dockerfile directive reference (see <A href="https://docs.docker.com/engine/reference/builder/#cmd">here</A>)</td>
+            <td>Installation instruction(s) (e.g. <A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">example</A>)</br>Configuration file(s) (see <A href="https://docs.docker.com/engine/reference/builder/#cmd">here</A>)</br>Dockerfile directives reference (e.g. <A href="https://github.com/babonet13/HostYourNode/blob/master/Docker/bitcoind_pkg-ubuntu/bitcoin.conf">example</A>)</td>
             <td>Dockerfile (e.g. <A href="https://github.com/babonet13/HostYourNode/blob/master/Docker/bitcoind_pkg-ubuntu/Dockerfile">example</A>)</td>
         </tr>
     </tbody>
@@ -46,4 +46,12 @@ __Process__ :
 
 Instructions (How ?) :
 --
-Bla bla
+Very basic hot to : 
+* Define the source image => FROM
+* Define instruction(s) => RUN
+* Copy configuration file COPY
+* Define storage(s) => VOLUME
+* Define port(s) => EXPOSE
+* Start daemon => ENTRYPOINT
+
+
