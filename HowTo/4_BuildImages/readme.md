@@ -60,18 +60,33 @@ The following instructions are related to a generic 1 step process.
     <tbody>
         <tr>
             <td>Get the source image</td>
-            <td>$ docker pull %S_IMG</td>
+            <td>$ docker pull %SOURCE_IMG</td>
             <td>$ docker pull ubuntu</td>
         </tr>
         <tr>
             <td>Clone in local the Git repository</td>
-            <td>$ git clone https://github.com/%REP_USER/%REP_NAME /%REP_PATH</td>
+            <td>$ git clone https://github.com/%GIT_REP_USER/%GIT_REP_NAME /%REP_PATH</td>
             <td>$ git clone https://github.com/babonet13/HostYourNode /HostYourNode</td>
         </tr>
         <tr>
-            <td>Build the tartet image frome the sorce  </td>
-            <td>$ docker build -t %T_IMG %DOCKERFILE_DIR</td>
+            <td>Build the tartet image frome the source</td>
+            <td>$ docker build -t %TARGET_IMG %DOCKERFILE_DIR</td>
             <td>$ docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg</td>
+        </tr>
+        <tr>
+            <td>Log into the Docker Hub repository</td>
+            <td>$ docker login -u %DOCKER_HUB</td>
+            <td>$ docker login -u hostyournode</td>
+        </tr>
+        <tr>
+            <td>Tag the target image</td>
+            <td>$ docker tag ubuntu-pkg:latest %DOCKER_HUB/%TARGET_IMG:latest</td>
+            <td>$ docker tag ubuntu-pkg:latest hostyournode/ubuntu-pkg:latest</td>
+        </tr>
+        <tr>
+            <td>Push the target image</td>
+            <td>$ docker push %DOCKER_HUB/%TARGET_IMG:latest</td>
+            <td>$ docker push hostyournode/ubuntu-pkg:latest</td>
         </tr>
     </tbody>
 </table>
