@@ -50,7 +50,8 @@ __Needed tools (& commands)__ :
 * git (clone)
 * docker (pull, build, login, push)
 The following instructions are related to a generic 1 step process.  
-(More specific instructions could be find <A href="https://github.com/babonet13/HostYourNode/tree/master/Docker/bitcoind_pkg-ubuntu">here</A>)
+(More specific instructions could be find <A href="https://github.com/babonet13/HostYourNode/tree/master/Docker/bitcoind_pkg-ubuntu">here</A>).  
+__Steps to achieve__ :
 <table>
     <thead>
         <tr>
