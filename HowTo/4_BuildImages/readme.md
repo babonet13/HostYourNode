@@ -26,7 +26,7 @@ Build an __target image__ from a __source image__ by using a __Dockerfile__ and 
 
 Description (What ?) :
 -
-
+Builing a target image could be done in 1 or several steps.
 __Needed tools (& commands__) : 
 * git (clone)
 * docker (pull, build, login, push)
