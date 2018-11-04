@@ -73,7 +73,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>DIY</td>
             <td>DIY</td>
             <td>DIY</td>            
-            <td>-</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">3. Define</br>Dockerfiles</A></td>
@@ -81,7 +81,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>DIY</td>
             <td>Just want</br>to use</br>pre-defined Dockerfiles</td>
             <td>Just want</br>to use</br>pre-defined Dockerfiles</td>
-            <td>-</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">4. Build</br>Images</A></td>
@@ -89,7 +89,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>DIY</td>
             <td>DIY</td>
             <td>Just want</br>to use</br>pre-built images</td>
-            <td>-</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">5. Deploy</br>Containers</A></td>
