@@ -33,13 +33,13 @@ Instructions (How ?) :
 --
 
 You can deploy HYN containers :
-* Using the Linux Command Line (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/5_DeployContainers/CMD_Deployment.md">CMD</A>)
+* By using the Linux Command Line (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/5_DeployContainers/CMD_Deployment.md">CMD</A>)
 
 ![Linux Command Line](https://github.com/babonet13/Images/blob/master/Portainer/LinuxCommandLine.png)
 
 Or
 
-* Using the Portainer Graphical Interface (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/5_DeployContainers/GUI_Deployment.md">GUI</A>)
+* By using the Portainer Graphical Interface (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/5_DeployContainers/GUI_Deployment.md">GUI</A>)
 
 ![Portainer Graphical Interface](https://github.com/babonet13/Images/blob/master/Portainer/PortainerGraphicalInterface.png)
 
