@@ -53,7 +53,7 @@ List of activities and associated HYN-naute profile(s) :
     <tbody>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">0. Understand</br>Prerequisites</A></td>
-            <td>A2</td>
+            <td>Have a deep understanding about important criterias (hardware, software, environment) to have the warranty that everything is working.</td>
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
@@ -61,7 +61,7 @@ List of activities and associated HYN-naute profile(s) :
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">1. Setup The</br>Machine</A></td>
-            <td>A2</td>
+            <td>Build a full featured (physical or virtual) machine installed with a Linux distribution.</td>
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>  
@@ -69,7 +69,7 @@ List of activities and associated HYN-naute profile(s) :
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">2. Install</br>Applications</A></td>
-            <td>A2</td>
+            <td>Install required applications allowing to achieve all the following steps (editing files, building or pulling images, deploying containers, …).</td>
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>            
@@ -77,7 +77,7 @@ List of activities and associated HYN-naute profile(s) :
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">3. Define</br>Dockerfiles</A></td>
-            <td>A2</td>
+            <td>Dockerfile are kind of “recipe” for building a target image from a source image.</td>
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
@@ -85,15 +85,15 @@ List of activities and associated HYN-naute profile(s) :
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">4. Build</br>Images</A></td>
-            <td>A2</td>
+            <td>Building a image could be done in 1 (or several) step(s). Each step consist in reading the “recipe” provided by a Dockerfile for building the image.</td>
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
             <td>A3</td>
         </tr>
         <tr>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers>5. Deploy</br>Containers</A></td>
-            <td>A2</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">5. Deploy</br>Containers</A></td>
+            <td>Deploying container consist in running the daemon inside an image.</td>
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
@@ -101,7 +101,7 @@ List of activities and associated HYN-naute profile(s) :
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">6. Monitor</br>Daemons</A></td>
-            <td>A2</td>
+            <td>Once containers are deployed, daemons are available for being monitoring and/or for realising daemon-specific tasks.</td>
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
@@ -109,7 +109,7 @@ List of activities and associated HYN-naute profile(s) :
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">7. Manage</br>Stack</A></td>
-            <td>A2</td>
+            <td>Things are changing quickly in the crypto world, and there is always new versions of existing daemon, new daemons, GUI for daemons, ...</td>
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
