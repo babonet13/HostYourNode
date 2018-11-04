@@ -46,10 +46,10 @@ __Process__ :
 
 Instructions (How ?) :
 --
-Very basic hot to : 
+Very simple template :
 * Define the source image => FROM
 * Define instruction(s) => RUN
-* Copy configuration file COPY
+* Copy configuration file(s) COPY
 * Define storage(s) => VOLUME
 * Define port(s) => EXPOSE
 * Start daemon => ENTRYPOINT
