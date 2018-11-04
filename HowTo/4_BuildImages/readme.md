@@ -71,7 +71,7 @@ The following instructions are related to a generic 1 step process.
             <td>$ git clone https://github.com/babonet13/HostYourNode /HostYourNode</td>
         </tr>
         <tr>
-            <td>Build the tartet image frome the source</td>
+            <td>Build the tartet image from the source</td>
             <td>$ docker build -t %TARGET_IMG %DOCKERFILE_DIR</td>
             <td>$ docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg</td>
         </tr>
@@ -93,3 +93,4 @@ The following instructions are related to a generic 1 step process.
     </tbody>
 </table>
 
+__Remark__ : Cloning the repository in local is not a mandatory step. The docker build command can also directly user the Dockerfaile stored in the Git Repository.
