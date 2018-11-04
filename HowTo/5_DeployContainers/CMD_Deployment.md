@@ -42,7 +42,7 @@ The following instructions are related to a generic 1 step process.
         </tr>
         <tr>
             <td>Run the container</td>
-            <td>N/A</td>
+            <td>$ docker run -d -v %HOST_VOL:%_VOL -p %HOST_PORT:%PORT --name %CONTAINER %TARGET_IMAGE:%VERSION</td>
             <td>$ docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind_pkg-ubuntu_amd64:0.17.0</td>
         </tr>
         <td>Verify that he conainer is running</td>
