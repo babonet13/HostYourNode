@@ -26,6 +26,10 @@ Allow choosen daemons to run in dedicated containers ...
 
 Description (What ?) :
 --
+Nodes are containerized deamons allowing to run bitcoind, LND, btcpayserver ... in a isolated way
+
+Instructions (How ?) :
+--
 
 You can deploy HYN containers :
 * Using the Linux Command Line (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/5_DeployContainers/CMD_Deployment.md">CMD</A>)
@@ -38,8 +42,4 @@ Or
 
 ![Portainer Graphical Interface](https://github.com/babonet13/Images/blob/master/Portainer/PortainerGraphicalInterface.png)
 
-
-Instructions (How ?) :
---
-N/A => See instructions in sub-sections related to each deployement mode (CMD or GUI) ...
 
