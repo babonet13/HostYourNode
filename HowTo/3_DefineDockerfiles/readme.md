@@ -22,11 +22,28 @@
 
 Objectives (Why ?) :
 --
-Bla bla
+Automatize installation instruction for an application
 
 Description (What ?) :
 --
-Bla bla
+We will describe the generic process of defining a Dockerfile by using a very simple example of bitcoind installed for Ubuntu-based package. 
+Needed tool : A text editor (e.g. vi, nano, ...).  
+Process : 
+<table>
+    <thead>
+        <tr>
+            <th>Input(s)</th>
+            <th>Output</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Installation instructions (e.g. <A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">example</A)
+                </br>Dockerfile directive reference (see <A href="https://docs.docker.com/engine/reference/builder/#cmd">here</A)</td>
+            <td>Dockerfile (e.g. <A href="https://github.com/babonet13/HostYourNode/blob/master/Docker/bitcoind_pkg-ubuntu/Dockerfile">example</A)</td>
+        </tr>
+    </tbody>
+</table>
 
 Instructions (How ?) :
 --
