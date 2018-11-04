@@ -1,6 +1,6 @@
 # HYN-naute Profiles
 
-List of the HYN-naute profile with a short description of theirs activities :
+List of the HYN-naute profiles with a short description of theirs activities :
 <table>
     <thead>
         <tr>
