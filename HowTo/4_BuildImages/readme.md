@@ -22,7 +22,7 @@
 
 Objectives (Why ?) :
 --
-Bla bla
+Make target
 
 Description (What ?) :
 --
