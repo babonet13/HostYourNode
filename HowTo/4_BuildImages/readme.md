@@ -28,10 +28,7 @@ Description (What ?) :
 -
 Builing a target image could be done in 1 or several steps.  
 
-__Needed tools (& commands)__ : 
-* git (clone)
-* docker (pull, build, login, push)
-
+__Process Input / Output__ : 
 <table>
     <thead>
         <tr>
@@ -48,7 +45,10 @@ __Needed tools (& commands)__ :
 </table>
 
 Instructions (How ?) :
---
+-
+__Needed tools (& commands)__ : 
+* git (clone)
+* docker (pull, build, login, push)
 The following instructions are related to a generic 1 step process.  
 (More specific instructions could be find <A href="https://github.com/babonet13/HostYourNode/tree/master/Docker/bitcoind_pkg-ubuntu">here</A>)
 <table>
