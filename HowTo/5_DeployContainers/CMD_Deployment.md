@@ -24,8 +24,7 @@ __Needed tools (& commands)__ :
 
 Instructions (How ?) :
 --
-The following instructions are related to a generic 1 step process.  
-(More specific instructions could be find <A href="https://github.com/babonet13/HostYourNode/tree/master/Docker/bitcoind_pkg-ubuntu">here</A>)
+Steps to achieve : 
 <table>
     <thead>
         <tr>
