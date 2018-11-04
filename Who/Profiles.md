@@ -122,10 +122,11 @@ List of activities and associated HYN-naute profile(s) :
     </tbody>
 </table>
 
-Tips
+How to navigate into activities :
 -
 Activities are detailled in the <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo">HowTo</A> section of the repository.  
-> Use the __"navbar"__ to navigate from one activity to another by using your profile TLA (Three-LetterAcronym). 
+> Use the __"navbar"__ to navigate from one activity to another by using your profile TLA (Three-LetterAcronym).  
+Tips : If your TLA is not clic-able, then this activity is not required for your profile !
 ---
 <table>
     <thead>
