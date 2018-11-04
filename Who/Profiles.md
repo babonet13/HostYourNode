@@ -1,5 +1,7 @@
-# HYN-naute Profiles
+# HYN-naute Profiles and associated activities
 
+HYN-naute profiles
+-
 List of the HYN-naute profiles with a short description of theirs activities :
 <table>
     <thead>
@@ -38,6 +40,8 @@ List of the HYN-naute profiles with a short description of theirs activities :
     </tbody>
 </table>
 
+Activities
+-
 List of activities and associated HYN-naute profile(s) :
 <table>
     <thead>
