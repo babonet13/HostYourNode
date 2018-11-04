@@ -26,11 +26,9 @@ Build an __target image__ from a __source image__ by using a __Dockerfile__ and 
 
 Description (What ?) :
 
-__Needed tool & command__ : 
-* git clone
-* docker pull 
-* docker build 
-* docker push
+__Needed tool (& comman__ : 
+* git (clone)
+* docker (pull, build, login, push)
 
 <table>
     <thead>
@@ -49,5 +47,31 @@ __Needed tool & command__ :
 
 Instructions (How ?) :
 --
-Bla bla
+
+<table>
+    <thead>
+        <tr>
+            <th>What To Do ?</th>
+            <th>How To Do It ?</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Get the source image</td>
+            <td>$ docker pull %S_IMG</td>
+            <td>$ docker pull ubuntu</td>
+        </tr>
+        <tr>
+            <td>Clone in local the Git repository</td>
+            <td>$ git clone https://github.com/%REP_USER/%REP_NAME /%REP_PATH</td>
+            <td>$ git clone https://github.com/babonet13/HostYourNode /HostYourNode</td>
+        </tr>
+        <tr>
+            <td>Build the tartet image frome the sorce  </td>
+            <td>$ docker build -t %T_IMG %DOCKERFILE_DIR</td>
+            <td>$ docker build -t ubuntu-pkg /HostYourNode/Docker/ubuntu-pkg</td>
+        </tr>
+    </tbody>
+</table>
 
