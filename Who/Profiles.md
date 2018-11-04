@@ -64,8 +64,8 @@ List of activities and associated HYN-naute profile(s) :
             <td>Build a full featured (physical or virtual) machine installed with a Linux distribution.</td>
             <td>DIY</td>
             <td>DIY</td>
-            <td>I just want to buy a “ready-to-use” pre-installed machine</td>  
-            <td>I just want to order a pre-configured  machine</td>
+            <td>Just want</br>to buy</br>installed machine</td>
+            <td>Just want</br>to order</br>ready-to-use machine</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">2. Install</br>Applications</A></td>
@@ -88,7 +88,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>Building a image could be done in 1 (or several) step(s). Each step consist in reading the “recipe” provided by a Dockerfile for building the image.</td>
             <td>DIY</td>
             <td>DIY</td>
-            <td>-</td>
+            <td>Just want</br>to use</br>pre-built images</td>
             <td>-</td>
         </tr>
         <tr>
