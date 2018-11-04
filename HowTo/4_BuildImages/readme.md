@@ -27,7 +27,7 @@ Build an __target image__ from a __source image__ by using a __Dockerfile__ and 
 Description (What ?) :
 -
 
-__Needed tool (& comman__ : 
+__Needed tool (& commands__) : 
 * git (clone)
 * docker (pull, build, login, push)
 
