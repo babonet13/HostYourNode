@@ -38,8 +38,8 @@ __Process__ :
     </thead>
     <tbody>
         <tr>
-            <td>Installation instructions (e.g. <A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">example</A)</br>Dockerfile directive reference (see <A href="https://docs.docker.com/engine/reference/builder/#cmd">here</A)</td>
-            <td>Dockerfile (e.g. <A href="https://github.com/babonet13/HostYourNode/blob/master/Docker/bitcoind_pkg-ubuntu/Dockerfile">example</A)</td>
+            <td>Installation instructions (e.g. <A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">example</A>)</br>Dockerfile directive reference (see <A href="https://docs.docker.com/engine/reference/builder/#cmd">here</A>)</td>
+            <td>Dockerfile (e.g. <A href="https://github.com/babonet13/HostYourNode/blob/master/Docker/bitcoind_pkg-ubuntu/Dockerfile">example</A>)</td>
         </tr>
     </tbody>
 </table>
