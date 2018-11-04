@@ -14,13 +14,13 @@ List of the HYN-naute profiles with a short description of theirs activities :
         <tr>
             <td>DEV</td>
             <td>Developer</td>
-            <td>Profile that make all the A-to-Z steps</td>
+            <td>Profile that make all the A-to-Z activities</td>
             <td>See complete activities list HERE</td>
         </tr>
         <tr>
             <td>BLD</td>
             <td>Builder</td>
-            <td>Profile that make all the A-to-Z steps</br>except defining Dockerfiles</td>
+            <td>Profile that make all the A-to-Z activities</br>except defining Dockerfiles</td>
             <td>Surely because its harware architecture is not supported by the project</td>
         </tr>
         <tr>
