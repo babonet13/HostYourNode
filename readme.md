@@ -69,7 +69,7 @@ This repository is organized thanks to the following sections :
          <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Who">Who</A></td>
             <td>Which HYN-naute profile are involved in this project ?</td>
-            <td>And which activities are relaized by which HYN-naute profile ?</td>
+            <td>And which activities are realized by which HYN-naute profile ?</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/What">What</A></td>
