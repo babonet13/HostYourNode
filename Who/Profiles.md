@@ -60,7 +60,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>1. Setup The</br>Machine</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">1. Setup The</br>Machine</A></td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -68,7 +68,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>2. Install</br>Applications</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">2. Install</br>Applications</A></td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -76,7 +76,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>3. Define</br>Dockerfiles</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">3. Define</br>Dockerfiles</A></td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -84,7 +84,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>4. Build</br>Images</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">4. Build</br>Images</A></td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -92,7 +92,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>5. Deploy</br>Containers</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers>5. Deploy</br>Containers</A></td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -100,7 +100,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>6. Monitor</br>Daemons</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">6. Monitor</br>Daemons</A></td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -108,7 +108,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>7. Manage</br>Stack</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">7. Manage</br>Stack</A></td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
