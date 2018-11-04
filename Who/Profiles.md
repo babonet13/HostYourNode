@@ -52,7 +52,7 @@ List of activities and associated HYN-naute profile(s) :
     </thead>
     <tbody>
         <tr>
-            <td>0. Understand</br>Prerequisites</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">0. Understand</br>Prerequisites</A></td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
