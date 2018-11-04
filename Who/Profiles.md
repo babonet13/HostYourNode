@@ -60,7 +60,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>1. Understand</br>Prerequisites</td>
+            <td>1. Setup The</br>Machine</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -68,7 +68,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>2. Understand</br>Prerequisites</td>
+            <td>2. Install</br>Applications</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -76,7 +76,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>3. Understand</br>Prerequisites</td>
+            <td>3. Define</br>Dockerfiles</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -84,7 +84,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>4. Understand</br>Prerequisites</td>
+            <td>4. Build</br>Images</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -92,7 +92,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>5. Understand</br>Prerequisites</td>
+            <td>5. Deploy</br>Containers</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -100,7 +100,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>6. Understand</br>Prerequisites</td>
+            <td>6. Monitor</br>Daemons</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
@@ -108,7 +108,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
         </tr>
         <tr>
-            <td>7. Understand</br>Prerequisites</td>
+            <td>7. Manage</br>Stack</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
