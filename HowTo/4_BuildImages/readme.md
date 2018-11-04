@@ -28,7 +28,7 @@ Description (What ?) :
 -
 Builing a target image could be done in 1 or several steps.  
 
-__Needed tools (& commands__) : 
+__Needed tools (& commands)__ : 
 * git (clone)
 * docker (pull, build, login, push)
 
