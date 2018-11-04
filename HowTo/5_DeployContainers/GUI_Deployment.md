@@ -26,13 +26,17 @@ Deploying the nodes via the Portainer Graphical Interface (GUI mode)
 
 Prerequisites
 - 
+Needed tools (& commands) :
+* docker (pull)
+* Portainer
+
 Before deploying nodes you need to create a Portainer user, for example :
  * Username : satoshi
  * Password : 21millions
 
 You can follow the procedure described <A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/5_DeployContainers/GUI_Deployment_1stLogin.md">here</A>
 
-Generic procedure
+Instructions (How ?) : Generic Procedure
 -
 Deploying a node using Portainer always follow the same 3 steps :
 <table>
@@ -65,8 +69,10 @@ Deploying a node using Portainer always follow the same 3 steps :
 This is why we will only describe how to deploy a given node via the following specific procedure.
 Others node deployement could be realised by adaptinf this procedure.
 
-Specific procedure : Deploying the Bitcoin Node based on "bitcoind" (for the arm32V7 architecture)
+Instructions (How ?) : Specific Procedure
 - 
+> Deploying the Bitcoin Node based on "bitcoind" (for the arm32V7 architecture)
+
 Step 1 > Go to <A href="https://hub.docker.com/u/hostyournode/">hostyournode@DockerHub</A> repository
 
 ![Step 1](https://github.com/babonet13/Images/blob/master/Portainer/NodeDeployment/Step_1.png)
