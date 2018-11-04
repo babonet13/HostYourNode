@@ -1,6 +1,28 @@
+<table>
+    <thead>
+        <tr>
+            <th>navbar</th>
+            <td>RUN</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">DPL</A></td>
+            <td>RUN</td>
+            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/Who/Profiles.md">profiles</A></th>
+        </tr>
+    </thead>
+</table>
+
+---
+# Step 5.A : Deploy Containers in GUI mode
+---
+
+Description (What ?) :
+-
 Deploying the nodes via the Portainer Graphical Interface (GUI mode)
-==
-Nodes are containerized deamons allowing to run bitcoind, LND, btcpayserver ... in a isolated way
 
 Prerequisites
 - 
