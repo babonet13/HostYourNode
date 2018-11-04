@@ -47,7 +47,8 @@ __Needed tool (& comman__ :
 
 Instructions (How ?) :
 --
-
+The following instructions are related to a generic 1 step process.  
+(More specific instruction could be find <A href="https://github.com/babonet13/HostYourNode/tree/master/Docker/bitcoind_pkg-ubuntu">here</A>)
 <table>
     <thead>
         <tr>
