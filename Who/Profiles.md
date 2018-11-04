@@ -37,3 +37,75 @@ List of the HYN-naute profiles with a short description of theirs activities :
         </tr>
     </tbody>
 </table>
+
+List of activities and associated HYN-naute profile(s) :
+<table>
+    <thead>
+        <tr>
+            <th>Activity</th>
+            <th>Descrition</th>
+            <th>DEV</th>
+            <th>BLD</th>
+            <th>DPL</th>
+            <th>RUN</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>0. Understand</br>Prerequisites</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>1. Understand</br>Prerequisites</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>2. Understand</br>Prerequisites</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>3. Understand</br>Prerequisites</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>4. Understand</br>Prerequisites</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>5. Understand</br>Prerequisites</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>6. Understand</br>Prerequisites</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>7. Understand</br>Prerequisites</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+    </tbody>
+</table>
