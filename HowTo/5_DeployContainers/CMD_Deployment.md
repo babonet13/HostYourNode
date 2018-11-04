@@ -24,6 +24,8 @@ Description (What ?) :
 -
 Deploying the nodes via the Linux Command Line (CMD mode) 
 
+Instructions (How ?) :
+--
 __Needed tools (& commands)__ : 
 * docker (pull, run)
 
@@ -42,9 +44,7 @@ __Needed tools (& commands)__ :
     </tbody>
 </table>
 
-Instructions (How ?) :
---
-Steps to achieve : 
+__Steps to achieve__ : 
 <table>
     <thead>
         <tr>
