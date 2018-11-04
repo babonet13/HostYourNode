@@ -57,12 +57,14 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
+            <td>A3</td>
         </tr>
         <tr>
             <td>1. Understand</br>Prerequisites</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
+            <td>A3</td>  
             <td>A3</td>
         </tr>
         <tr>
@@ -70,6 +72,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
+            <td>A3</td>            
             <td>A3</td>
         </tr>
         <tr>
@@ -78,12 +81,14 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
+            <td>A3</td>
         </tr>
         <tr>
             <td>4. Understand</br>Prerequisites</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
+            <td>A3</td>
             <td>A3</td>
         </tr>
         <tr>
@@ -92,6 +97,7 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
+            <td>A3</td>
         </tr>
         <tr>
             <td>6. Understand</br>Prerequisites</td>
@@ -99,12 +105,14 @@ List of activities and associated HYN-naute profile(s) :
             <td>A3</td>
             <td>A2</td>
             <td>A3</td>
+            <td>A3</td>
         </tr>
         <tr>
             <td>7. Understand</br>Prerequisites</td>
             <td>A2</td>
             <td>A3</td>
             <td>A2</td>
+            <td>A3</td>
             <td>A3</td>
         </tr>
     </tbody>
