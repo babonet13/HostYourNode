@@ -22,7 +22,7 @@
 
 Objectives (Why ?) :
 --
-Automatize installation instruction for an application
+Automatize installation and running instructions for an application.
 
 Description (What ?) :
 --
