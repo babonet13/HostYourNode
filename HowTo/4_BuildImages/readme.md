@@ -36,9 +36,9 @@ __Needed tool & command__ : docker build (See how to install docker <A href="htt
     </thead>
     <tbody>
         <tr>
-        <td>Dockerfile (e.g. <A href="https://github.com/babonet13/HostYourNode/blob/master/Docker/bitcoind_pkg-ubuntu/Dockerfile">example</A>)</br><td>Source image (e.g. <A href="https://hub.docker.com/r/_/ubuntu/"></td></td>
-        </tr>
-            <td>Target image (e.g. <A href="https://hub.docker.com/r/hostyournode/bitcoind_pkg-ubuntu_arm32v7/"></td>
+        <td>Dockerfile (e.g. <A href="https://github.com/babonet13/HostYourNode/blob/master/Docker/bitcoind_pkg-ubuntu/Dockerfile">example</A>)</br><td>Source image (e.g. <A href="https://hub.docker.com/r/_/ubuntu/"></td>
+        <td>Target image (e.g. <A href="https://hub.docker.com/r/hostyournode/bitcoind_pkg-ubuntu_arm32v7/"></td>
+    </tr>
     </tbody>
 </table>
 
