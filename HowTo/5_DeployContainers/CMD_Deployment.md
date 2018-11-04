@@ -1,8 +1,28 @@
-Deploying the nodes via the Linux Command Line (CMD mode)
+<table>
+    <thead>
+        <tr>
+            <th>navbar</th>
+            <td>RUN</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">DPL</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/4_BuildImages">DEV</A></td>
+            <td>< PREVIOUS | NEXT ></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">DEV</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">BLD</A></td>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/6_MonitorDaemons">DPL</A></td>
+            <td>RUN</td>
+            <th><A href="https://github.com/babonet13/HostYourNode/blob/master/Who/Profiles.md">profiles</A></th>
+        </tr>
+    </thead>
+</table>
+
+---
+# Step 5.A : Deploy Containers in CMD mode
+---
 
 Description (What ?) :
 -
-Builing a target image could be done in 1 or several steps.  
+Deploying the nodes via the Linux Command Line (CMD mode) 
 
 __Needed tools (& commands)__ : 
 * docker (pull, run)
