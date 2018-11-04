@@ -93,4 +93,4 @@ The following instructions are related to a generic 1 step process.
     </tbody>
 </table>
 
-__Remark__ : Cloning the repository in local is not a mandatory step. The docker build command can also directly user the Dockerfaile stored in the Git Repository.
+__Remark__ : Cloning the repository in local is not a mandatory step. The docker build command can also directly use the Dockerfile stored in the Git Repository.
