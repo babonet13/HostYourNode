@@ -21,11 +21,11 @@
 ---
 
 Objectives (Why ?) :
---
+-
 Automatize installation and running instructions for an application.
 
 Description (What ?) :
---
+-
 A __Dockerfile__ could be see as kind of _"recipe"_ for building a __target image__ from a __source image__ !   
 We will describe the generic process of defining a __Dockerfile__ by using a very simple example of bitcoind installed from an Ubuntu-based package.  
 __Process Input / Output__ : 
@@ -45,6 +45,7 @@ __Process Input / Output__ :
 </table>
 
 Instructions (How ?) :
+-
 __Needed tool__ :
 A text editor (e.g. vi, nano, ...).  
 
