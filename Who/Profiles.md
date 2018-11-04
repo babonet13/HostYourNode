@@ -1,6 +1,6 @@
-HYN-Naute Profiles
-==
+# HYN-naute Profiles
 
+List of the HYN-naute profile with a short description of theirs activities :
 <table>
     <thead>
         <tr>
