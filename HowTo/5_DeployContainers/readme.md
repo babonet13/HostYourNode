@@ -26,7 +26,8 @@ Allow choosen daemons to run in dedicated containers ...
 
 Description (What ?) :
 --
-Nodes are containerized deamons allowing to run bitcoind, LND, btcpayserver ... in a isolated way
+Conatiner are "running" images which are containing deamons allowing to run bitcoind, LND, btcpayserver ...  
+... in a isolated way
 
 Instructions (How ?) :
 --
