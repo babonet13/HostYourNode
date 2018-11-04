@@ -66,6 +66,11 @@ This repository is organized thanks to the following sections :
         </tr>
     </thead>
     <tbody>
+         <tr>
+            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Who">Who</A></td>
+            <td>Which HYN-naute profile are involved in the processus ...</td>
+            <td>And which activities are relaized by which HYN-naute profile ?</td>
+        </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/What">What</A></td>
             <td>Explain what is such a stack, and what are images, containers, daemons, etc ...</td>
