@@ -79,8 +79,8 @@ List of activities and associated HYN-naute profile(s) :
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/3_DefineDockerfiles">3. Define</br>Dockerfiles</A></td>
             <td>Dockerfile are kind of “recipe” for building a target image from a source image.</td>
             <td>DIY</td>
-            <td>Developper</br>Task !</td>
-            <td>Developper</br>Task !</td>
+            <td>Just want</br>to use</br>pre-defined Dockerfiles</td>
+            <td>Just want</br>to use</br>pre-defined Dockerfiles</td>
             <td>-</td>
         </tr>
         <tr>
