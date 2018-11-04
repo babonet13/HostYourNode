@@ -64,8 +64,8 @@ List of activities and associated HYN-naute profile(s) :
             <td>Build a full featured (physical or virtual) machine installed with a Linux distribution.</td>
             <td>DIY</td>
             <td>DIY</td>
-            <td>Just want</br>to buy</br>installed machine</td>
-            <td>Just want</br>to order</br>ready-to-use machine</td>
+            <td>Just want</br>to buy a</br>pre-installed machine</td>
+            <td>Just want</br>to order a</br>ready-to-use machine</td>
         </tr>
         <tr>
             <td><A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">2. Install</br>Applications</A></td>
