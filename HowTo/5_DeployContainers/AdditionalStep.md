@@ -51,7 +51,7 @@ Go to "satoshi" home :
 
 Create a "bitcoin-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/bitcoin-node_start.sh">here</A>).
 <pre><code>$ nano bitcoin-node_start.sh</code></pre>
-> Add the following lines
+> Add the following lines :
 <pre><code>#!/bin/bash
 sleep 15
 echo "Starting bitcoin-node ..."
@@ -65,7 +65,7 @@ Go to "satoshi" home :
 
 Create a "ligthning-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/ligthning-node_start.sh">here</A>).
 <pre><code>$ nano ligthning-node_start.sh</code></pre>
-> Add the following lines
+> Add the following lines :
 <pre><code>#!/bin/bash
 sleep 30
 echo "Starting ligthning-node ..."
@@ -79,7 +79,7 @@ Go to "satoshi" home :
 
 Create a "payment-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/payment-node_start.sh">here</A>).
 <pre><code>$ nano payment-node_start.sh</code></pre>
-> Add the following lines
+> Add the following lines :
 <pre><code>#!/bin/bash
 sleep 45
 echo "Starting payment-node ..."
@@ -91,8 +91,8 @@ __Crontab__ :
 Open the "crontab" file for the "satoshi" user :
 <pre><code>$ crontab -u satoshi -e</code></pre>
 
-> Add the following lines
-<pre><code>reboot /home/satoshi/portainer-node_start.sh                                                                                               
+> Add the following lines  (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/crontab">here</A>).
+<pre><code>@reboot /home/satoshi/portainer-node_start.sh                                                                                               
 @reboot /home/satoshi/bitcoin-node_start.sh
 @reboot /home/satoshi/lightning-node_start.sh
 @reboot /home/satoshi/payment-node_start.sh</code></pre>
