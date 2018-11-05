@@ -1,4 +1,4 @@
-# Organizations related to nodes (BTC, LN and/ot PAY)
+# Organizations related to nodes (BTC, LN and/or PAY)
 
 Bitcoin Nodes
 -
