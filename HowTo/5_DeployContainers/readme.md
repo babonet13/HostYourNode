@@ -45,7 +45,7 @@ Or
 
 Additional step to be done :
 -
-If the power shutdown and/or if the system crash , the machine will reboot ...  
+If the power shutdown and/or if the system crash, the machine will reboot ...  
 ... in this case it is necessary to automatically restart existing containers.
 
 This <A href="">additional step</A> will allow to do that !
