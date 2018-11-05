@@ -36,7 +36,7 @@ __Automatic Start-Up Script for portainer-node container__ :
 Go to "satoshi" home :
 <pre><code>$ cd /home/satoshi</code></pre>
 
-Create a "portainer-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/portainer-node_start.sh">here</A>:
+Create a "portainer-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/portainer-node_start.sh">here</A>).
 <pre><code>$ nano bitoin-node_start.sh</code></pre>
 > Add the following lines
 <pre><code>#!/bin/bash
@@ -49,7 +49,7 @@ __Automatic Start-Up Script for bitcoin-node container__ :
 Go to "satoshi" home :
 <pre><code>$ cd /home/satoshi</code></pre>
 
-Create a "bitcoin-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/bitcoin-node_start.sh">here</A>:
+Create a "bitcoin-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/bitcoin-node_start.sh">here</A>).
 <pre><code>$ nano bitcoin-node_start.sh</code></pre>
 > Add the following lines
 <pre><code>#!/bin/bash
@@ -63,7 +63,7 @@ __Automatic Start-Up Script for ligthning-node container__ :
 Go to "satoshi" home :
 <pre><code>$ cd /home/satoshi</code></pre>
 
-Create a "ligthning-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/ligthning-node_start.sh">here</A>:
+Create a "ligthning-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/ligthning-node_start.sh">here</A>).
 <pre><code>$ nano ligthning-node_start.sh</code></pre>
 > Add the following lines
 <pre><code>#!/bin/bash
@@ -77,7 +77,7 @@ __Automatic Start-Up Script for payment-node container__ :
 Go to "satoshi" home :
 <pre><code>$ cd /home/satoshi</code></pre>
 
-Create a "payment-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/payment-node_start.sh">here</A>:
+Create a "payment-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/payment-node_start.sh">here</A>).
 <pre><code>$ nano payment-node_start.sh</code></pre>
 > Add the following lines
 <pre><code>#!/bin/bash
