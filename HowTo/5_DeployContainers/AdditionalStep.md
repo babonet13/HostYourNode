@@ -31,7 +31,7 @@ Required step for starting automatically existing daemon in case of system reboo
 Instructions (How ?) - Manual :
 -
 
-__Automatic Start-Up Script for portainer-node container__ :
+__Automatic Start-Up Script for "portainer-node" Container__ :
 
 Go to "satoshi" home :
 <pre><code>$ cd /home/satoshi</code></pre>
@@ -44,7 +44,7 @@ echo "Starting portainer-node ..."
 docker start portainer-node
 docker ps -a | grep portainer-node</code></pre>
 
-__Automatic Start-Up Script for bitcoin-node container__ :
+__Automatic Start-Up Script for "bitcoin-node" Container__ :
 
 Go to "satoshi" home :
 <pre><code>$ cd /home/satoshi</code></pre>
@@ -58,7 +58,7 @@ echo "Starting bitcoin-node ..."
 docker start bitcoin-node
 docker ps -a | grep bitcoin-node</code></pre>
 
-__Automatic Start-Up Script for ligthning-node container__ :
+__Automatic Start-Up Script for "ligthning-node" Container__ :
 
 Go to "satoshi" home :
 <pre><code>$ cd /home/satoshi</code></pre>
@@ -72,7 +72,7 @@ echo "Starting ligthning-node ..."
 docker start ligthning-node
 docker ps -a | grep ligthning-node</code></pre>
 
-__Automatic Start-Up Script for payment-node container__ :
+__Automatic Start-Up Script for "payment-node" Container__ :
 
 Go to "satoshi" home :
 <pre><code>$ cd /home/satoshi</code></pre>
