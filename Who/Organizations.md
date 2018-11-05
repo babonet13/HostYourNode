@@ -60,6 +60,11 @@ Lightning Nodes
             <td>https://graph.lndexplorer.com/</td>
             <td>Map of the Lightning Network</td>
         </tr>
+        <tr>
+            <td>LN Monitor</td>
+            <td>https://lightningpeach.com/ln-monitor</td>
+            <td>Statistics about the Lightning Network</td>
+        </tr>
     </tbody>
 </table>
 
