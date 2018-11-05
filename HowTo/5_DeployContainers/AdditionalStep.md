@@ -28,7 +28,7 @@ Description (What ?) :
 -
 Required step for starting automatically existing daemon in case of system reboot.
 
-Instructions (How ?) :
+Instructions (How ?) - Manual :
 -
 
 __Automatic Start-Up Script for portainer-node container__ :
@@ -96,3 +96,7 @@ Open the "crontab" file for the "satoshi" user :
 @reboot /home/satoshi/bitcoin-node_start.sh
 @reboot /home/satoshi/lightning-node_start.sh
 @reboot /home/satoshi/payment-node_start.sh</code></pre>
+
+Instructions (How ?) - Automatic :
+-
+>>> To Be Done
