@@ -56,7 +56,7 @@ Lightning Nodes
             <td>Developer of the Eclair daemon</td>
         </tr>      
         <tr>
-            <td>LN Eplorer</td>
+            <td>LN Explorer</td>
             <td>https://graph.lndexplorer.com/</td>
             <td>Map of the Lightning Network</td>
         </tr>
