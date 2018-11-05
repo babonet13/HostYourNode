@@ -54,6 +54,11 @@ Lightning Nodes
             <td>Acinq</td>
             <td>https://acinq.co/</td>
             <td>Developer of the Eclair daemon</td>
+        </tr>      
+        <tr>
+            <td>LN Eplorer</td>
+            <td>https://graph.lndexplorer.com/</td>
+            <td>Map of the Lightning Network</td>
         </tr>
     </tbody>
 </table>
