@@ -21,6 +21,11 @@ Bitcoin Nodes
             <td>https://btcsuite.github.io/</td>
             <td>Developer of the btcd daemon</td>
         </tr>
+        <tr>
+            <td>BitNodes</td>
+            <td>https://bitnodes.earn.com/</td>
+            <td>List & Map of the "reachable" Bitcoin Nodes</td>
+        </tr>
     </tbody>
 </table>
 
