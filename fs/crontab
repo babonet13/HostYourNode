@@ -1,5 +1,5 @@
 # Edit this file to introduce tasks to be run by cron.                                                                                                                                                                                                           
-# m h  dom mon dow   command                                                                                                           
+# m h dom mon dow command                                                                                                           
 @reboot /home/satoshi/portainer-node_start.sh                                                                                               
 @reboot /home/satoshi/bitcoin-node_start.sh
 @reboot /home/satoshi/lightning-node_start.sh
