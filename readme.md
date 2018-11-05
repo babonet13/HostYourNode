@@ -52,7 +52,7 @@ This stack could be composed by :
     </tbody>
 </table>
  
-  See a graphical visualization of such a stack <a href="http://bit.ly/2yp0iHW">here</a>
+ > You can see a graphical visualization of such a stack <a href="http://bit.ly/2yp0iHW">here</a>
 
 Organization of this repository
 -
