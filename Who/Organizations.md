@@ -55,3 +55,19 @@ Lightning Nodes
 
 Payment Nodes
 -
+<table>
+    <thead>
+        <tr>
+            <th>Organisation</th>
+            <th>Web Site</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>RockStarDev</td>
+            <td>https://github.com/rockstardev</td>
+            <td>Developer of the BtcPayServer daemon</td>
+        </tr>
+    </tbody>
+</table>
