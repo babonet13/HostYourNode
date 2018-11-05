@@ -46,7 +46,7 @@ Lightning Nodes
             <td>Developer of the C-Lightning daemon</td>
         </tr>
         <tr>
-            <td>Acinq)</td>
+            <td>Acinq</td>
             <td>https://acinq.co/</td>
             <td>Developer of the Eclair daemon</td>
         </tr>
