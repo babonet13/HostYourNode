@@ -37,7 +37,7 @@ Go to "satoshi" home :
 <pre><code>$ cd /home/satoshi</code></pre>
 
 Create a "portainer-node_start.sh" file (See <A href="https://github.com/babonet13/HostYourNode/blob/master/fs/home/satoshi/portainer-node_start.sh">here</A>).
-<pre><code>$ nano bitoin-node_start.sh</code></pre>
+<pre><code>$ nano bitcoin-node_start.sh</code></pre>
 > Add the following lines
 <pre><code>#!/bin/bash
 echo "Starting portainer-node ..."
