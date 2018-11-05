@@ -21,16 +21,16 @@
 ---
 
 Objectives (Why ?) :
---
+-
 Allow choosen daemons to run in dedicated containers ...
 
 Description (What ?) :
---
+-
 Container are "running" images which are containing deamons allowing to run bitcoind, LND, btcpayserver ...  
 ... in a isolated way
 
 Instructions (How ?) :
---
+-
 
 You can deploy HYN containers :
 * By using the Linux Command Line (<A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/5_DeployContainers/CMD_Deployment.md">CMD</A>)
@@ -43,4 +43,10 @@ Or
 
 ![Portainer Graphical Interface](https://github.com/babonet13/Images/blob/master/Portainer/PortainerGraphicalInterface.png)
 
+Additional step to be done :
+-
+If the power shutdown and/or if the system crash , the machine will reboot ...  
+... in this case it is necessary to automatically restart existing containers.
+
+This <A href="">additional step</A> will allow to do that !
 
