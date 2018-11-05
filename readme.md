@@ -1,6 +1,6 @@
-HostYourNode (HYN) : Welcome to HYN-nautes
+HostYourNode (HYN) : Welcome to HYN-nautes !
 ==
-__FAST__ to _Build_, __EASY__ to _Tune_, _Enjoy_ for __EVER__ !  
+__FAST__ to _Build_, __EASY__ to _Tune_, _Enjoy_ for __EVER__ ...
 (Buidl by end-users for end-users)
 
 >>> Work in process ... 
