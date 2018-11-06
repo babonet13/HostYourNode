@@ -5,7 +5,7 @@ Pull the source image :
 <pre><code>$ docker pull alpine</code></pre>
 
 Build the Docker image :
-<pre><code>$ docker build -t alpine-pkg /HelloWorld/Docker/alpine-pkg</code></pre>
+<pre><code>$ docker build -t alpine-pkg /HostYourNode/Docker/alpine-pkg</code></pre>
 
 Running Instructions
 -
