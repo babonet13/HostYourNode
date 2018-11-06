@@ -32,9 +32,12 @@ Instructions (How ?) :
 --
 __daemon version update__.  
 e.g. bitcoind 0.16.3 => bitcoind 0.17.0
+> To Be Done
 
 __change daemon for a given node__.  
 e.g. bitcoin-node implemented by bitcoind => bitcoin-node implemented by btcd
+> To Be Done
 
 __add a new node__.  
 e.g. bitcoin-node + lightning-node => bitcoin-node + lightning-node + payment-node
+> To Be Done
