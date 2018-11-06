@@ -21,14 +21,22 @@
 ---
 
 Objectives (Why ?) :
---
-Bla bla
+-
+Make sure that the daemons are working well.
 
 Description (What ?) :
---
+-
+All required operations or each node type (BTC LN, PAY)
+
+Instructions for "bitcoin node" (How ?) :
+-
+__bitcoind : How to check the current block number__
+> To Be Defined 
+
+Instructions for "lighning node" (How ?) :
+-
 Bla bla
 
-Instructions (How ?) :
---
+Instructions for "payment node" (How ?) :
+-
 Bla bla
----
