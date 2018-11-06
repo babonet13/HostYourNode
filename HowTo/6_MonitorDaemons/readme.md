@@ -30,12 +30,16 @@ All required operations or each node type (BTC LN, PAY)
 
 Instructions for "bitcoin node" (How ?) :
 -
-__bitcoind : How to check the current block number__
+__bitcoind : How to check the current block number ?__
 > To Be Defined 
 
 Instructions for "lighning node" (How ?) :
 -
-Bla bla
+__LND : How to create a new LN Wallet ?__
+> To Be Defined 
+
+__LND : How to restore a existing LN Wallet ?__
+> To Be Defined 
 
 Instructions for "payment node" (How ?) :
 -
