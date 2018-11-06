@@ -22,12 +22,19 @@
 
 Objectives (Why ?) :
 --
-Bla bla
+Keep the Bitcoin stack up-to-date.
 
 Description (What ?) :
 --
-Bla bla
+Update-date and/or change daemon
 
 Instructions (How ?) :
 --
-Bla bla
+__daemon version update__.  
+e.g. bitcoind 0.16.3 => bitcoind 0.17.0
+
+__change daemon for a given node__.  
+e.g. bitcoin-node implemented by bitcoind => bitcoin-node implemented by btcd
+
+__add a new node__.  
+e.g. bitcoin-node + lightning-node => bitcoin-node + lightning-node + payment-node
