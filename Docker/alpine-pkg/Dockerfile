@@ -4,4 +4,3 @@ MAINTAINER babonet13 <admin@hubject.net>
 RUN apk update
 # Package dedicated to check authenticity
 RUN apk add ca-certificates
-RUN apk add wget
