@@ -42,7 +42,7 @@ There is 3 node types to deploy :
             <td><A href="https://github.com/lightningnetwork/lnd/blob/master/docs/DOCKER.md">Docker Instructions</A></td>
         </tr>
         <tr>
-            <td>Bitcoin Node</td>
+            <td>Lightning Node</td>
             <td>LND</td>
             <td>To Be Done</td>
         </tr>
