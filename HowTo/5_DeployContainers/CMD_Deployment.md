@@ -68,7 +68,7 @@ Create the container using the Docker image :
 <pre><code>$ docker create --name=lnd-node lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
 
 Create the container using the Docker image (with volume):
-<pre><code>$ docker create --name=lnd-node lightninglabs/lnd -v /etc/lnd/:/root/.lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
+<pre><code>$ docker create --name=lnd-node -v /etc/lnd/:/root/.lnd lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
 
 Start the container  :
 <pre><code>$ docker start lnd-node</code></pre>
