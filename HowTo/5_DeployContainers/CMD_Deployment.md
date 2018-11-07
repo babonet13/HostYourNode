@@ -64,11 +64,5 @@ Instructions (How ?) : Specific (lnd)
 Pull the Docker image from the Docker Hub repository (If not built locally) :
 <pre><code>$ docker pull lightninglabs/lnd</code></pre>
 
-Create the container using the Docker image :
-<pre><code>$ docker create --name=lnd-node lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
-
-Create the container using the Docker image (with volume):
-<pre><code>$ docker create --name=lnd-node -v /etc/lnd/:/root/.lnd lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
-
-Start the container  :
-<pre><code>$ docker start lnd-node</code></pre>
+Run the container using the Docker image :
+<pre><code>$ run create --name=lightning-node -v /etc/bitcoin/:/root/.bitcoin lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
