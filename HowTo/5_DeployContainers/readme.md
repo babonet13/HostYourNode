@@ -26,12 +26,12 @@ Allow choosen daemons to run in dedicated containers ...
 
 Description (What ?) :
 -
-There is node types to deploy :
+There is 3 node types to deploy :
 <table>
     <thead>
         <tr>
-            <th>Node TYpe</th>
-            <th>Deamon</th>
+            <th>Node Type</th>
+            <th>Daemon</th>
             <th>Reference</th>
         </tr>
     </thead>
