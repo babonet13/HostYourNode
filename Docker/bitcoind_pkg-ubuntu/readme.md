@@ -30,7 +30,7 @@ Target Docker image specification
         </tr>
         <tr>
             <td>Dockerfile FROM</td>
-            <td><A href="https://github.com/babonet13/HostYourNode/tree/master/Docker/ubuntu-pkg">ubuntu-pkg</A></td>
+            <td>ubuntu</A></td>
         </tr>
          <tr>
             <td>Target Architecture(s)</td>
@@ -38,7 +38,7 @@ Target Docker image specification
         </tr>
         <tr>
             <td>Docker Hub</td>
-            <td><A href="https://hub.docker.com/r/hostyournode/bitcoind_pkg-ubuntu/">bitcoind_ubuntu-pkg</A></td>
+            <td><A href="https://hub.docker.com/r/hostyournode/bitcoind_pkg-ubuntu_amd64/">bitcoind_ubuntu-pkg_amd64</A></br><A href="https://hub.docker.com/r/hostyournode/bitcoind_pkg-ubuntu_arm32v7/">bitcoind_ubuntu-pkg_arm32v7</A></td>
         </tr>
     </tbody>
 </table>
