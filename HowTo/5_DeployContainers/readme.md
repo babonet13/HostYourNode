@@ -54,9 +54,13 @@ There is 3 node types to deploy :
     </tbody>
 </table>
 
-And there is 2 deployement methods :
+And there is 2 deployment methods :
 * Linux Command Line (CMD) deployement
 * Portainer Graphical Interface (GUI) deployement
+
+And there is 2 tools tool for deploying:
+* <A href=https://github.com/babonet13/HelloWorld/tree/master/App/docker">docker</A>
+* <A href="https://github.com/babonet13/HelloWorld/tree/master/App/docker-compose">docker-compose</A>
 
 Instructions (How ?) :
 -
