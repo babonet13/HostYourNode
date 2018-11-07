@@ -66,7 +66,7 @@ Push the Docker image into the Docker Hub repository
 
 Running Instructions
 -
-Pull the Docker image from the Docker Hub repository
+Pull the Docker image from the Docker Hub repository (If not built locally) 
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
 
