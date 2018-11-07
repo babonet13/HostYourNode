@@ -2,6 +2,7 @@
 FROM ubuntu
 MAINTAINER babonet13 <admin@hubject.net>
 # PREREQUISITES
+RUN apt-get update
 RUN apt-get install -y ca-certificates
 RUN apt-get install -y software-properties-common
 RUN apt-get install -y apt-utils
