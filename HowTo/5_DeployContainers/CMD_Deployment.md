@@ -45,27 +45,9 @@ __Needed tools (& commands)__ :
 </table>
 
 __Steps to achieve__ : 
-<table>
-    <thead>
-        <tr>
-            <th>What To Do ?</th>
-            <th>How To Do It?</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Get the target image</td>
-            <td>$ docker pull %DOCKER_HUB/%TARGET_IMG:%VERSION</td>
-        </tr>
-        <tr>
-            <td>Run the container</td>
-            <td>$ docker run -d --name %CONTAINER %TARGET_IMAGE:%VERSION -v %HOST_VOL:%_VOL -p %HOST_PORT:%PORT</td>
-        </tr>
-        <td>Verify that the container is running</td>
-            <td>docker ps -a</td>
-        </tr>
-    </tbody>
-</table>
+Get the target image
+Create the container
+Start the container
 
 Instructions (How ?) : Specific (bitcoind)
 -
