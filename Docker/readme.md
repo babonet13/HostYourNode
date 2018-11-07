@@ -26,3 +26,11 @@ Note
 -
 Built images are stored in <A href="https://hub.docker.com/u/hostyournode/">this repository</A> of the Docker Hub ...   
 ... allowing people who want to configure a machine to pull selected images.
+
+Test (Port)
+-
+Verify if a daemon is listing a given port (e.g. 8333) :
+<pre><code>$netstat -anp | grep (LISTEN && 8333)</code></pre>
+
+Verify if a connexion is established with a given port (e.g. 8333) :
+<pre><code>$netstat -anp | grep (ESTABLISHED && 8333)</code></pre>
