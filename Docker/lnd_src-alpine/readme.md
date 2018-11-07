@@ -5,6 +5,7 @@ Pulling Instructions (Optional coz automatic with build)
 -
 Pull the source Docker image  :
 <pre><code>$ docker pull golang:1.10-alpine</code></pre>
+<pre><code>$ docker pull alpine</code></pre>
 
 Building Instructions
 -
