@@ -1,6 +1,10 @@
-# Generate a ubuntu-based image dedicated to run bitcoind (bitcoind-pkg-ubuntu)
-FROM ubuntu-pkg
+# Generate a ubuntu-based image dedicated to run bitcoind (bitcoind_pkg-ubuntu)
+FROM ubuntu
 MAINTAINER babonet13 <admin@hubject.net>
+# PREREQUISITES
+RUN apt-get install -y ca-certificates
+RUN apt-get install -y software-properties-common
+RUN apt-get install -y apt-utils
 # PREPARATION
 RUN add-apt-repository ppa:bitcoin/bitcoin
 # INSTALLATION
