@@ -47,7 +47,7 @@ __Needed tools (& commands)__ :
 __Steps to achieve__ :   
 Get the target image : docker pull. 
 Create the container : docker create.  
-Start the container : dcoker start. 
+Start the container : docker start. 
 Note : Create + Start = Run : docker run.  
 
 Instructions (How ?) : Specific (bitcoind)
