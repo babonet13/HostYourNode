@@ -61,7 +61,7 @@ __Steps to achieve__ :
             <td>Run the container</td>
             <td>$ docker run -d --name %CONTAINER %TARGET_IMAGE:%VERSION -v %HOST_VOL:%_VOL -p %HOST_PORT:%PORT</td>
         </tr>
-        <td>Verify that he container is running</td>
+        <td>Verify that the container is running</td>
             <td>docker ps -a</td>
         </tr>
     </tbody>
