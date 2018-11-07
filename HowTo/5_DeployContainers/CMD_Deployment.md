@@ -64,7 +64,7 @@ __Steps to achieve__ :
             <td>$ docker run -d -v %HOST_VOL:%_VOL -p %HOST_PORT:%PORT --name %CONTAINER %TARGET_IMAGE:%VERSION</td>
             <td>$ docker run -d -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 --name bitcoin-node bitcoind_pkg-ubuntu_amd64:0.17.0</td>
         </tr>
-        <td>Verify that he conainer is running</td>
+        <td>Verify that he container is running</td>
             <td>docker ps -a</td>
             <td>docker ps -a | grep bitcoin-node</td>
         </tr>
