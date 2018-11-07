@@ -1,5 +1,4 @@
-Read Me
-==
+# Dockerfile for Bitcoin Node based on the bitcoind daemon.
 
 Target Docker image specification
 -
