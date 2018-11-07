@@ -26,8 +26,37 @@ Allow choosen daemons to run in dedicated containers ...
 
 Description (What ?) :
 -
-Container are "running" images which are containing deamons allowing to run bitcoind, LND, btcpayserver ...  
-... in a isolated way
+There is node types to deploy :
+<table>
+    <thead>
+        <tr>
+            <th>Node TYpe</th>
+            <th>Deamon</th>
+            <th>Reference</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bitcoin Node</td>
+            <td><A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/5_DeployContainers/GUI_Deployment.md">bitcoind</A></td>
+            <td><A href="https://github.com/lightningnetwork/lnd/blob/master/docs/DOCKER.md">Docker Instructions</A></td>
+        </tr>
+        <tr>
+            <td>Bitcoin Node</td>
+            <td>LND</td>
+            <td>To Be Done</td>
+        </tr>
+        <tr>
+            <td>Payment Node</td>
+            <td>To Be Done/td>
+            <td>To Be Done</td>
+        </tr>
+    </tbody>
+</table>
+
+And there is 2 deployement methods :
+* Linux Command Line (CMD) deployement
+* Portainer Graphical Interface (GUI) deployement
 
 Instructions (How ?) :
 -
