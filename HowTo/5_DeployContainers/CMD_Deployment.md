@@ -44,10 +44,10 @@ __Needed tools (& commands)__ :
     </tbody>
 </table>
 
-__Steps to achieve__ : 
-Get the target image
-Create the container
-Start the container
+__Steps to achieve__ :   
+Get the target image.  
+Create the container.  
+Start the container.  
 
 Instructions (How ?) : Specific (bitcoind)
 -
