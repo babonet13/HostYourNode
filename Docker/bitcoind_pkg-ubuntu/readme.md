@@ -65,13 +65,12 @@ Push the Docker image into the Docker Hub repository :
 
 Running Instructions
 -
-Pull the ```hostyournode/bitcoind_pkg-ubuntu_amd64``` Docker image from the Docker Hub repository (If not built locally) :
+Pull the ```bitcoind_pkg-ubuntu_amd64``` Docker image from the ```hostyournode``` Docker Hub repository (If not built locally) :
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
 
 Run the container using the ```bitcoind_pkg-ubuntu_amd64``` Docker image :
 <pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
-<pre><code>$ docker cp bitcoin-node:/root/.bitcoin/bitcoin.conf /home/satoshi/.bitcoin/bitcoin.conf</code></pre>
 
 <pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
 
