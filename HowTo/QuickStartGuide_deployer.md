@@ -19,6 +19,6 @@ Step 3 : Build Images : N/A !
 > The "deployer" profile use pre-built Docker images ...
 
 
-Step 4 : Deploys Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
+Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
 -
 > To Be Defined ...
