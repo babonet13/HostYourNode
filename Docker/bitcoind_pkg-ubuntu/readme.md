@@ -52,14 +52,14 @@ Build the final Docker image (for arm32v7) :
 
 Pushing Instructions
 -
-Log into the Docker Hub repository :
+Log into the ```hostyournode``` Docker Hub repository :
 <pre><code>$ docker login -u hostyournode</code></pre>
 
-Tag the Docker image :
+Tag the ```bitcoind_pkg-ubuntu_%ARCH``` Docker image :
 <pre><code>$ docker tag bitcoind_pkg-ubuntu_amd64:0.17.0 hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 <pre><code>$ docker tag bitcoind_pkg-ubuntu_arm32v7:0.17.0 hostyournode/bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
 
-Push the Docker image into the Docker Hub repository :
+Push the ```bitcoind_pkg-ubuntu_%ARCH``` Docker image into the ```hostyournode``` Docker Hub repository :
 <pre><code>$ docker push hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 <pre><code>$ docker push hostyournode/bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
 
