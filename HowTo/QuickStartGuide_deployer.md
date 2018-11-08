@@ -50,7 +50,7 @@ Step 2 : Install Application (More explanations <A href="https://github.com/babo
 
 Step 3 : Build Images : N/A !
 -
-> The "deployer" profile use pre-built Docker images ...
+> The "deployer" profile use already built Docker images ...
 
 
 Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
