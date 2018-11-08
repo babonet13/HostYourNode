@@ -27,12 +27,12 @@ Mains prerequisites are :
         </tr>
         <tr>
             <td>SOFT : Linux Distro</td>
-            <td>Ubutntu/Debian based distro</td>
+            <td>Ubuntu/Debian based distro (more useful choice)</td>
             <td>If not, you will have to adapt some code ...</td>
         </tr>
         <tr>
             <td>HARD : CPU Architecture</td>
-            <td>amd64</td>
+            <td>amd64 (but not mandatory)</td>
             <td>If not, you will have to (re-)build Docker images in local</td>
         </tr>
     </tbody>
