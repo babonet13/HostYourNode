@@ -65,3 +65,15 @@ Create a named volume for Portainer
 
 Run the portainer-node container based on the portainer image (on the standard Portainer port : 9000)
 <pre><code>$ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
+
+__Install docker-compose__ :   
+> Wait and see if mandatory (for ```btcpayserver``` daemon)
+
+__Deploy a Bitcoin Node (based on bitcoind daemon)__ :   
+> To Be Defined
+
+__Deploy a Lighting Node (based on LND daemon)__ :   
+> To Be Defined
+
+__Deploy a Lighting Node (based on btcpayserver daemon)__ :   
+> To Be Defined
