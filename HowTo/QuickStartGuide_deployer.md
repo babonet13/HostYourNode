@@ -41,7 +41,8 @@ Mains prerequisites are :
 
 Step 1 : Setup The Machine (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">here</A>)
 -
-> To Be Defined ...
+Assemble or buy a Linux-based physical machine or rent a virtual machine ...   
+... and set some <A href="https://github.com/babonet13/HostYourNode/blob/master/HowTo/1_SetupTheMachine/SetInformationPrerequisites.md">informations prerequisites<A/> (Not mandatory, but usefull for instructions compatibility)
 
 Step 2 : Install Application (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">here</A>)
 -
