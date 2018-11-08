@@ -33,7 +33,7 @@ Mains prerequisites are :
         <tr>
             <td>HARD : CPU Architecture</td>
             <td>amd64 (but not mandatory)</td>
-            <td>If not, you will have to (re-)build Docker images in local</td>
+            <td>If not, you will have to (re-)build Docker images from Dockerfiles in local</td>
         </tr>
     </tbody>
 </table>
