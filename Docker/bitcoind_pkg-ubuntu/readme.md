@@ -44,10 +44,10 @@ Target Docker image specification
 
 Building Instructions
 -
-Build the final Docker image (for amd64) :
+Build the final image (for amd64) :
 <pre><code>$ docker build -t bitcoind_pkg-ubuntu_amd64:0.17.0 /HostYourNode/Docker/bitcoind_pkg-ubuntu</code></pre>
 
-Build the final Docker image (for arm32v7) :
+Build the final image (for arm32v7) :
 <pre><code>$ docker build -t bitcoind_pkg-ubuntu_arm32v7:0.17.0 /HostYourNode/Docker/bitcoind_pkg-ubuntu</code></pre>
 
 Pushing Instructions
@@ -55,7 +55,7 @@ Pushing Instructions
 Log into the ```hostyournode``` Docker Hub repository :
 <pre><code>$ docker login -u hostyournode</code></pre>
 
-Tag the ```bitcoind_pkg-ubuntu_%ARCH``` Docker image :
+Tag the ```bitcoind_pkg-ubuntu_%ARCH``` image :
 <pre><code>$ docker tag bitcoind_pkg-ubuntu_amd64:0.17.0 hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 <pre><code>$ docker tag bitcoind_pkg-ubuntu_arm32v7:0.17.0 hostyournode/bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
 
@@ -65,11 +65,11 @@ Push the ```bitcoind_pkg-ubuntu_%ARCH``` Docker image into the ```hostyournode``
 
 Running Instructions
 -
-Pull the ```bitcoind_pkg-ubuntu_amd64``` Docker image from the ```hostyournode``` Docker Hub repository (If not built locally) :
+Pull the ```bitcoind_pkg-ubuntu_amd64``` image from the ```hostyournode``` Docker Hub repository (If not built locally) :
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
 
-Run the container using the ```bitcoind_pkg-ubuntu_amd64``` Docker image :
+Run the container using the ```bitcoind_pkg-ubuntu_amd64``` image :
 <pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 
 <pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
