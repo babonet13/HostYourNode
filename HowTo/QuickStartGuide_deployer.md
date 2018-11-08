@@ -1,6 +1,6 @@
 # Quick Start Guide for deployer profile
 >>> Follow those simplified steps ...   
-... and get in more detailed explantion only if needed !
+... and get in more detailed explanations only if needed !
 
 Step 0 : Understand Prerequisites (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">here</A>)
 -
