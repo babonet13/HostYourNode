@@ -68,9 +68,8 @@ Step 3 : Build Images : N/A !
 
 Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
 >>> Each Node Type (Bitcoin, Lightning & Payment) is proposed here to be implemented by a default daemon ...
-... if you want to change of daemon of a given Node Type, you must see the section < href="Run the ```lightning-node``` container from the ```lnd``` image of the ```lightninglabs``` Docker Hub repository :
-<pre><code>$ docker run -d --name=lightning-node -v /home/satoshi/.bitcoind:/root/.bitcoin lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>">Manage Stack</A>
--
+... if you want to change of daemon of a given Node Type, you must see the section <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">Manage Stack</A>
+
 __Deploy a Bitcoin Node (based on bitcoind daemon)__.   
 Pull the ```bitcoind_pkg-ubuntu_amd64``` image (last version) from the ```hostyournode``` Docker Hub repository :
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
