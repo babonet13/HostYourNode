@@ -68,10 +68,18 @@ Step 3 : Build Images : N/A !
 Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
 -
 __Deploy a Bitcoin Node (based on bitcoind daemon)__.   
-> To Be Defined
+Pull the ```bitcoind_pkg-ubuntu_amd64``` image (last version) from the ```hostyournode``` Docker Hub repository :
+<pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
+
+Run the ```bitcoind-node``` container from the ```bitcoind_pkg-ubuntu_amd64``` image :
+<pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 
 __Deploy a Lightning Node (based on LND daemon)__.   
-> To Be Defined
+Copy ```bitcoin.conf``` configuration file from the  ```bitcoin-node ``` container :
+<pre><code>$ docker cp bitcoin-node:/root/.bitcoin/bitcoin.conf /home/satoshi/.bitcoin/bitcoin.conf</code></pre> 
+
+Run the ```lightning-node``` container from the ```lnd``` image of the ```lightninglabs``` Docker Hub repository :
+<pre><code>$ docker run -d --name=lightning-node -v /etc/bitcoin/:/root/.bitcoin lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
 
 __Deploy a Payment Node (based on btcpayserver daemon)__.  
 > To Be Defined
