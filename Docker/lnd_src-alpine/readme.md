@@ -15,4 +15,4 @@ Build the final Docker image (for amd64) :
 Running Instructions
 -
 Run the ```lightning-node``` container from the ```lnd``` image of the ```lightninglabs``` Docker Hub repository :
-<pre><code>$ docker run -d --name=lightning-node -v /etc/bitcoin/:/root/.bitcoin lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
+<pre><code>$ docker run -d --name=lightning-node -v /home/satoshi/.bitcoind:/root/.bitcoin lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
