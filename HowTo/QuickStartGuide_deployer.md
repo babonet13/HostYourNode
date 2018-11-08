@@ -1,6 +1,6 @@
 # Quick Start Guide for the deployer profile
 >>> Follow those simplified steps ...   
-... and get in more detailed explanations only if needed !
+... and get in more detailed explanations only if needed !   
 See HYN-naute profiles and associated activities <A href="https://github.com/babonet13/HostYourNode/blob/master/Who/Profiles.md">here</A>
 
 Step 0 : Understand Prerequisites (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">here</A>)
@@ -72,8 +72,8 @@ __Install docker-compose__ :
 __Deploy a Bitcoin Node (based on bitcoind daemon)__ :   
 > To Be Defined
 
-__Deploy a Lighting Node (based on LND daemon)__ :   
+__Deploy a Lightning Node (based on LND daemon)__ :   
 > To Be Defined
 
-__Deploy a Lighting Node (based on btcpayserver daemon)__ :   
+__Deploy a Payment Node (based on btcpayserver daemon)__ :   
 > To Be Defined
