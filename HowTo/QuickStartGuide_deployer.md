@@ -55,25 +55,25 @@ Step 3 : Build Images : N/A !
 
 Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
 -
-__Install Docker__ :   
+__Install Docker__.    
 Install Docker thanks to usefull script and put ```satoshi``` user in the ```docker``` group :
 <pre><code>$ sudo curl -fsSL https://get.docker.com | sh ; sudo usermod -aG docker satoshi</code></pre>
 
-__Install Portainer__ :   
-Create a named volume for Portainer
+__Install Portainer__.  
+Create a ```portainer_data``` volume for Portainer :
 <pre><code>$ docker volume create portainer_data</code></pre>
 
-Run the ```portainer-node``` container based on the ```portainer/portainer``` image (on the standard HTTP Web port : 80)
+Run the ```portainer-node``` container based on the ```portainer/portainer``` image (on the standard HTTP Web port : 80) :
 <pre><code>$ docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
 
-__Install docker-compose__ :   
+__Install docker-compose__      
 > Wait and see if mandatory (for ```btcpayserver``` daemon)
 
-__Deploy a Bitcoin Node (based on bitcoind daemon)__ :   
+__Deploy a Bitcoin Node (based on bitcoind daemon)__.   
 > To Be Defined
 
-__Deploy a Lightning Node (based on LND daemon)__ :   
+__Deploy a Lightning Node (based on LND daemon)__.   
 > To Be Defined
 
-__Deploy a Payment Node (based on btcpayserver daemon)__ :   
+__Deploy a Payment Node (based on btcpayserver daemon)__.  
 > To Be Defined
