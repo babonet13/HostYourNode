@@ -55,7 +55,13 @@ Step 3 : Build Images : N/A !
 
 Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
 -
-__Install Docker__ :
+__Install Docker__ :   
 Install Docker thanks to usefull script and put ```satoshi``` user in the ```docker``` group :
 <pre><code>$ sudo curl -fsSL https://get.docker.com | sh ; sudo usermod -aG docker satoshi</code></pre>
+
 __Install Portainer__ :   
+Create a named volume for Portainer
+<pre><code>$ docker volume create portainer_data</code></pre>
+
+Run the portainer-node container based on the portainer image (on the standard Portainer port : 9000)
+<pre><code>$ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
