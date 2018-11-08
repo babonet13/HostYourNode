@@ -73,4 +73,7 @@ Run the container using the Docker image :
 <pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 <pre><code>$ docker cp bitcoin-node:/root/.bitcoin/bitcoin.conf /home/satoshi/.bitcoin/bitcoin.conf</code></pre>
 
-<pre><code>$ docker run -d --name bitcoin-node -v /home/satoshi/.bitcoin:/root/.bitcoin -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
+<pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_arm32v7:0.17.0</code></pre>
+
+Copy bitcoin.conf configuration file from the bitcoin-node container :
+<pre><code>$ docker cp bitcoin-node:/root/.bitcoin/bitcoin.conf /home/satoshi/.bitcoin/bitcoin.conf</code></pre>
