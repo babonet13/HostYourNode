@@ -64,5 +64,5 @@ Instructions (How ?) : Specific (lnd)
 Pull the Docker image from the Docker Hub repository (If not built locally) :
 <pre><code>$ docker pull lightninglabs/lnd</code></pre>
 
-Run the container using the Docker image :
-<pre><code>$ docker run -d --name=lightning-node -v /etc/bitcoin/:/root/.bitcoin lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
+Run the ```lightning-node``` container from the ```lnd``` image of the ```lightninglabs``` Docker Hub repository :
+<pre><code>$ docker run -d --name=lightning-node -v /home/satoshi/.bitcoind:/root/.bitcoin lightninglabs/lnd --bitcoin.active --bitcoin.node=bitcoind --bitcoin.mainnet</code></pre>
