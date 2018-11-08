@@ -1,10 +1,43 @@
-# Quick Start Guide for deployer profile
+# Quick Start Guide for the deployer profile
 >>> Follow those simplified steps ...   
 ... and get in more detailed explanations only if needed !
+See HYN-naute profiles and associated activities <A href="https://github.com/babonet13/HostYourNode/blob/master/Who/Profiles.md">here</A>
 
 Step 0 : Understand Prerequisites (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/0_UnderstandPrerequisites">here</A>)
 -
-> To Be Defined ...
+Mains prerequisites are :
+<table>
+    <thead>
+        <tr>
+            <th>Criteria</th>
+            <th>Requirement</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>INFO : Hard Drive Size</td>
+            <td>At least 300GB, 500GB ot 1TB is better</td>
+            <td>Coz the current size of the Bitcoin blockchain is env. 220 GB</td>
+        </tr>
+        <tr>
+            <td>HARD : CPU Power</td>
+            <td>Not really important, but ...</td>
+            <td>... the more powerfull, the quickest syncing process</td>
+        </tr>
+        <tr>
+            <td>SOFT : Linux Distro</td>
+            <td>Ubutntu/Debian based distro</td>
+            <td>If not, you will have to adapt some code ...</td>
+        </tr>
+        <tr>
+            <td>HARD : CPU Architecture</td>
+            <td>amd64</td>
+            <td>If not, you will have to (re-)build Docker images in local</td>
+        </tr>
+    </tbody>
+</table>
+
 
 Step 1 : Setup The Machine (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/1_SetupTheMachine">here</A>)
 -
