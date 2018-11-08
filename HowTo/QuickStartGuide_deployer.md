@@ -63,8 +63,8 @@ __Install Portainer__ :
 Create a named volume for Portainer
 <pre><code>$ docker volume create portainer_data</code></pre>
 
-Run the portainer-node container based on the portainer image (on the standard Portainer port : 9000)
-<pre><code>$ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
+Run the ```portainer-node``` container based on the ```portainer/portainer``` image (on the standard HTTP Web port : 80)
+<pre><code>$ docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
 
 __Install docker-compose__ :   
 > Wait and see if mandatory (for ```btcpayserver``` daemon)
