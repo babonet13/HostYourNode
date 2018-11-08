@@ -55,4 +55,7 @@ Step 3 : Build Images : N/A !
 
 Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
 -
-> To Be Defined ...
+__Install Docker__ :
+Install Docker thanks to usefull script and put ```satoshi``` user in the ```docker``` group :
+<pre><code>$ sudo curl -fsSL https://get.docker.com | sh ; sudo usermod -aG docker satoshi</code></pre>
+__Install Portainer__ :   
