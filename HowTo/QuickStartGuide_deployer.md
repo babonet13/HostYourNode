@@ -46,15 +46,6 @@ Assemble or buy a Linux-based physical machine or rent a virtual machine ...
 
 Step 2 : Install Application (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/2_InstallApplications">here</A>)
 -
-> To Be Defined ...
-
-Step 3 : Build Images : N/A !
--
-> The "deployer" profile use already built Docker images ...
-
-
-Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
--
 __Install Docker__.    
 Install Docker thanks to usefull script and put ```satoshi``` user in the ```docker``` group :
 <pre><code>$ sudo curl -fsSL https://get.docker.com | sh ; sudo usermod -aG docker satoshi</code></pre>
@@ -67,8 +58,15 @@ Run the ```portainer-node``` container based on the ```portainer/portainer``` im
 <pre><code>$ docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
 
 __Install docker-compose__.    
-> Wait and see if mandatory (for ```btcpayserver``` daemon)
+> Wait and see if mandatory (for ```btcpayserver``` daemon).
 
+Step 3 : Build Images : N/A !
+-
+> The "deployer" profile use already built Docker images ...
+
+
+Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
+-
 __Deploy a Bitcoin Node (based on bitcoind daemon)__.   
 > To Be Defined
 
