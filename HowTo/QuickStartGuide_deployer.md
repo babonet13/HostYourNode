@@ -66,7 +66,7 @@ Create a ```portainer_data``` volume for Portainer :
 Run the ```portainer-node``` container based on the ```portainer/portainer``` image (on the standard HTTP Web port : 80) :
 <pre><code>$ docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
 
-__Install docker-compose__      
+__Install docker-compose__.    
 > Wait and see if mandatory (for ```btcpayserver``` daemon)
 
 __Deploy a Bitcoin Node (based on bitcoind daemon)__.   
