@@ -65,8 +65,8 @@ Step 3 : Build Images : N/A !
 -
 > The "deployer" profile use already built Docker images ...
 
-
 Step 4 : Deploy Containers (More explanations <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/5_DeployContainers">here</A>)
+-
 >>> Each Node Type (Bitcoin, Lightning & Payment) is proposed here to be implemented by a default daemon ...
 ... if you want to change of daemon of a given Node Type, you must see the section <A href="https://github.com/babonet13/HostYourNode/tree/master/HowTo/7_ManageStack">Manage Stack</A>
 
