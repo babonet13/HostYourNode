@@ -75,7 +75,7 @@ Pull the ```bitcoind_pkg-ubuntu_amd64``` image (last version) from the ```hostyo
 <pre><code>$ docker pull hostyournode/bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 
 Run the ```bitcoind-node``` container from the ```bitcoind_pkg-ubuntu_amd64``` image :
-<pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
+<pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8332:8332 -p 8333:8333 -p 18501:18501 -p 18502:18502 bitcoind_pkg-ubuntu_amd64:0.17.0</code></pre>
 
 __Deploy a Lightning Node (based on LND daemon)__.   
 Copy ```bitcoin.conf``` configuration file from the  ```bitcoin-node ``` container :
