@@ -29,8 +29,13 @@ Built images are stored in <A href="https://hub.docker.com/u/hostyournode/">this
 
 Test (Port)
 -
+
+Verify if a given port is open (e.g. 8333) :
+<pre><code>$ nc -vz localhost 8333</code></pre
+
 Verify if a daemon is listing a given port (e.g. 8333) :
 <pre><code>$ netstat -anp | grep LISTEN | grep 8333</code></pre>
 
 Verify if a connexion is established with a given port (e.g. 8333) :
 <pre><code>$ netstat -anp | grep ESTABLISHED | grep 8333</code></pre>
+
