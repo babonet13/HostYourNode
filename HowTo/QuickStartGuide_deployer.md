@@ -63,7 +63,7 @@ __Install docker-compose__.
 
 Step 3 : Build Images : N/A !
 -
-> The "deployer" profile use already built Docker images ...
+> The "deployer" profile use already built Docker images ...   
 __Build bitcoind image__.   
 Build the final image (for amd64) :
 <pre><code>$ docker build -t bitcoind_pkg-ubuntu_amd64:0.17.0 -f https://raw.githubusercontent.com/babonet13/HostYourNode/master/Docker/bitcoind_pkg-ubuntu/Dockerfile</code></pre>
