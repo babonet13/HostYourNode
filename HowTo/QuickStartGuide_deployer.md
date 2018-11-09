@@ -17,7 +17,7 @@ Mains prerequisites are :
     </thead>
     <tbody>
         <tr>
-            <td>INFO : Hard Drive Size</td>
+            <td>HARD : Hard Drive Size</td>
             <td>At least 300GB, 500GB ot 1TB is better</td>
             <td>Coz the current size of the Bitcoin blockchain is env. 220 GB</td>
         </tr>
