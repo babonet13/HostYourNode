@@ -2,6 +2,9 @@
 See the <A href="https://github.com/lightningnetwork/lnd/tree/master/docker/lnd">original files</A> by the <A href="https://github.com/lightningnetwork">Lightning Network</A> team.   
 See documentation : https://github.com/lightningnetwork/lnd/blob/master/docs/DOCKER.md
 
+https://github.com/lightningnetwork/
+https://github.com/lightningnetwork/lnd/blob/master/Dockerfile
+
 Pulling Instructions (Optional coz automatic with build)
 -
 Pull the source Docker image  :
