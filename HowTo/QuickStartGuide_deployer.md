@@ -82,7 +82,7 @@ Copy ```bitcoin.conf``` configuration file from the  ```bitcoin-node ``` contain
 <pre><code>$ docker cp bitcoin-node:/root/.bitcoin/bitcoin.conf /home/satoshi/.bitcoin/bitcoin.conf</code></pre> 
 
 Run the ```lightning-node``` container from the ```lnd``` image of the ```lightninglabs``` Docker Hub repository :
-<pre><code>$ docker run -d --name=lightning-node -v /home/satoshi/.bitcoin:/root/.bitcoin -v /home/satoshi/.lnd:/root/.lnd -p 9735:9735 -p 10009:10009 lightninglabs/lnd --bitcoin.active --bitcoin.mainnet --bitcoin.node=bitcoind</code></pre>
+<pre><code>$ docker run -d --name=lightning-node -v /home/satoshi/.bitcoin:/root/.bitcoin -v /home/satoshi/.lnd:/root/.lnd -p 9735:9735 -p 10009:10009 lnd_src-alpine_amd64:0.5 --bitcoin.active --bitcoin.mainnet --bitcoin.node=bitcoind</code></pre>
 
 __Deploy a Payment Node (based on btcpayserver daemon)__.  
 > To Be Defined
