@@ -18,6 +18,6 @@ COPY bitcoin.conf /root/.bitcoin/bitcoin.conf
 WORKDIR /var/lib
 RUN mkdir bitcoin
 VOLUME ["/var/lib/bitcoin"]
-EXPOSE 8333
+EXPOSE 8332 8333 28332 28333
 # DAEMONIZATION
 ENTRYPOINT ["/usr/bin/bitcoind"]
