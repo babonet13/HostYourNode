@@ -46,3 +46,8 @@ Building Instructions
 -
 Build the final image (for amd64) :
 <pre><code>$ docker build -t bitcoind_bin-ubuntu_amd64:0.17.0 /HostYourNode/Docker/bitcoind_bin-ubuntu</code></pre>
+
+Running Instructions
+-
+Run the container using the ```bitcoind_bin-ubuntu_amd64``` image :
+<pre><code>$ docker run -d --name bitcoin-node -v /var/lib/bitcoin:/var/lib/bitcoin -p 8332:8332 -p 8333:8333 -p 28332:28332 -p 28333:28333 bitcoind_bin-ubuntu_amd64:0.17.0</code></pre>
