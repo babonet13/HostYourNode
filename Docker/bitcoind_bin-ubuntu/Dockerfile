@@ -1,7 +1,9 @@
 # Generate a ubuntu-based image dedicated to run bitcoind (bitcoind-bin-ubuntu)
-FROM ubuntu-bin
+FROM ubuntu
 MAINTAINER babonet13 <admin@hubject.net>
 # PREPARATION
+RUN apt-get install -y wget curl git
+RUN apt-get install -y tar coreutils
 WORKDIR /tmp
 ARG VERSION=0.17.0
 ARG FILE=bitcoin-$VERSION-x86_64-linux-gnu.tar.gz
