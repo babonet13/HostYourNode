@@ -25,7 +25,7 @@ Target Docker image specification
         </tr>
         <tr>
             <td>Installation Mode</td>
-            <td>From binaries file</td>
+            <td>From binary files</td>
         </tr>
         <tr>
             <td>Dockerfile FROM</td>
