@@ -3,7 +3,7 @@
 Building Instructions
 -
 Build the final image (for amd64) :
-<pre><code>$ docker build -t docker-bitcoin-core /HostYourNode/Docker/bitcoind_bin-ubuntu</code></pre>
+<pre><code>$ docker build -t docker-bitcoin-core /HostYourNode/Docker/docker-bitcoin-core</code></pre>
 
 Running Instructions
 -
