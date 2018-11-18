@@ -153,5 +153,6 @@ Several web sites are used by the project :
  <A href="https://github.com/bcongdon/awesome-lightning-network">awesome-lightning-network@Github</A>.  
  <A href="https://github.com/SatoshiPortal">SatoshiPortal@Github</A>.  
  <A href="https://github.com/babonet13?tab=stars">MyStarredResources@Github</A>.  
+ 
  ---
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/HostYourNode)
