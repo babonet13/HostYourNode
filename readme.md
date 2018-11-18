@@ -155,4 +155,3 @@ Several web sites are used by the project :
  <A href="https://github.com/babonet13?tab=stars">MyStarredResources@Github</A>.  
  ---
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/HostYourNode)
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?label=Fork&style=social)](https://github.com/babonet13/HostYourNode)
